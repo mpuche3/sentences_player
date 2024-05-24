@@ -6,33 +6,7 @@
 
 function get_tracks(){
     const urls = [
-        "./transcriptions/books/B002/B002C000.json",
-        "./transcriptions/books/B002/B002C001.json",
-        "./transcriptions/books/B002/B002C002.json",
-        "./transcriptions/books/B002/B002C003.json",
-        "./transcriptions/books/B002/B002C004.json",
-        "./transcriptions/books/B002/B002C005.json",
-        "./transcriptions/books/B002/B002C006.json",
-        "./transcriptions/books/B002/B002C007.json",
-        "./transcriptions/books/B002/B002C008.json",
-        "./transcriptions/books/B002/B002C009.json",
-        "./transcriptions/books/B002/B002C010.json",
-        "./transcriptions/books/B002/B002C011.json",
-        "./transcriptions/books/B002/B002C012.json",
-        "./transcriptions/books/B002/B002C013.json",
-        // "./transcriptions/books/B002/B002C014.json",
-        // "./transcriptions/books/B002/B002C015.json",
-        // "./transcriptions/books/B002/B002C016.json",
-        "./transcriptions/books/B002/B002C017.json",
-        "./transcriptions/books/B002/B002C018.json",
-        "./transcriptions/books/B002/B002C019.json",
-
-        "./transcriptions/books/B001/B001C000.json",
-        "./transcriptions/books/B001/B001C002.json",
-        "./transcriptions/books/B009/B009C007.json",
-        "./transcriptions/books/B009/B009C008.json",
-        "./transcriptions/books/B009/B009C009.json",
-        "./transcriptions/books/B009/B009C011.json",
+        "./transcriptions/books/B001/B001_C001_C004.json",
     ]
     let tracks = []
     for (const url of urls) {
@@ -53,14 +27,6 @@ const FactoryAudio = function () {
     let timeoutId_pause;
     let promisePlay;
     let status = "PAUSED";
-    
-    function changeTextColor() {
-        const button = document.querySelector('.button1');
-        button.style.color = 'grey';
-        setTimeout(() => {
-          button.style.color = 'white';
-        }, 50);
-    }
 
     function getStatus () {
         return status
