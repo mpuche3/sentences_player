@@ -7,19 +7,24 @@
   <title>Big Button Website</title>
 </head>
 <body>
-  <div> 
-    <p id = "title" display = "None" style="color:white"> <p/>
-  </div>
   <div class="container">
-    <button id = "text_here" class="button button1">o</button>
-    <div class="button-row">
-      <button class="button button2">◄</button>
-      <div class="button-col">
-        <button class="button button3">▲</button>
-        <button class="button button4">▼</button>
+    <div class="button-row-buttons">
+      <div class="button-col1">
+        <button id= "book_up" class="button bttn_up">▲</button>
+        <button id= "book_down" class="button bttn_down">▼</button>
       </div>
-      <button class="button button5">‖</button>
+      <div class="button-col1">
+        <button id= "chapter_up" class="button bttn_up">▲</button>
+        <button id= "chapter_down" class="button bttn_down">▼</button>
+      </div>
+      <div class="button-col1">
+        <button id= "sentence_up" class="button bttn_up">▲</button>
+        <button id= "sentence_down" class="button bttn_down">▼</button>
+      </div>
+      <div id=pause class="button button-col2">‖</div>
     </div>
+    <div id=title class="button button-row-title"> BxxxCxxxSxxx </div>
+    <div class="button  button-row-text"> <div class="text" id=text> text </div></div>
   </div>
   <script src = "./script.js"></script>
 </body>

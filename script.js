@@ -27,6 +27,8 @@ const FactoryAudio = function () {
     let promisePlay;
     let status = "PAUSED";
 
+    update_title(itracks)
+
     function getStatus () {
         return status
     }
@@ -34,7 +36,8 @@ const FactoryAudio = function () {
     function update_title(itracks) {
         const book_chapter = tracks[itracks]["audioFileFullPath"].split("/").slice(-1)[0].split("_")[0]
         const text = tracks[itracks]["tran"]
-        text_here.innerHTML = `${book_chapter} </br> ${text}`
+        document.querySelector("#title").innerHTML = `${book_chapter}`
+        document.querySelector("#text").innerHTML = `${text}`
     }
     
     function play() {
@@ -92,12 +95,6 @@ const FactoryAudio = function () {
         play();
     }
     
-    function playPrevious() {
-        itracks -= 1;
-        if (itracks < 0) {itracks = 0};
-        play();
-    }
-
     function nextTrack() {
         itracks += 1;
         if (itracks === tracks.length) {
@@ -114,11 +111,14 @@ const FactoryAudio = function () {
         play();
     }
 
-    document.querySelector(".button1").addEventListener("click", playNext)
-    document.querySelector(".button2").addEventListener("click", playPrevious)    
-    document.querySelector(".button3").addEventListener("click", previousTrack)
-    document.querySelector(".button4").addEventListener("click", nextTrack)
-    document.querySelector(".button5").addEventListener("click", pause_play)
+    document.querySelector("#text").addEventListener("click", playNext)
+    document.querySelector("#pause").addEventListener("click", pause_play)    
+    document.querySelector("#book_up").addEventListener("click", nextTrack)
+    document.querySelector("#book_down").addEventListener("click", previousTrack)
+    document.querySelector("#chapter_up").addEventListener("click", nextTrack)
+    document.querySelector("#chapter_down").addEventListener("click", previousTrack)
+    document.querySelector("#sentence_up").addEventListener("click", nextTrack)
+    document.querySelector("#sentence_down").addEventListener("click", previousTrack)
 
     document.onkeydown = function (event) {
         const callback = {
