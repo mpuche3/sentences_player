@@ -7,6 +7,7 @@
 function get_tracks(){
     const urls = [
         "./transcriptions/books/B001/B001_C001_C004.json",
+        "./transcriptions/books/B009/B009_C001_C009.json",
     ]
     let tracks = []
     for (const url of urls) {
@@ -95,7 +96,7 @@ const FactoryAudio = function () {
         const iBook = books.indexOf(book)
         const new_ibook = iBook + 1  !== books.length
             ? iBook + 1
-            : 0
+            : iBook
         const new_book = books[new_ibook]
         const new_itracks = map_book_itracker[new_book]
         itracks = new_itracks
@@ -109,7 +110,7 @@ const FactoryAudio = function () {
         const iBook = books.indexOf(book)
         const new_ibook = iBook - 1  !== -1
             ? iBook - 1
-            : 0
+            : iBook
         const new_book = books[new_ibook]
         const new_itracks = map_book_itracker[new_book]
         itracks = new_itracks
