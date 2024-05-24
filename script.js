@@ -20,9 +20,8 @@ function get_tracks(){
 
 const FactoryAudio = function () {
     const tracks = get_tracks()
+    let itracks = 0
     let audio = document.createElement('audio'); 
-    let itracks = 0;
-    let iCurrentTimes = -1;
     let timeoutId_play;
     let timeoutId_pause;
     let promisePlay;
@@ -32,47 +31,42 @@ const FactoryAudio = function () {
         return status
     }
 
-    function update_title(iCurrentTimes) {
-        const i = iCurrentTimes
-        const str_i = String(i).padStart(3, '0')
-        const book_chapter = tracks[itracks]["audioFileFullPath"].split("/").slice(-1)[0].split("_")[0] + "S" + str_i
-        const text = tracks[itracks]["currentTimes"][i]["tran"]
-        const currentTime = tracks[itracks]["currentTimes"][i]["ms"]
-        const nextTime = tracks[itracks]["currentTimes"][i + 1]["ms"]
-        const duration = nextTime - currentTime
-        const line_2 = "" +  `${currentTime.toFixed(3).padStart(7, '0')} [${duration.toFixed(3).padStart(7, '0')}]`
-        const title = document.querySelector("body > div.container > button");
-        title.innerHTML = `${book_chapter} </br> ${line_2} </br> </br> ${text}`
+    function update_title(itracks) {
+        const book_chapter = tracks[itracks]["audioFileFullPath"].split("/").slice(-1)[0].split("_")[0]
+        const text = tracks[itracks]["tran"]
+        text_here.innerHTML = `${book_chapter} </br> ${text}`
     }
     
     function play() {
         const playbackRate = 0.8
-        const additionalTimeintheloop = 500
+        // const additionalTimeintheloop = 500
         const audioFileFullPath = tracks[itracks]["audioFileFullPath"];
-        const currentTime = tracks[itracks]["currentTimes"][iCurrentTimes]["ms"];
-        const nextTime = tracks[itracks]["currentTimes"][iCurrentTimes + 1]["ms"];
-        const duration = nextTime - currentTime;
-        clearTimeout(timeoutId_pause);
-        clearTimeout(timeoutId_play);
-        update_title(iCurrentTimes);
+        // clearTimeout(timeoutId_pause);
+        // clearTimeout(timeoutId_play);
+        update_title(itracks);
         // WTF: 
         // If audio.scr is set after audio.currentTime, 
         // then audio.currentTime will be set to zero.
         audio.src = audioFileFullPath;
-        audio.currentTime = currentTime;
         audio.playbackRate = playbackRate;
         audio.pause();
+        audio.loop = true;
         promisePlay = audio.play();
         status = "PLAYING";
-        timeoutId_pause = setTimeout(_ => {
-            promisePlay.then(_ => {
-                audio.pause();
-            });
-        }, duration * 1000 * (1 / playbackRate))
-        timeoutId_play = setTimeout(_ => {
-            // changeTextColor()
-            play();
-        }, duration * 1000 * (1 / playbackRate) + additionalTimeintheloop);
+        // timeoutId_pause = setTimeout(_ => {
+        //     promisePlay.then(_ => {
+        //         audio.pause();
+        //     });
+        // }, duration * 1000 * (1 / playbackRate))
+        // timeoutId_play = setTimeout(_ => {
+        //     play();
+        // }, duration * 1000 * (1 / playbackRate) + additionalTimeintheloop);
+        audio.onended = function() {
+            // Code to be executed after the audio has finished playing
+            console.log('Audio has finished playing');
+            // Call another function here
+            // anotherFunction();
+        };
     }
 
     function pause_play() {
@@ -91,31 +85,32 @@ const FactoryAudio = function () {
 
     function playNext() {
         console.log("NEXT")
-        iCurrentTimes += 1;        
-        if (iCurrentTimes === tracks[itracks]["currentTimes"].length - 1) {
-            nextTrack()
-        };
-
+        itracks += 1;
+        if (itracks === tracks.length) {
+            itracks = 0
+        };   
         play();
     }
     
     function playPrevious() {
-        iCurrentTimes -= 1;
-        if (iCurrentTimes < 0) {iCurrentTimes = 0};
+        itracks -= 1;
+        if (itracks < 0) {itracks = 0};
         play();
     }
 
     function nextTrack() {
-        iCurrentTimes = 0;
         itracks += 1;
-        if (itracks === tracks.length) {itracks = 0};
+        if (itracks === tracks.length) {
+            itracks = 0
+        };
         play();
     }
 
     function previousTrack() {
-        iCurrentTimes = 0;
         itracks -= 1;
-        if (itracks < 0) {itracks = 0};
+        if (itracks < 0) {
+            itracks = 0
+        };
         play();
     }
 
@@ -136,7 +131,7 @@ const FactoryAudio = function () {
         callback[event.key]()
     }
     
-    return {audio, playPrevious, playNext, pause_play, play, getStatus, nextTrack, previousTrack}
+    return {audio, playPrevious, playNext, pause_play, play, getStatus, nextTrack, previousTrack, tracks, }
 }
 
 const mpa = FactoryAudio()
