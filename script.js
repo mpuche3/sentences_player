@@ -244,6 +244,9 @@ const FactoryAudio = function () {
     document.querySelector("#sentence_up").addEventListener("click", sentence_up)
     document.querySelector("#sentence_down").addEventListener("click", sentence_down)
     
+    document.addEventListener('keydown', function(event) {
+        if (event.key === 'Enter') {sentence_up();}
+    });
 
     pause_play()
 
