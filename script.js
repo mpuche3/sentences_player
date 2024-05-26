@@ -4,20 +4,73 @@
 // git status
 // clear
 
+function* enumerate(iterable) {
+    let index = 0;
+    for (const item of iterable) {
+      yield [index, item];
+      index++;
+    }
+}
+
+function get_text(url){
+    const xhr = new XMLHttpRequest();
+    xhr.open("GET", url, false);
+    xhr.send();
+    text = xhr.responseText;
+    return text
+}
+
+function get_tracks_from_json(url) {
+    const text = get_text(url)
+    const tracks = JSON.parse(text);
+    return tracks
+}
+
+function get_tracks_from_text(url) {
+    tracks = []
+    const text = get_text(url)
+    const sentences = text.replaceAll("\n\n", "\n").split("\n")
+    let book = ""
+    let chapter = ""
+    let first_index_book = 0    
+    for (const [index, sentence] of enumerate(sentences)){
+        if (sentence.trim() !== ""){
+            if(sentence.slice(0, 2) === "B0") {
+                book = sentence.slice(0, 4)
+                chapter = sentence.slice(4, 8)
+                first_index_book = index              
+            }
+            const sentence_ = `S${Math.floor(index - first_index_book).toString().padStart(3, '0')}`
+            const audioFileFullPath =  `./audio/books/${book}/${book}${chapter}${sentence_}_echo.mp3`
+            tracks.push({
+                "audioFileFullPath": audioFileFullPath,
+                "tran": sentence,
+            })
+        }
+    }
+    return tracks
+}
+
 function get_tracks(){
     const urls = [
         "./transcriptions/books/B001/B001_C001_C004.json",
         "./transcriptions/books/B009/B009_C001_C009.json",
+        "./transcriptions/books/B009/B009_C010_C020.txt",
     ]
     let tracks = []
     for (const url of urls) {
-        const xhr = new XMLHttpRequest();
-        xhr.open("GET", url, false);
-        xhr.send();
-        tracks = tracks.concat(JSON.parse(xhr.responseText));
+        if (url.slice(-5, undefined) === ".json") {
+            const new_tracks = get_tracks_from_json(url)
+            tracks = tracks.concat(new_tracks)
+        } else {
+            const new_tracks = get_tracks_from_text(url)
+            tracks = tracks.concat(new_tracks)
+        }
     }
     return tracks
 }
+
+console.log(get_tracks())
 
 function get_maps_itracker(tracks){
     const map_book_itracker = {}
@@ -52,10 +105,19 @@ const FactoryAudio = function () {
 
     let itracks = 0
     let audio = document.createElement('audio'); 
-    let promisePlay;
-    let status = "PAUSED";
+    // let promisePlay;
+    // let status = "PAUSED";
 
     update_title(itracks)
+
+    function playAudio() { 
+        audio.addEventListener('ended', function() {
+            setTimeout(() => {
+                audio.play();
+            }, 600);
+        });
+        audio.play();
+    }
 
     function update_title(itracks) {
         const book_chapter = tracks[itracks]["audioFileFullPath"].split("/").slice(-1)[0].split("_")[0]
@@ -71,9 +133,10 @@ const FactoryAudio = function () {
         audio.src = audioFileFullPath;
         audio.playbackRate = playbackRate;
         audio.pause();
-        audio.loop = true;
-        promisePlay = audio.play();
-        status = "PLAYING";
+        // audio.loop = true;
+        // promisePlay = audio.play();
+        // status = "PLAYING";
+        playAudio()
     }
 
     function pause_play() {
