@@ -54,6 +54,7 @@ function get_tracks_from_text(url) {
 function get_tracks(){
     const urls = [
         "./transcriptions/books/B001/B001_C001_C004.json",
+        "./transcriptions/books/B002/B002_C001_C040.txt",
         "./transcriptions/books/B009/B009_C001_C009.json",
         "./transcriptions/books/B009/B009_C010_C020.txt",
     ]

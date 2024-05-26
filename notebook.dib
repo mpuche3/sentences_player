@@ -1,0 +1,156 @@
+{
+ "cells": [
+  {
+   "cell_type": "code",
+   "execution_count": 7,
+   "metadata": {
+    "dotnet_interactive": {
+     "language": "javascript"
+    },
+    "polyglot_notebook": {
+     "kernelName": "javascript"
+    },
+    "vscode": {
+     "languageId": "polyglot-notebook"
+    }
+   },
+   "outputs": [],
+   "source": [
+    "a = \"This is a text\""
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 15,
+   "metadata": {
+    "dotnet_interactive": {
+     "language": "javascript"
+    },
+    "polyglot_notebook": {
+     "kernelName": "javascript"
+    },
+    "vscode": {
+     "languageId": "polyglot-notebook"
+    }
+   },
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "This is a text"
+      ]
+     },
+     "metadata": {},
+     "output_type": "display_data"
+    }
+   ],
+   "source": [
+    "console.log(a)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 11,
+   "metadata": {
+    "dotnet_interactive": {
+     "language": "javascript"
+    },
+    "polyglot_notebook": {
+     "kernelName": "javascript"
+    },
+    "vscode": {
+     "languageId": "polyglot-notebook"
+    }
+   },
+   "outputs": [],
+   "source": [
+    "const b = 1345\n",
+    "\n"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 18,
+   "metadata": {
+    "dotnet_interactive": {
+     "language": "javascript"
+    },
+    "polyglot_notebook": {
+     "kernelName": "javascript"
+    },
+    "vscode": {
+     "languageId": "polyglot-notebook"
+    }
+   },
+   "outputs": [
+    {
+     "ename": "Error",
+     "evalue": "Module name \"fs\" has not been loaded yet for context: _. Use require([])\nhttps://requirejs.org/docs/errors.html#notloaded",
+     "output_type": "error",
+     "traceback": [
+      "Module name \"fs\" has not been loaded yet for context: _. Use require([])\n",
+      "https://requirejs.org/docs/errors.html#notloaded"
+     ]
+    }
+   ],
+   "source": [
+    "// Import the required modules\n",
+    "const fs = await require('fs');\n",
+    "const path = await require('path');\n",
+    "\n",
+    "// Specify the file path relative to the notebook file\n",
+    "const filePath = path.join(__dirname, 'example.txt');\n",
+    "\n",
+    "// Read the file contents\n",
+    "fs.readFile(filePath, 'utf8', (err, data) => {\n",
+    "  if (err) {\n",
+    "    console.error('Error reading file:', err);\n",
+    "    return;\n",
+    "  }\n",
+    "\n",
+    "  console.log('File contents:', data);\n",
+    "});"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {
+    "dotnet_interactive": {
+     "language": "javascript"
+    },
+    "polyglot_notebook": {
+     "kernelName": "javascript"
+    },
+    "vscode": {
+     "languageId": "polyglot-notebook"
+    }
+   },
+   "outputs": [],
+   "source": []
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": ".NET (C#)",
+   "language": "C#",
+   "name": ".net-csharp"
+  },
+  "language_info": {
+   "name": "csharp"
+  },
+  "polyglot_notebook": {
+   "kernelInfo": {
+    "defaultKernelName": "csharp",
+    "items": [
+     {
+      "aliases": [],
+      "name": "csharp"
+     }
+    ]
+   }
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 2
+}

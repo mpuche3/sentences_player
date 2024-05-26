@@ -1,0 +1,1096 @@
+B002C002: məʃín lɜ́rnᵻŋ. 
+məʃín lɜ́rnᵻŋ, ə sʌ́bsɛ̀t əv ɑ̀rtᵻfᵻ̀ʃəl ᵻ̀ntɛ́lᵻʤəns, həz ɡɑ́rnərd sᵻɡnᵻ̀fᵻkənt ətɛ́nʃən djú tə ᵻts vǽst kèɪpəbᵻ̀lᵻtiz ənd æ̀plᵻkéɪʃənz. 
+ðᵻs ʧǽptər prɛ́zənts ən óʊvərvjù əv məʃín lɜ́rnᵻŋ, éɪmᵻŋ tə ʃɛ́d láɪt ɒn ᵻts faʊndéɪʃənəl prᵻ̀nsᵻpəlz, práɪmɛ̀ri táɪps, ənd brɔ́d jutᵻ̀lᵻti. 
+æt ᵻts kɔ́r, məʃín lɜ́rnᵻŋ ᵻz ə kɒ̀mpjutéɪʃənəl mɛ̀θədɒ́ləʤi thət əláʊz ə məʃín tə ᵻ̀mprúv ᵻts pərfɔ́rməns ɔr méɪk ǽkjərət prədᵻ̀kʃənz baɪ lɜ́rnᵻŋ frəm déɪtə. 
+ᵻt ᵻz ə prɒ́sɛ̀s wɛ́r ǽlɡərᵻ̀ðəmz ǽnəlàɪz déɪtə, lɜ́rn frəm ðə pǽtərnz ənd ᵻ̀nfərméɪʃən ðɛrᵻ̀n, ənd jus|juz thət əkwáɪərd nɒ́lᵻʤ tə méɪk dəsᵻ̀ʒənz ɔr prədᵻ̀kʃənz, wᵻðáʊt bíᵻŋ əksplᵻ̀sᵻtli próʊɡræ̀md tə pərfɔ́rm ðə tǽsk. 
+wʌ́n əv ðə krᵻ̀tᵻkəl ǽspɛ̀kts əv məʃín lɜ́rnᵻŋ ᵻz ðə ʌ̀ndərstǽndᵻŋ əv ᵻts táɪps: súpərvàɪzd lɜ́rnᵻŋ, ʌ̀nsúpərvàɪzd lɜ́rnᵻŋ, ənd rìᵻnfɔ́rsmənt lɜ́rnᵻŋ. 
+iʧ əv ðiz táɪps brᵻ̀ŋz ə junᵻ̀k əpróʊʧ tə lɜ́rnᵻŋ ənd həz spəsᵻ̀fᵻk æ̀plᵻkéɪʃənz. 
+súpərvàɪzd lɜ́rnᵻŋ ᵻz ə lɜ́rnᵻŋ prɒ́sɛ̀s wɛ́r ən ǽlɡərᵻ̀ðəm lɜ́rnz frəm léɪbəld déɪtə. 
+ᵻn ʌ́ðər wɜ́rdz, ðə déɪtə prəváɪdᵻd tə ðə ǽlɡərᵻ̀ðəm ᵻ̀nklúdz bóʊθ ðə ᵻ̀npʊ̀ts ənd ðə dəzáɪərd áʊtpʊ̀ts. 
+tú kí kǽtəɡɔ̀riz əv prɒ́bləmz sɒ́lvd baɪ súpərvàɪzd lɜ́rnᵻŋ ɑr rəɡrɛ́ʃən ənd klæ̀sᵻfᵻkéɪʃən prɒ́bləmz. 
+ᵻn rəɡrɛ́ʃən prɒ́bləmz, ðə áʊtpʊ̀t ᵻz ə kəntᵻ̀njuəs vǽlju, sʌʧ æz prədᵻ̀ktᵻŋ ðə práɪs əv ə haʊs|haʊz. 
+ᵻn kɒ́ntrɒst|kəntrǽst, ᵻn klæ̀sᵻfᵻkéɪʃən prɒ́bləmz, ðə áʊtpʊ̀t ᵻz ə dᵻskrít vǽlju, láɪk dətɜ́rmᵻnᵻŋ wɛ́ðər ən ímeɪl ᵻz spǽm ɔr nɒt. 
+ʌ̀nsúpərvàɪzd lɜ́rnᵻŋ, ᵻn kɒ́ntrɒst|kəntrǽst, ᵻ̀nvɒ́lvz tréɪnᵻŋ ən ǽlɡərᵻ̀ðəm wᵻð déɪtə thət ᵻz nᵻ̀ðər klǽsᵻfàɪd nɔ́r léɪbəld, əláʊᵻŋ ðə mɒ́dəl tə ǽkt ɒn ðə ᵻ̀nfərméɪʃən wᵻðáʊt ɡáɪdəns. 
+ðə ǽlɡərᵻ̀ðəm klʌ́stərz ðə ᵻ̀npʊ̀t déɪtə béɪst ɒn sᵻ̀mᵻlɛ́rᵻtiz ənd dᵻ̀fərənsᵻz ívᵻn wɛ́n ðɛ́rz noʊ nóʊn áʊtpʊ̀t. 
+ʌ̀nsúpərvàɪzd lɜ́rnᵻŋ fáɪndz əkstɛ́nsᵻv jus|juz ᵻn ənɒ́məli dᵻtɛ́kʃən, dᵻmɛ̀nʃənǽlᵻti rədʌ́kʃən, ənd klʌ́stərᵻŋ, əmʌ́ŋ ʌ́ðər ɛ́riəz. 
+rìᵻnfɔ́rsmənt lɜ́rnᵻŋ ᵻz ə dᵻ̀fərənt táɪp əv məʃín lɜ́rnᵻŋ wɛ́r ən éɪʤənt lɜ́rnz tə bᵻhéɪv ᵻn ən ənváɪrənmənt baɪ pərfɔ́rmᵻŋ ǽkʃənz ənd əbzɜ́rvᵻŋ ðə rəzʌ́lts. 
+ᵻt fóʊkəsᵻz ɒn ðə ᵻ̀ntərǽkʃən bitwín ən éɪʤənt ənd ᵻts ənváɪrənmənt, wɛ́r ðə éɪʤənt téɪks ǽkʃənz, ənd ðə ənváɪrənmənt prəváɪdz fídbæ̀k ᵻn ðə fɔ́rm əv rəwɔ́rdz ɔr pɛ́nəltiz. 
+ðə prǽktᵻs əv məʃín lɜ́rnᵻŋ ɔ́lsoʊ ᵻ̀nvɒ́lvz ən əsɔ́rtmənt əv mɛ́θədz ənd tɛkníks tə ɒ́ptᵻmàɪz mɒ́dəl pərfɔ́rməns, sʌʧ æz nɔ̀rməlᵻzéɪʃən, rèɡjəlɛ̀rᵻzéɪʃən, lɔ́s fʌ́ŋkʃənz, ɡréɪdiənt dᵻsɛ́nt, pərfɔ́rməns mɛ́ʒərmənt, ənd ʌ́ðərz. 
+fɜ́rðərmɔ̀r, məʃín lɜ́rnᵻŋ ɔ́lsoʊ júsᵻz dᵻ̀fərənt mɒ́dəlz, sʌʧ æz lᵻ̀niər rəɡrɛ́ʃən, nʊ́rəl nɛ́twɜ̀rks, dəsᵻ̀ʒən tríz, səpɔ́rt vɛ́ktər məʃínz, ənd ʌ́ðərz, iʧ wᵻð junᵻ̀k prɒ́pərtiz ənd æ̀plᵻkéɪʃənz. 
+dᵻspáɪt ᵻts páʊərfəl kèɪpəbᵻ̀lᵻtiz, məʃín lɜ́rnᵻŋ ᵻz nɒt wᵻðáʊt ʧǽlənʤᵻz. 
+òʊvərfᵻ̀tᵻŋ, ʌ̀ndərfᵻ̀tᵻŋ, ðə kɜ́rs əv dᵻmɛ̀nʃənǽlᵻti, klǽs ᵻmbǽləns, ɛ̀ndəʊʤɛnéɪᵻti, ənd mʌ̀ltikəlᵻ̀niǽrᵻti ɑr əmʌ́ŋ ðə ɒ́bstəkəlz féɪst baɪ præktᵻ̀ʃənərz ᵻn ðᵻs fíld. 
+ᵻn kənklúʒən, məʃín lɜ́rnᵻŋ, djú tə ᵻts əbᵻ̀lᵻti tə lɜ́rn frəm déɪtə ənd méɪk prədᵻ̀kʃənz ɔr dəsᵻ̀ʒənz, həz sᵻɡnᵻ̀fᵻkəntli trænsfɔ́rmd númərəs ᵻ̀ndəstriz ənd fíldz, ᵻ̀nklúdᵻŋ hɛ́lθkɛ̀r, fáɪnæ̀ns, træ̀nspərtéɪʃən, ənd mɔr. 
+ᵻts ᵻ̀nfluəns spǽnz frəm rɛ́kəɡnàɪzᵻŋ spíʧ ənd féɪsᵻz, rɛ̀kəmɛ́ndᵻŋ prɒ́dəkts ᵻn e-kɒ́mərs, tə ívᵻn dráɪvᵻŋ ɔtɒ́nəməs víhᵻkəlz, méɪkᵻŋ ᵻt ə proʊfáʊnd tɛ̀knəlɒ́ʤᵻkəl ədvǽnsmənt əv aʊər ɛ́rə. 
+θruáʊt ðə rɛ́st əv ðᵻs bʊ́k, iʧ ʧǽptər wᵻl dɛ́lv dípər ᵻntu ðə kɒ́nsɛpts brífli mɛ́nʃənd hír, éɪmᵻŋ tə əkwᵻ̀p ju wᵻð ðə nɒ́lᵻʤ ənd skᵻ̀lz nɛ́səsɛ̀ri tə ʌ̀ndərstǽnd ənd əpláɪ məʃín lɜ́rnᵻŋ. 
+ju wᵻl ɡéɪn ə kɒ̀mprəhɛ́nsᵻv ʌ̀ndərstǽndᵻŋ əv ᵻts daɪvɜ́rs táɪps, mɛ̀θoʊdɒ́ləʤiz, ʧǽlənʤᵻz, ənd pətɛ́nʃəl səlúʃənz. 
+
+B002C003: súpərvàɪzd lɜ́rnᵻŋ. 
+súpərvàɪzd lɜ́rnᵻŋ, ə fʌ̀ndəmɛ́ntəl pᵻ̀lər əv məʃín lɜ́rnᵻŋ, stǽndz æz ə mɛ̀θədɒ́ləʤi bᵻ̀lt əpɒ́n ðə jus|juz əv léɪbəld déɪtə fɔr tréɪnᵻŋ pɜ́rpəsᵻz. 
+léɪbəld déɪtə, ᵻn ðᵻs kɒ́ntɛkst, rəfɜ́rz tə ə déɪtəsɛ̀t ᵻn wᵻ̀ʧ iʧ ɛ́ntri kəntéɪnz ən ᵻ̀npʊ̀t fíʧər vɛ́ktər ənd ə kɔ̀rəspɒ́ndᵻŋ tɑ́rɡət ɔr áʊtpʊ̀t vǽlju. 
+ðə óʊvərɑ̀rʧᵻŋ ɡóʊl əv súpərvàɪzd lɜ́rnᵻŋ ᵻz tə dᵻzáɪn ənd ᵻ̀mpləmənt ǽlɡərᵻ̀ðəmz kéɪpəbəl əv lɜ́rnᵻŋ frəm ðiz ᵻ̀npʊ̀t-áʊtpʊ̀t pɛ́rz ənd prədᵻ̀kt ðə kərɛ́kt áʊtpʊ̀t fɔr nu, ʌ̀nsín ᵻ̀npʊ̀t déɪtə. 
+dɛ́lvᵻŋ ᵻntu ðə kɔ́r, súpərvàɪzd lɜ́rnᵻŋ éɪmz tə kɒ́nstrəkt ən ɛ́stᵻmèɪtər f sʌʧ thət ᵻt prədúsᵻz ə prədᵻ̀ktᵻd áʊtpʊ̀t Y ɡᵻ̀vən ən ᵻ̀npʊ̀t vɛ́ktər X, ðʌs sᵻ̀ɡnᵻfàɪᵻŋ ə fʌ́ŋkʃənəl rəléɪʃən Y=f(X). 
+ðᵻs fʌ́ŋkʃənəl rəléɪʃənʃᵻ̀p ᵻz dəráɪvd frəm lɜ́rnᵻŋ frəm ðə léɪbəld tréɪnᵻŋ sɛ́t, wᵻ̀ʧ fɔ́rmz ðə kɔ́rnərstòʊn əv ðə súpərvàɪzd lɜ́rnᵻŋ pɛ́rədàɪm. 
+æt ðə hɑ́rt əv ðᵻs lɜ́rnᵻŋ prɒ́sɛ̀s láɪz ðə mɛ́θəd əv mᵻ̀nᵻmàɪzᵻŋ ə sóʊkɔ́ld "lɔ́s fʌ́ŋkʃən". 
+ðᵻs fʌ́ŋkʃən kwɒ́ntᵻfaɪz ðə dᵻ̀fərəns bitwín ðə ǽkʧəl áʊtpʊ̀t (frəm ðə tréɪnᵻŋ déɪtə) ənd ðə prədᵻ̀ktᵻd áʊtpʊ̀t fɔr iʧ ᵻ̀nstəns ᵻn ðə déɪtə sɛ́t. 
+ǽlɡərᵻ̀ðəmz wᵻl ᵻ̀tərətᵻvli twík ðə mɒ́dəlz pərǽmətərz tə rədjús ðə óʊvərɔ̀l lɔ́s, əʧívᵻŋ ən ɒ́ptᵻməl stéɪt wɛ́r ðə mɒ́dəl kən ʤɛ́nərəlàɪz wɛ́l frəm tréɪnᵻŋ déɪtə tə ʌ̀nsín déɪtə. 
+súpərvàɪzd lɜ́rnᵻŋ sɛ́grəɡeɪts ᵻ̀tsɛ́lf ᵻntu tú méɪʤər kǽtəɡɔ̀riz - rəɡrɛ́ʃən ənd klæ̀sᵻfᵻkéɪʃən, béɪst ɒn ðə táɪp əv tɑ́rɡət vɛ́riəbəl. 
+rəɡrɛ́ʃən kənsɜ́rnz ᵻ̀tsɛ́lf wᵻð ðə prədᵻ̀kʃən əv kəntᵻ̀njuəs numɛ́rəkəl vǽljuz. 
+əɡzǽmpəlz réɪnʤ frəm prədᵻ̀ktᵻŋ háʊzᵻŋ práɪsᵻz tə fɔ́rkæ̀stᵻŋ stɒ́k práɪsᵻz. 
+ðə pɜ́rpəs əv ə rəɡrɛ́ʃən prɒ́bləm, hɛ́ns, láɪz ᵻn prədᵻ̀ktᵻŋ ə kwɒ́ntᵻti. 
+klæ̀sᵻfᵻkéɪʃən, ɒn ðə ʌ́ðər hǽnd, dílz wᵻð prədᵻ̀ktᵻŋ dᵻskrít klǽs léɪbəlz ɔr kǽtəɡɔ̀riz. 
+ðᵻs mɛ́θəd ᵻz lɛ́vərᵻʤd fɔr ímeɪl spǽm dᵻtɛ́kʃən, kʌ́stəmər ʧɜ́rn prədᵻ̀kʃən, ənd ᵻ̀mᵻʤ rɛ̀kəɡnᵻ̀ʃən, əmʌ́ŋ ʌ́ðərz. 
+klæ̀sᵻfᵻkéɪʃən tǽsks, ðɛ́rfɔ̀r, praɪmɛ́rᵻli rivɒ́lv əráʊnd aɪdɛ́ntᵻfàɪᵻŋ ðə kǽtəɡɔ̀ri ɔr klǽs əv ən ɒ̀bzərvéɪʃən. 
+súpərvàɪzd lɜ́rnᵻŋ dəmǽndz ə mətᵻ̀kjələs déɪtə prɛ̀pəréɪʃən prɒ́sɛ̀s. 
+háɪ-kwɒ́lᵻti, wɛ́l-léɪbəld déɪtə, frí frəm ᵻ̀rɛ́ləvənt nɔ́ɪz, ɡréɪtli éɪdz ðə lɜ́rnᵻŋ prɒ́sɛ̀s. 
+hàʊɛ́vər, əbtéɪnᵻŋ ðᵻs déɪtə kən bi ə kɒ́stli əfɛ́r, bóʊθ ᵻn tɜ́rmz əv táɪm ənd rísɔrsᵻz. 
+léɪbəlᵻŋ vǽst kwɒ́ntᵻtiz əv déɪtə ɔ́fən rəkwáɪərz hjúmən ɛ́kspərts, ənd ᵻn kéɪsᵻz wɛ́r ðᵻs ᵻzənt fízəbəl, kɒ́mprəmàɪzᵻz mʌst bi méɪd ᵻn tɜ́rmz əv déɪtə kwɒ́lᵻti ɔr kwɒ́ntᵻti. 
+mɒ́dəl səlɛ́kʃən, ɔr mɔr spəsᵻ̀fᵻkli, ðə ʧɔ́ɪs əv mɒ́dəl kəmplɛ́ksᵻti, ᵻz ənʌ́ðər pᵻ̀vətəl fǽsət əv súpərvàɪzd lɜ́rnᵻŋ. 
+mɒ́dəlz wᵻð háɪ kəmplɛ́ksᵻti kən fᵻ̀t ðə tréɪnᵻŋ déɪtə bɛ́tər bʌt ɑr æt rᵻ̀sk əv òʊvərfᵻ̀tᵻŋ, ə sᵻ̀ʧuéɪʃən wɛ́r ðə mɒ́dəl lɜ́rnz nɔ́ɪz frəm ðə tréɪnᵻŋ déɪtə ənd pərfɔ́rmz pɔ́rli ɒn ʌ̀nsín déɪtə. 
+kɒ́nvərsli, mɒ́dəlz wᵻð lóʊ kəmplɛ́ksᵻti rᵻ̀sk ʌ̀ndərfᵻ̀tᵻŋ, ə sᵻ̀ʧuéɪʃən wɛ́r ðə mɒ́dəl ᵻz ənéɪbəl tə lɜ́rn ðə ʌ̀ndərláɪᵻŋ pǽtərnz ᵻn ðə déɪtə. 
+wáɪl ðə fíld əv súpərvàɪzd lɜ́rnᵻŋ bóʊsts əv ə mʌ́ltᵻtùd əv mɛ́θədz, ᵻ̀nklúdᵻŋ lᵻ̀niər rəɡrɛ́ʃən, dəsᵻ̀ʒən tríz, səpɔ́rt vɛ́ktər məʃínz, nʊ́rəl nɛ́twɜ̀rks, ənd mɔr, iʧ mɛ́θəd kʌ́mz wᵻð ᵻts junᵻ̀k strɛ́ŋkθs, wíknəsᵻz, ənd əsʌ́mpʃənz əbaʊt ðə déɪtə. 
+ᵻt ᵻz ðiz kæ̀rəktərᵻ̀stᵻks thət ɡáɪd ðə ʧɔ́ɪs əv ə pɑ̀rtᵻ̀kjələr ǽlɡərᵻ̀ðəm fɔr ə ɡᵻ̀vən prɒ́bləm. 
+əvæ̀ljuéɪʃən əv súpərvàɪzd lɜ́rnᵻŋ mɒ́dəlz ᵻz ɔ́fən əkɒ́mplᵻʃt váɪə pərfɔ́rməns mɛ́trᵻks sʌʧ æz ǽkjərəsi, prəsᵻ̀ʒən, ríkɔ̀l, F1-score fɔr klæ̀sᵻfᵻkéɪʃən, ənd mín skwɛ́rd ɛ́rər, mín ǽbsəlùt ɛ́rər, r-skwɛ́rd fɔr rəɡrɛ́ʃən tǽsks. 
+jɛt, kɛ́r mʌst bi téɪkən ᵻn ᵻ̀ntərprɛ̀tᵻŋ ðiz mɛ́trᵻks æz ðeɪ dú nɒt jùnᵻvɜ́rsəli əpláɪ tə ɔl prɒ́bləm doʊméɪnz ɔr déɪtəsɛ̀ts. 
+súpərvàɪzd lɜ́rnᵻŋ, wᵻð ᵻts wɛ́l-dəfáɪnd pɛ́rədàɪmz, ɔ́fərz ə klɪ́rkʌ̀t weɪ tə mɒ́dəl ənd sɒ́lv prədᵻ̀ktᵻv prɒ́bləmz júzᵻŋ léɪbəld déɪtə. 
+hàʊɛ́vər, æz wᵻð ɔl məʃín lɜ́rnᵻŋ mɛ́θədz, kɛ́rfəl θɔ́t mʌst bi ɡᵻ̀vən tə déɪtə kwɒ́lᵻti, mɒ́dəl səlɛ́kʃən, ənd əvæ̀ljuéɪʃən mɛ́θədz tə ənʃʊ́r roʊbʌ́st, rəláɪəbəl prədᵻ̀ktᵻv mɒ́dəlz. 
+
+B002C004: súpərvàɪzd lɜ́rnᵻŋ - rəɡrɛ́ʃən. 
+rəɡrɛ́ʃən ᵻz wʌ́n əv ðə sɛ́ntrəl ǽspɛ̀kts əv súpərvàɪzd lɜ́rnᵻŋ, praɪmɛ́rᵻli dᵻzáɪnd tə prədᵻ̀kt kəntᵻ̀njuəs áʊtkʌ̀mz. 
+wᵻð rúts ᵻn stətᵻ̀stᵻkəl mɒ́dəlᵻ̀ŋ, rəɡrɛ́ʃən ǽlɡərᵻ̀ðəmz ᵻn súpərvàɪzd lɜ́rnᵻŋ éɪm tə prədᵻ̀kt ə dəpɛ́ndənt vɛ́riəbəl béɪst ɒn wʌ́n ɔr mɔr ᵻ̀ndəpɛ́ndənt vɛ́riəbəlz, ʌ́ðərwàɪz nóʊn æz fíʧərz. 
+ᵻn ɛ́səns, rəɡrɛ́ʃən ənǽlᵻsᵻs ətɛ́mpts tə mǽp ðə rəléɪʃənʃᵻ̀p bitwín ðiz fíʧərz ənd ðə tɑ́rɡət, ɔ́fən əksprɛ́st æz ə mæ̀θəmǽtᵻkəl fʌ́ŋkʃən. 
+ᵻt lɛ́vərᵻʤᵻz ðᵻs rəléɪʃənʃᵻ̀p tə prədᵻ̀kt kəntᵻ̀njuəs-vǽljud áʊtkʌ̀mz, sʌʧ æz prədᵻ̀ktᵻŋ háʊzᵻŋ práɪsᵻz béɪst ɒn fǽktərz láɪk loʊkéɪʃən, sáɪz, ənd əmɛ́nᵻtiz, ɔr fɔ́rkæ̀stᵻŋ séɪlz béɪst ɒn hᵻstɔ́rᵻkəl déɪtə ənd mɑ́rkət trɛ́ndz. 
+ðə sᵻmplᵻ̀sᵻti ənd ᵻntərprɛtəbᵻ̀lᵻti əv lᵻ̀niər rəɡrɛ́ʃən, wʌ́n əv ðə ɜ́rliəst ənd móʊst wáɪdli júzd rəɡrɛ́ʃən tɛkníks, lɛ́nd ᵻt ɛndjʊ́rᵻŋ pɒ̀pjəlɛ́rᵻti. 
+lᵻ̀niər rəɡrɛ́ʃən əsúmz ə lᵻ̀niər rəléɪʃənʃᵻ̀p bitwín ðə fíʧərz ənd ðə tɑ́rɡət vɛ́riəbəl, əksprɛ́st æz Y = mx + c, wɛ́r m ᵻz ðə slóʊp, c ᵻz ðə ᵻ̀ntərsɛ́pt, ənd X ᵻz ðə fíʧər vɛ́ktər. 
+ðə ɡóʊl ᵻz tə fáɪnd ðə vǽljuz əv m ənd c thət mᵻ̀nᵻmàɪz ðə dᵻ̀fərəns bitwín ðə prədᵻ̀ktᵻd ənd ǽkʧəl tɑ́rɡət vǽljuz əkrɔ́s ɔl déɪtə pɔ́ɪnts ᵻn ðə tréɪnᵻŋ sɛ́t. 
+hàʊɛ́vər, ríəlwɜ̀rld déɪtə ɔ́fən əɡzᵻ̀bᵻts nɒnlᵻ̀nìər pǽtərnz, ənd sᵻ̀mpəl lᵻ̀niər rəɡrɛ́ʃən meɪ nɒt ǽdəkwətli kǽpʧər ðiz kəmplɛ́ksᵻtiz. 
+tə ǽdrɛ̀s ðᵻs, pɒ̀lìnóʊmiəl rəɡrɛ́ʃən əkstɛ́ndz ðə kɒ́nsɛpt əv lᵻ̀niər rəɡrɛ́ʃən baɪ ᵻ̀ntrədúsᵻŋ páʊərz əv ðə ərᵻ̀ʤᵻnəl fíʧərz æz nu fíʧərz. 
+ðᵻs lídz tə ə mɒ́dəl thət kən kǽpʧər ə wáɪdər réɪnʤ əv pǽtərnz ᵻn ðə déɪtə, ɔ̀lðóʊ ðə rᵻ̀sk əv òʊvərfᵻ̀tᵻŋ ᵻ̀nkrìsᵻz wᵻð ðə dᵻɡrí əv ðə pɒ̀lìnóʊmiəl. 
+rèɡjəlɛ̀rᵻzéɪʃən tɛkníks, néɪmli L1 ənd L2 rɛ̀ɡjəléɪʃənz, ɔ́fər ən əféktᵻv mínz əv kəntróʊlᵻŋ òʊvərfᵻ̀tᵻŋ ᵻn rəɡrɛ́ʃən mɒ́dəlz. 
+L1 rɛ̀ɡjəléɪʃən, ɔr lǽsu, ǽdz ən ǽbsəlùt vǽlju əv mǽɡnᵻtùd əv kòʊəfᵻ̀ʃənt æz pɛ́nəlti tɜ́rm tə ðə lɔ́s fʌ́ŋkʃən, rəzʌ́ltᵻŋ ᵻn spɑ́rs səlúʃənz wᵻð fjúər nɒnzíroʊ kòʊəfᵻ̀ʃənts. 
+L2 rɛ̀ɡjəléɪʃən, ɔr rᵻ̀ʤ, ǽdz skwɛ́rd mǽɡnᵻtùd əv kòʊəfᵻ̀ʃənt æz pɛ́nəlti tɜ́rm tə ðə lɔ́s fʌ́ŋkʃən, lídᵻŋ tə smɔ́lər kòʊəfᵻ̀ʃənt vǽljuz bʌt nɒt zíroʊ. 
+ðə mɒ́dəlz pərfɔ́rməns ᵻz ə krᵻ̀tᵻkəl mɛ́ʒər ᵻn rəɡrɛ́ʃən ənǽlᵻsᵻs. 
+mín skwɛ́rd ɛ́rər (MSE), mín ǽbsəlùt ɛ́rər (MAE), ənd r-skwɛ́rd ɑr kɒ́mənli júzd mɛ́trᵻks. 
+ðə MSE ənd MAE mɛ́ʒər ðə ǽvərᵻʤ əv ðə skwɛ́rd ənd ǽbsəlùt dᵻ̀fərənsᵻz, rəspɛ́ktᵻvli, bitwín prədᵻ̀ktᵻd ənd ǽkʧəl vǽljuz, wáɪl r-skwɛ́rd rɛ̀prəzɛ́nts ðə prəpɔ́rʃən əv ðə vɛ́riəns ᵻn ðə dəpɛ́ndənt vɛ́riəbəl thət ᵻz prədᵻ̀ktəbəl frəm ðə ᵻ̀ndəpɛ́ndənt variable(s). 
+əʤʌ́stᵻd r-skwɛ́rd fɜ́rðər rᵻfáɪnz ðə r-skwɛ́rd baɪ téɪkᵻŋ ᵻntu əkáʊnt ðə nʌ́mbər əv prədᵻ̀ktərz ᵻn ðə mɒ́dəl. 
+æz wᵻð ɔl məʃín lɜ́rnᵻŋ tɛkníks, déɪtə prɛ̀pəréɪʃən ənd prìprʌ́ʊsɛsᵻŋ pléɪ ə sᵻɡnᵻ̀fᵻkənt róʊl ᵻn rəɡrɛ́ʃən tǽsks. 
+ðə prɛ́zəns əv áʊtlaɪərz kən sᵻɡnᵻ̀fᵻkəntli skjú ðə rəɡrɛ́ʃən láɪn, hɛ́ns áʊtlaɪər dᵻtɛ́kʃən ənd rᵻmúvəl bəkʌ́m əsɛ́nʃəl stɛ́ps. 
+sᵻ̀mᵻlərli, hǽndəlᵻŋ mᵻ̀sᵻŋ déɪtə, ɛnkóʊdᵻŋ kæ̀təɡɑ́rᵻkəl vɛ́riəbəlz, ənd fíʧər skéɪlᵻŋ ɑr váɪtəl ᵻn bᵻ̀ldᵻŋ əféktᵻv rəɡrɛ́ʃən mɒ́dəlz. 
+ᵻn ədᵻ̀ʃən, rəɡrɛ́ʃən ənǽlᵻsᵻs ɔ́fən nídz tə ɡrǽpəl wᵻð prɒ́bləmz láɪk mʌ̀ltikəlᵻ̀niǽrᵻti, wɛ́r tú ɔr mɔr fíʧərz ɑr háɪli kɔ́rəlèɪtᵻd, ənd hɛ̀təroʊskᵻdæ̀stᵻ̀sᵻti, wɛ́r ðə vɛ́riəns əv ɛ́rərz dᵻ̀fərz əkrɔ́s lɛ́vəlz əv ən ᵻ̀ndəpɛ́ndənt vɛ́riəbəl. 
+tɛkníks sʌʧ æz vɛ́riəns ᵻ̀nfléɪʃən fǽktər (VIF) fɔr mʌ̀ltikəlᵻ̀niǽrᵻti ənd træ̀nsfərméɪʃənz ɔr wéɪtᵻd líst skwɛ́rz fɔr hɛ̀təroʊskᵻdæ̀stᵻ̀sᵻti ɑr ɛmplɔ́ɪd tə hǽndəl ðiz ᵻ̀ʃuz. 
+mɔróʊvər, rəɡrɛ́ʃən əsʌ́mpʃənz sʌʧ æz lᵻ̀niǽrᵻti, ᵻ̀ndəpɛ́ndəns, hòʊməskᵻdæ̀stᵻ̀sᵻti, ənd nɔ̀rmǽlᵻti əv ɛ́rərz ɑr pᵻ̀vətəl tə mɒ́dəl væ̀lᵻ̀dᵻti ənd mʌst bi θɜ́roʊli ʧɛ́kt. 
+wᵻð mʌ́ltᵻpəl vɛ̀riéɪʃənz ənd ə hóʊst əv æ̀plᵻkéɪʃənz, rəɡrɛ́ʃən rəméɪnz ə méɪnstèɪ ᵻn súpərvàɪzd lɜ́rnᵻŋ. 
+hàʊɛ́vər, kɛ́r ʃʊd bi téɪkən tə ʌ̀ndərstǽnd ənd ǽdrɛ̀s ᵻts əsʌ́mpʃənz ənd pətɛ́nʃəl pᵻ̀tfɔ̀lz tə hɑ́rnəs ᵻts prədᵻ̀ktᵻv páʊər əfɛ́ktᵻvli. 
+
+B002C005: klæ̀sᵻfᵻkéɪʃən. 
+klæ̀sᵻfᵻkéɪʃən ᵻz ðə tǽsk əv əsáɪnᵻŋ prìdəfáɪnd léɪbəlz tə ᵻ̀nstənsᵻz béɪst ɒn ðɛr fíʧərz. 
+wɛrǽz rəɡrɛ́ʃən fóʊkəsᵻz ɒn prədᵻ̀ktᵻŋ kəntᵻ̀njuəs áʊtkʌ̀mz, klæ̀sᵻfᵻkéɪʃən éɪmz tə prədᵻ̀kt kæ̀təɡɑ́rᵻkəl áʊtkʌ̀mz. 
+ᵻt ᵻz júzd wáɪdli ᵻn daɪvɜ́rs doʊméɪnz láɪk mɛ́dᵻkəl dàɪəɡnɒ́stᵻks, spǽm dᵻtɛ́kʃən, sɛ́ntᵻmənt ənǽlᵻsᵻs, ənd mɔr. 
+wʌ́n əv ðə sᵻ̀mpləst ənd ɜ́rliəst fɔ́rmz əv klæ̀sᵻfᵻkéɪʃən tɛkníks ᵻz ðə pərsɛ́ptrɒn, ᵻ̀nspáɪərd baɪ ðə kɒ́nsɛpt əv ə bàɪəlɒ́ʤᵻkəl nʊ́rɒn. 
+A pərsɛ́ptrɒn kəmbáɪnz ᵻ̀npʊ̀ts wᵻð ðɛr wéɪts ənd əpláɪz ə stɛ́p fʌ́ŋkʃən tə ʤɛ́nərèɪt báɪnəri áʊtpʊ̀t. 
+dᵻspáɪt ᵻts sᵻmplᵻ̀sᵻti, ᵻt óʊnli wɜ́rks fɔr lᵻ̀niərli sɛ́pərəbəl déɪtə ənd ᵻz ənéɪbəl tə sɒ́lv prɒ́bləmz wɛ́r déɪtə pɔ́ɪnts kǽnɒt bi dᵻváɪdᵻd baɪ ə stréɪt láɪn ɔr háɪpərpléɪn. 
+tə óʊvərkʌ̀m ðiz lᵻ̀mᵻtéɪʃənz, ləʤᵻ̀stᵻk rəɡrɛ́ʃən wɒz ᵻ̀ntrədúst, wᵻ̀ʧ dᵻspáɪt ᵻts néɪm, ᵻz júzd fɔr klæ̀sᵻfᵻkéɪʃən. 
+ᵻt kǽlkjəlèɪts ə wéɪtᵻd sʌ́m əv ðə fíʧərz plʌ́s ə báɪəs tɜ́rm, sᵻ̀mᵻlər tə lᵻ̀niər rəɡrɛ́ʃən. 
+stᵻ̀l, ᵻt əpláɪz ə ləʤᵻ̀stᵻk fʌ́ŋkʃən tə áʊtpʊ̀t ə vǽlju bitwín 0 ənd 1. 
+ðᵻs vǽlju kən bi ᵻ̀ntɜ́rprətᵻd æz ðə prɒ̀bəbᵻ̀lᵻti əv ə pɑ̀rtᵻ̀kjələr klǽs ənd ᵻz θréʃhoʊldᵻd tə áʊtpʊ̀t ə báɪnəri klæ̀sᵻfᵻkéɪʃən. 
+hàʊɛ́vər, báɪnəri klæ̀sᵻfᵻkéɪʃən tɛkníks láɪk ləʤᵻ̀stᵻk rəɡrɛ́ʃən ɔr ðə pərsɛ́ptrɒn ɑr ᵻ̀nsəfᵻ̀ʃənt fɔr mʌ́lti-klǽs prɒ́bləmz, wɛ́r ðɛr ɑr mɔr ðʌn tú klǽsᵻz tə prədᵻ̀kt. 
+strǽtəʤiz láɪk wʌ́n-vɜ́rsəs-ɔl ənd wʌ́n-vɜ́rsəs-wʌ́n həv bᵻn ɛmplɔ́ɪd tə əkstɛ́nd báɪnəri klǽsᵻfaɪərz tə mʌ́lti-klǽs prɒ́bləmz. 
+səpɔ́rt vɛ́ktər məʃínz (SVMs) həv prúvən əféktᵻv fɔr bóʊθ báɪnəri ənd mʌ́lti-klǽs klæ̀sᵻfᵻkéɪʃən. 
+ðeɪ éɪm tə fáɪnd ə háɪpərpléɪn thət sɛ́pərèɪts ðə klǽsᵻz wáɪl mǽksᵻmàɪzᵻŋ ðə mɑ́rʤən bitwín ðə klóʊsəst pɔ́ɪnts (səpɔ́rt vɛ́ktərz) tə ðə háɪpərpléɪn frəm iʧ klǽs. 
+ðə 'kɜ́rnəl trᵻ̀k' kən bi ɛmplɔ́ɪd tə mǽp déɪtə tə ə háɪər-dᵻmɛ́nʃənəl spéɪs, méɪkᵻŋ SVMs kéɪpəbəl əv hǽndəlᵻŋ nɒn-lᵻ̀niərli sɛ́pərəbəl déɪtə. 
+ənʌ́ðər ɡrúp əv klǽsᵻfaɪərz nóʊn æz trí-béɪst mɛ́θədz, ᵻ̀nklúdᵻŋ dəsᵻ̀ʒən tríz ənd rǽndəm fɔ́rəsts, ɔ́fər háɪ ᵻntərprɛtəbᵻ̀lᵻti. 
+A dəsᵻ̀ʒən trí splᵻ̀ts ðə déɪtə béɪst ɒn fíʧər vǽljuz, tráɪᵻŋ tə áɪsəlèɪt ðə klǽsᵻz æt iʧ nóʊd ʌ̀ntᵻ̀l pjʊ́r ɔr nɪ́r-pjʊ́r líf nóʊdz ɑr əʧívd. 
+rǽndəm fɔ́rəsts bᵻ̀ld ɒn dəsᵻ̀ʒən tríz' strɛ́ŋkθs baɪ kəmbáɪnᵻŋ mʌ́ltᵻpəl tríz tə rədjús òʊvərfᵻ̀tᵻŋ ənd ᵻ̀mprúv prədᵻ̀kʃən roʊbʌ́stnəs. 
+wʌ́n ʃʊd ɔ́lsoʊ mɛ́nʃən ɒnsɒ́mbəl lɜ́rnᵻŋ tɛkníks, wᵻ̀ʧ kɒ́mbaɪn mʌ́ltᵻpəl klǽsᵻfaɪərz' prədᵻ̀kʃənz tə jíld ə fáɪnəl prədᵻ̀kʃən, ɔ́fən ᵻ̀nkrísᵻŋ ǽkjərəsi. 
+kɒ́mən mɛ́θədz ᵻ̀nklúd bǽɡᵻŋ, bústᵻŋ, ənd stǽkᵻŋ. 
+fɜ́rðərmɔ̀r, nʊ́rəl nɛ́twɜ̀rks ənd ðɛr əkstɛ́nʃənz, ᵻ̀nklúdᵻŋ díp nʊ́rəl nɛ́twɜ̀rks, kənvəlúʃənəl nʊ́rəl nɛ́twɜ̀rks, ənd rəkɜ́rənt nʊ́rəl nɛ́twɜ̀rks, həv əksɛ́ld ᵻn kɒ́mplɛks klæ̀sᵻfᵻkéɪʃən tǽsks, ɔ́fərᵻŋ háɪ pərfɔ́rməns æt ðə kɒ́st əv ᵻntərprɛtəbᵻ̀lᵻti. 
+kí tə əféktᵻv klæ̀sᵻfᵻkéɪʃən ᵻz ðə səlɛ́kʃən əv ən əpróʊprièɪt pərfɔ́rməns mɛ́trᵻk. 
+ǽkjərəsi, prəsᵻ̀ʒən, ríkɔ̀l, F1-score, ənd ðə ɛ́riə ʌ́ndər ðə ROC kɜ́rv ɑr kɒ́mənli júzd. 
+fɔr ᵻmbǽlənst déɪtəsɛ̀ts, prəsᵻ̀ʒən, ríkɔ̀l, ənd F1-score ɑr ɔ́fən mɔr ᵻ̀nfɔ́rmətᵻv ðʌn ǽkjərəsi. 
+A kənfjúʒən méɪtrᵻks, wᵻ̀ʧ tǽbjəleɪts trú ənd fɔ́ls pɒ́zᵻtᵻvz ənd nɛ́ɡətᵻvz, ᵻz ɔ́lsoʊ ə hɛ́lpfəl túl fɔr ʌ̀ndərstǽndᵻŋ klǽsᵻfaɪər pərfɔ́rməns. 
+déɪtə prɛ̀pəréɪʃən, ᵻ̀nklúdᵻŋ hǽndəlᵻŋ mᵻ̀sᵻŋ déɪtə, fíʧər ɛ́nʤᵻnɪ́rᵻŋ, ɛnkóʊdᵻŋ kæ̀təɡɑ́rᵻkəl vɛ́riəbəlz, ənd déɪtə nɔ̀rməlᵻzéɪʃən, ᵻz krúʃəl fɔr əféktᵻv klæ̀sᵻfᵻkéɪʃən, ʤəst æz ᵻt ᵻz ᵻn rəɡrɛ́ʃən. 
+æz wᵻð ɔl məʃín lɜ́rnᵻŋ tɛkníks, òʊvərfᵻ̀tᵻŋ ənd ʌ̀ndərfᵻ̀tᵻŋ rəméɪn kənsɜ́rnz ᵻn klæ̀sᵻfᵻkéɪʃən tǽsks. 
+òʊvərfᵻ̀tᵻŋ əkɜ́rz wɛ́n ə mɒ́dəl lɜ́rnz ðə tréɪnᵻŋ déɪtə tú wɛ́l, ᵻ̀nklúdᵻŋ ᵻts nɔ́ɪz, lídᵻŋ tə pɔ́r ʤɛ̀nərəlᵻzéɪʃən tə nu déɪtə. 
+ʌ̀ndərfᵻ̀tᵻŋ, ɒn ðə ʌ́ðər hǽnd, hǽpənz wɛ́n ðə mɒ́dəl féɪlz tə kǽpʧər ðə ʌ̀ndərláɪᵻŋ pǽtərnz ᵻn ðə déɪtə. 
+tɛkníks sʌʧ æz krɔ́s-væ̀lᵻdéɪʃən, rèɡjəlɛ̀rᵻzéɪʃən, ənd ɜ́rli stɒ́pᵻŋ kən hɛ́lp ǽdrɛ̀s ðiz ᵻ̀ʃuz. 
+klæ̀sᵻfᵻkéɪʃən ɔ́fərz ə wáɪd əréɪ əv tɛkníks sútᵻd tə dᵻ̀fərənt tǽsks ənd déɪtə táɪps. 
+ʌ̀ndərstǽndᵻŋ ðɛr strɛ́ŋkθs, wíknəsᵻz, ənd ʌ̀ndərláɪᵻŋ əsʌ́mpʃənz kən ɡáɪd ðə səlɛ́kʃən ənd æ̀plᵻkéɪʃən əv ðiz mɛ́θədz, əláʊᵻŋ wʌ́n tə ʌ̀nlɒ́k vǽljəbəl ᵻ̀nsàɪts frəm kæ̀təɡɑ́rᵻkəl déɪtə. 
+
+B002C006: ʌ̀nsúpərvàɪzd lɜ́rnᵻŋ. 
+ʌ̀nsúpərvàɪzd lɜ́rnᵻŋ ᵻz ə kǽtəɡɔ̀ri əv məʃín lɜ́rnᵻŋ thət fóʊkəsᵻz ɒn lɜ́rnᵻŋ pǽtərnz frəm déɪtə wᵻðáʊt ðə ɡáɪdəns əv léɪbəld rəspɒ́nsᵻz. 
+ᵻts əsɛ́nʃəl néɪʧər ᵻz əksplɔ́rətɔ̀ri, æz ᵻt síks tə ʌ̀nkʌ́vər hᵻ̀dən strʌ́kʧərz ənd rəléɪʃənʃᵻ̀ps wᵻðᵻ̀n déɪtə. 
+ðə tú práɪmɛ̀ri fɔ́rmz əv ʌ̀nsúpərvàɪzd lɜ́rnᵻŋ ɑr klʌ́stərᵻŋ ənd dᵻmɛ̀nʃənǽlᵻti rədʌ́kʃən. 
+ðᵻs ʧǽptər wᵻl prəváɪd ən óʊvərvjù əv ðiz mɛ̀θoʊdɒ́ləʤiz ənd háɪlàɪt kí kɒ́nsɛpts əsóʊsièɪtᵻd wᵻð ðɛm. 
+klʌ́stərᵻŋ ᵻz ðə tǽsk əv ɡrúpᵻŋ sᵻ̀mᵻlər ᵻ̀nstənsᵻz təɡɛ́ðər. 
+ðə nóʊʃən əv 'sᵻ̀mᵻlɛ́rᵻti' dəpɛ́ndz hɛ́vᵻli ɒn ðə ʧóʊzən dᵻ̀stəns ɔr sᵻ̀mᵻlɛ́rᵻti mɛ́trᵻk ənd ðə pɑ̀rtᵻ̀kjələr ǽlɡərᵻ̀ðəm ɛmplɔ́ɪd. 
+k-mínz, hàɪrɑ́rkᵻkəl klʌ́stərᵻŋ, ənd DBSCAN ɑr sʌm kɒ́mən klʌ́stərᵻŋ ǽlɡərᵻ̀ðəmz thət iʧ əpróʊʧ ðə tǽsk dᵻ̀fərɛ́ntli. 
+k-mínz ɒ́pərèɪts baɪ rǽndəmli ᵻnᵻ̀ʃəlaɪŋ sɛ́ntroɪdz ənd əsáɪnᵻŋ ᵻ̀nstənsᵻz tə ðə nɪ́rəst sɛ́ntroɪd, ðɛn ʌ́pdèɪtᵻŋ ðə sɛ́ntroɪd æz ðə mín əv ðə əsáɪnd ᵻ̀nstənsᵻz. 
+ðᵻs ᵻ̀tərətᵻv prɒ́sɛ̀s kəntᵻ̀njuz ʌ̀ntᵻ̀l ə stɒ́pᵻŋ kraɪtɪ́riən ᵻz mɛ́t, ɔ́fən wɛ́n ðə sɛ́ntroɪdz múv lɛ́s ðʌn ə θrɛ́ʃòʊld dᵻ̀stəns bitwín ᵻ̀təréɪʃənz. 
+hàɪrɑ́rkᵻkəl klʌ́stərᵻŋ kriéɪts ə trí-láɪk mɒ́dəl əv déɪtə, nóʊn æz ə dɛ́ndrəɡræm, ɛnéɪbəlᵻŋ ðə júzər tə əbzɜ́rv déɪtə æt vɛ́riᵻŋ lɛ́vəlz əv ɡrǽnjəlérᵻti. 
+ᵻt kən bi ɛ́ksəkjùtᵻd júzᵻŋ tú strǽtəʤiz: əɡlɒ́mərətᵻv, wɛ́r iʧ ᵻ̀nstəns stɑ́rts æz ᵻts klʌ́stər ənd pɛ́rz əv klʌ́stərz mɜ́rʤ æz wʌ́n kláɪmz ʌp ðə háɪrɑ̀rki, ənd dᵻváɪsᵻv, wɛ́r ɔl ᵻ̀nstənsᵻz stɑ́rt æz wʌ́n klʌ́stər ənd splᵻ̀ts əkɜ́r æz wʌ́n trǽvəlz daʊn ðə háɪrɑ̀rki. 
+DBSCAN, ɔr dɛ́nsᵻti-béɪst spéɪʃəl klʌ́stərᵻŋ əv æ̀plᵻkéɪʃənz wᵻð nɔ́ɪz, dəfáɪnz klʌ́stərz æz dɛ́ns ríʤənz ᵻn ðə déɪtə spéɪs sɛ́pərèɪtᵻd baɪ ríʤənz əv lóʊər dɛ́nsᵻti. 
+ᵻt kən ʌ̀nkʌ́vər ɑ́rbᵻtrɛ̀ri-ʃéɪpt klʌ́stərz, wᵻ̀ʧ k-mínz ənd hàɪrɑ́rkᵻkəl klʌ́stərᵻŋ meɪ strʌ́ɡəl wᵻð, ənd ᵻnhɛ́rəntli hǽndəlz nɔ́ɪz dᵻtɛ́kʃən. 
+ðə sɛ́kənd méɪʤər fɔ́rm əv ʌ̀nsúpərvàɪzd lɜ́rnᵻŋ ᵻz dᵻmɛ̀nʃənǽlᵻti rədʌ́kʃən, wᵻ̀ʧ rədjúsᵻz ðə nʌ́mbər əv rǽndəm vɛ́riəbəlz ʌ́ndər kənsᵻ̀dəréɪʃən. 
+ðᵻs ᵻz ɔ́fən júsfəl ᵻn déɪtə vᵻ̀ʒwəlᵻzéɪʃən, nɔ́ɪz rədʌ́kʃən, ənd kəmbǽtᵻŋ ðə kɜ́rs əv dᵻmɛ̀nʃənǽlᵻti. 
+prᵻ̀nsᵻpəl kəmpóʊnənt ənǽlᵻsᵻs (PCA) ᵻz ðə móʊst pɒ́pjələr dᵻmɛ̀nʃənǽlᵻti rədʌ́kʃən tɛkník. 
+ᵻt aɪdɛ́ntᵻfàɪz ðə háɪpərpléɪn thət láɪz klóʊsəst tə ðə déɪtə ənd prɒ́ʤɛkts ðə déɪtə ɒ́ntu ᵻt, éɪmᵻŋ tə səlɛ́kt sʌ́bsəkwənt háɪpərpléɪnz ɔrθɔ́ɡənəl tə ðə fɜ́rst thət əkáʊnt fɔr ðə lɑ́rʤəst rəméɪnᵻŋ vɛ́riəns. 
+ənʌ́ðər dᵻmɛ̀nʃənǽlᵻti rədʌ́kʃən əpróʊʧ, t-dᵻstrᵻ̀bjətᵻd stoʊkǽstᵻk néɪbər ɛmbɛ́dᵻŋ (t-SNE), mᵻ̀nᵻmàɪzᵻz ðə daɪvɜ́rʤəns bitwín tú dᵻ̀strəbjúʃənz: ə dᵻ̀strəbjúʃən thət mɛ́ʒərz pɛ́rwaɪz sᵻ̀mᵻlɛ́rᵻtiz əv ðə ᵻ̀npʊ̀t ɒ́bʤɛkts ənd ə dᵻ̀strəbjúʃən thət mɛ́ʒərz pɛ́rwaɪz sᵻ̀mᵻlɛ́rᵻtiz əv ðə kɔ̀rəspɒ́ndᵻŋ lóʊ-dᵻmɛ́nʃənəl pɔ́ɪnts ᵻn ðə ɛmbɛ́dᵻŋ. 
+ənɒ́məli dᵻtɛ́kʃən, ðə aɪdɛ̀ntᵻfᵻkéɪʃən əv æbnɔ́rməl ɔr ʌ̀njúʒùəl ᵻ̀nstənsᵻz, kən ɔ́lsoʊ bi kənsᵻ̀dərd ə fɔ́rm əv ʌ̀nsúpərvàɪzd lɜ́rnᵻŋ. 
+ᵻ̀ts júzd ᵻn daɪvɜ́rs ɛ́riəz sʌʧ æz frɔ́d dᵻtɛ́kʃən, fɔ́lt dᵻtɛ́kʃən, sᵻ̀stəm hɛ́lθ mɒ́nᵻtərᵻŋ, áʊtlaɪər dᵻtɛ́kʃən ᵻn déɪtə máɪnᵻŋ, ənd fáɪndᵻŋ ᵻ̀ntrúʒənz ᵻn sàɪbərsəkjʊ́rᵻti. 
+ᵻn kɒ́ntrɒst|kəntrǽst wᵻð súpərvàɪzd lɜ́rnᵻŋ wɛ́r mɒ́dəl pərfɔ́rməns kən bi əvǽljuèɪtᵻd júzᵻŋ léɪbəld tɛ́st déɪtə, əvǽljuèɪtᵻŋ ʌ̀nsúpərvàɪzd lɜ́rnᵻŋ tɛkníks kən bi mɔr ʧǽlənʤᵻŋ djú tə ðə lǽk əv ə ɡráʊnd trúθ. 
+ᵻ̀nstɛ́d, mɛ́ʒərz sʌʧ æz ðə sᵻ̀ləwɛ́t skɔ́r fɔr klʌ́stərᵻŋ ənd ðə əmáʊnt əv vɛ́riəns əkspléɪnd fɔr dᵻmɛ̀nʃənǽlᵻti rədʌ́kʃən ɑr kɒ́mənli júzd. 
+wáɪl ʌ̀nsúpərvàɪzd lɜ́rnᵻŋ prɛ́zənts junᵻ̀k ʧǽlənʤᵻz, ᵻt ɔ́lsoʊ prəváɪdz sᵻɡnᵻ̀fᵻkənt ɒ̀pərtúnᵻtiz. 
+baɪ rəvílᵻŋ ʌ̀ndərláɪᵻŋ strʌ́kʧər ənd pǽtərnz ᵻn ðə déɪtə, ʌ̀nsúpərvàɪzd lɜ́rnᵻŋ tɛkníks kən prəváɪd vǽljəbəl ᵻ̀nsàɪts, ɡáɪd fíʧər ɛ́nʤᵻnɪ́rᵻŋ, ənd hɛ́lp tə bɛ́tər ʌ̀ndərstǽnd kɒ́mplɛks déɪtəsɛ̀ts. 
+ðeɪ ɑr ə vǽljəbəl túl ᵻn ðə məʃín lɜ́rnᵻŋ túlbɔ̀ks, əlɔ́ŋsáɪd súpərvàɪzd ənd rìᵻnfɔ́rsmənt lɜ́rnᵻŋ. 
+
+B002C007: ʌ̀nsúpərvàɪzd lɜ́rnᵻŋ - klʌ́stərᵻŋ. 
+ᵻn ðə doʊméɪn əv ʌ̀nsúpərvàɪzd lɜ́rnᵻŋ, klʌ́stərᵻŋ stǽndz æz ə kɔ́rnərstòʊn mɛ̀θədɒ́ləʤi. 
+ᵻts práɪmɛ̀ri əbʤɛ́ktᵻv ᵻz tə aɪdɛ́ntᵻfàɪ ənd ɡrúp sᵻ̀mᵻlər ᵻ̀nstənsᵻz təɡɛ́ðər béɪst ɒn vɛ́riəs mɛ́ʒərz əv sᵻ̀mᵻlɛ́rᵻti ɔr dᵻ̀stəns, wᵻð ðə ʌ́ltᵻmət ɡóʊl əv dᵻskʌ́vərᵻŋ ᵻnhɛ́rənt ɡrúpᵻŋz wᵻðᵻ̀n ðə déɪtə. 
+ðə nóʊʃən əv 'sᵻ̀mᵻlɛ́rᵻti' ɔr 'dᵻ̀stəns' ᵻz dəpɛ́ndənt ɒn ðə spəsᵻ̀fᵻk mɛ́ʒər júzd, wᵻ̀ʧ kən réɪnʤ frəm juklᵻ̀diən dᵻ̀stəns tə kóʊsaɪn sᵻ̀mᵻlɛ́rᵻti, manhattan:mænhǽtən dᵻ̀stəns, ənd mɛ́ni ʌ́ðərz. 
+vɛ́riəs ǽlɡərᵻ̀ðəmz, ᵻ̀nklúdᵻŋ k-mínz, DBSCAN, ənd hàɪrɑ́rkᵻkəl klʌ́stərᵻŋ, həv bᵻn dᵻváɪzd tə pərfɔ́rm klʌ́stərᵻŋ, iʧ rəláɪᵻŋ ɒn ðiz mɛ́ʒərz ᵻn dᵻ̀fərənt wéɪz. 
+k-mínz klʌ́stərᵻŋ ᵻz wʌ́n əv ðə móʊst wáɪdli júzd klʌ́stərᵻŋ ǽlɡərᵻ̀ðəmz. 
+ᵻt ᵻz ə sɛ́ntroɪd-béɪst ǽlɡərᵻ̀ðəm thət éɪmz tə mᵻ̀nᵻmàɪz wᵻðᵻ̀n-klʌ́stər vɛ́riəns. 
+ðᵻs ǽlɡərᵻ̀ðəm ɒ́pərèɪts baɪ ᵻnᵻ̀ʃəlaɪŋ sɛ́ntroɪdz rǽndəmli, fɒ́loʊd baɪ ᵻ̀tərətᵻvli əsáɪnᵻŋ ᵻ̀nstənsᵻz tə ðə nɪ́rəst sɛ́ntroɪd ənd ðɛn ʌ́pdèɪtᵻŋ ðə sɛ́ntroɪd æz ðə mín əv ðə əsáɪnd ᵻ̀nstənsᵻz. 
+ðə prɒ́sɛ̀s rᵻpíts ʌ̀ntᵻ̀l ə prìdətɜ́rmᵻnd stɒ́pᵻŋ kraɪtɪ́riən ᵻz mɛ́t, ɔ́fən wɛ́n ðə sɛ́ntroɪdz múv lɛ́s ðʌn ə θrɛ́ʃòʊld dᵻ̀stəns bitwín ᵻ̀təréɪʃənz. 
+hàʊɛ́vər, k-mínz kən kənvɜ́rʤ tə lóʊkəl ɒ́ptᵻmə, ənd ᵻts pərfɔ́rməns kən bi háɪli dəpɛ́ndənt ɒn ðə ᵻnᵻ̀ʃəl ʧɔ́ɪs əv sɛ́ntroɪdz. 
+ᵻt ɔ́lsoʊ əsúmz thət klʌ́stərz ɑr kɒ́nvɛ̀ks ənd aɪsoʊtrɒ́pᵻk, wᵻ̀ʧ maɪt nɒt ɔ́lwèɪz bi ðə kéɪs. 
+ðə DBSCAN (dɛ́nsᵻti-béɪst spéɪʃəl klʌ́stərᵻŋ əv æ̀plᵻkéɪʃənz wᵻð nɔ́ɪz) ǽlɡərᵻ̀ðəm ᵻz ənʌ́ðər nóʊtəbəl mɛ́θəd. 
+ᵻt ᵻz ə dɛ́nsᵻti-béɪst əpróʊʧ thət aɪdɛ́ntᵻfàɪz klʌ́stərz æz háɪ-dɛ́nsᵻti ríʤənz sɛ́pərèɪtᵻd baɪ ɛ́riəz əv lóʊər dɛ́nsᵻti. 
+DBSCAN stɑ́rts wᵻð ən ɑ́rbᵻtrɛ̀ri pɔ́ɪnt, əkspǽndz ᵻt ᵻf ə səfᵻ̀ʃənt nʌ́mbər əv pɔ́ɪnts ᵻz wᵻðᵻ̀n ə spɛ́sᵻfàɪd dᵻ̀stəns (eps), ənd tríts pɔ́ɪnts fáʊnd wᵻðᵻ̀n ðiz EPS ríʤənz æz pɑ́rt əv ðə séɪm klʌ́stər. 
+ðᵻs əpróʊʧ əláʊz ðə dᵻtɛ́kʃən əv ɑ́rbᵻtrɛ̀ri-ʃéɪpt klʌ́stərz ənd ᵻnhɛ́rənt nɔ́ɪz hǽndəlᵻŋ. 
+hàʊɛ́vər, ʧúzᵻŋ əpróʊprièɪt vǽljuz fɔr EPS ənd ðə mᵻ̀nᵻməm nʌ́mbər əv pɔ́ɪnts kən bi ʧǽlənʤᵻŋ ənd háɪli dəpɛ́ndənt ɒn déɪtə dɛ́nsᵻti ənd dᵻ̀strəbjúʃən. 
+hàɪrɑ́rkᵻkəl klʌ́stərᵻŋ ɔ́fərz ən ɔltɜ́rnətᵻv əpróʊʧ. 
+ðᵻs tɛkník bᵻ̀ldz ə háɪrɑ̀rki ɔr trí-láɪk mɒ́dəl əv klʌ́stərz, nóʊn æz ə dɛ́ndrəɡræm. 
+hàɪrɑ́rkᵻkəl klʌ́stərᵻŋ kən bi əɡlɒ́mərətᵻv (bɒ́təm-ʌp) ɔr dᵻváɪsᵻv (top-down). 
+əɡlɒ́mərətᵻv klʌ́stərᵻŋ bᵻɡᵻ̀nz wᵻð iʧ ᵻ̀nstəns æz ᵻts klʌ́stər ənd mɜ́rʤᵻz pɛ́rz əv klʌ́stərz æz wʌ́n kláɪmz ʌp ðə háɪrɑ̀rki. 
+dᵻváɪsᵻv klʌ́stərᵻŋ stɑ́rts wᵻð ɔl ᵻ̀nstənsᵻz æz wʌ́n klʌ́stər ənd splᵻ̀ts ðɛm æz wʌ́n trǽvəlz daʊn ðə háɪrɑ̀rki. 
+A sᵻɡnᵻ̀fᵻkənt ædvǽntᵻʤ əv hàɪrɑ́rkᵻkəl klʌ́stərᵻŋ ᵻz ðə əbᵻ̀lᵻti tə vᵻ̀ʒwəlàɪz ðə dɛ́ndrəɡræm, wᵻ̀ʧ kən prəváɪd ᵻ̀nsàɪts ᵻntu ðə déɪtəz nǽʧərəl dᵻvᵻ̀ʒənz. 
+hàʊɛ́vər, hàɪrɑ́rkᵻkəl klʌ́stərᵻŋ kən bi kɒ̀mpjətéɪʃənəli əkspɛ́nsᵻv fɔr lɑ́rʤ déɪtəsɛ̀ts. 
+A pᵻ̀vətəl ǽspɛ̀kt əv klʌ́stərᵻŋ ᵻz ðə dətɜ̀rmᵻnéɪʃən əv ðə nʌ́mbər əv klʌ́stərz. 
+ᵻn k-mínz, ðᵻs ᵻz ə pərǽmətər thət nídz tə bi spɛ́sᵻfàɪd ʌ́pfrʌ̀nt, ənd vɛ́riəs mɛ́θədz sʌʧ æz ðə ɛ́lbòʊ mɛ́θəd ənd sᵻ̀ləwɛ́t ənǽlᵻsᵻs ɑr ɔ́fən júzd tə fáɪnd ən ɒ́ptᵻməl nʌ́mbər. 
+ᵻn kɒ́ntrɒst|kəntrǽst, DBSCAN dʌz nɒt rəkwáɪər ðᵻs pərǽmətər æz ᵻt dətɜ́rmᵻnz ðə nʌ́mbər əv klʌ́stərz béɪst ɒn ðə déɪtəz dɛ́nsᵻti. 
+hàɪrɑ́rkᵻkəl klʌ́stərᵻŋ prəváɪdz ə réɪnʤ əv klʌ́stərz dəpɛ́ndᵻŋ ɒn ðə lɛ́vəl əv ɡrǽnjəlérᵻti ðə júzər ᵻz ᵻ̀ntərəstᵻd ᵻ̀n 
+klʌ́stər əvæ̀ljuéɪʃən, pɑ̀rtᵻ̀kjələrli ᵻn ðə ǽbsəns əv ɡráʊnd trúθ, kən bi ʧǽlənʤᵻŋ. 
+tɛkníks sʌʧ æz sᵻ̀ləwɛ́t skɔ́rz, wᵻ̀ʧ mɛ́ʒər ðə sɛ̀pəréɪʃən bitwín klʌ́stərz, ənd wᵻðᵻ̀n-klʌ́stər sʌ́m əv skwɛ́rz (WCSS), wᵻ̀ʧ mɛ́ʒərz klʌ́stər koʊhíʒən, ɑr kɒ́mənli júzd. 
+hàʊɛ́vər, ðiz mɛ́trᵻks ɑr hjʊrᵻ̀stᵻk ᵻn néɪʧər, ənd ðɛr ᵻ̀ntɜ̀rprᵻtéɪʃən kən bi sʌbʤɛ́ktᵻv. 
+óʊvərɔ̀l, klʌ́stərᵻŋ ᵻz ə páʊərfəl ʌ̀nsúpərvàɪzd lɜ́rnᵻŋ túl wᵻð númərəs æ̀plᵻkéɪʃənz. 
+frəm kʌ́stəmər sɛ̀ɡməntéɪʃən ᵻn mɑ́rkətᵻŋ tə ənɒ́məli dᵻtɛ́kʃən ᵻn sàɪbərsəkjʊ́rᵻti ənd ʤín əksprɛ́ʃən ənǽlᵻsᵻs ᵻn bàɪəᵻnfərmǽtᵻks, ᵻts əbᵻ̀lᵻti tə rəvíl hᵻ̀dən strʌ́kʧərz ənd pǽtərnz ᵻn déɪtə ᵻz ᵻ̀nvǽljəbəl. 
+
+B002C008: ʌ̀nsúpərvàɪzd lɜ́rnᵻŋ - ənɒ́məli dᵻtɛ́kʃən. 
+ənɒ́məli dᵻtɛ́kʃən ᵻz ə váɪtəl kəmpóʊnənt əv ʌ̀nsúpərvàɪzd lɜ́rnᵻŋ. 
+ᵻn ðə ǽbsəns əv léɪbəlz, wi meɪ wɒ́nt tə dᵻstᵻ̀ŋɡwᵻʃ ᵻ̀nstənsᵻz thət stǽnd áʊt frəm ðə ʤɛ́nərəl pǽtərnz əv ðə déɪtə. 
+ðiz dìviéɪʃənz, ɔ́fən rəfɜ́rd tə æz áʊtlaɪərz ɔr ənɒ́məliz, kən kənvéɪ krúʃəl ᵻ̀nfərméɪʃən əkrɔ́s vɛ́riəs æ̀plᵻkéɪʃənz sʌʧ æz frɔ́d dᵻtɛ́kʃən, hɛ́lθ mɒ́nᵻtərᵻŋ, fɔ́lt dᵻtɛ́kʃən ᵻn mæ̀njəfǽkʧərᵻŋ, ɔr ᵻ̀ntrúʒən dᵻtɛ́kʃən ᵻn sáɪbər səkjʊ́rᵻti. 
+ən ənɒ́məli kən bi brɔ́dli dəfáɪnd æz ən ᵻ̀nstəns thət dívièɪts sᵻɡnᵻ̀fᵻkəntli frəm ðə əkspɛ́ktᵻd ɔr nɔ́rməl bᵻhéɪvjər. 
+hàʊɛ́vər, 'nɔ́rməl' bᵻhéɪvjər ᵻz ə kɒ̀ntɛ́ksʧùəl nóʊʃən ənd praɪmɛ́rᵻli dəpɛ́ndz ɒn ðə ʌ̀ndərláɪᵻŋ déɪtə kæ̀rəktərᵻ̀stᵻks ənd ðə prɒ́bləm doʊméɪn. 
+wʌ́n kɒ́mənli júzd mɛ́θəd fɔr ənɒ́məli dᵻtɛ́kʃən ᵻz béɪst ɒn stətᵻ̀stᵻkəl tɛkníks, əsúmᵻŋ thət nɔ́rməl déɪtə ᵻ̀nstənsᵻz əkɜ́r ᵻn háɪ-prɒ̀bəbᵻ̀lᵻti ɛ́riəz əv ə stoʊkǽstᵻk mɒ́dəl, wáɪl ənɒ́məliz əkɜ́r ᵻn ðə lóʊ-prɒ̀bəbᵻ̀lᵻti ɛ́riəz əv ðə stoʊkǽstᵻk mɒ́dəl. 
+kɒ́mənli júzd stətᵻ̀stᵻkəl mɒ́dəlz ᵻ̀nklúd ɡáʊsiən dᵻ̀strəbjúʃənz, wɛ́r déɪtə ᵻ̀nstənsᵻz lóʊkèɪtᵻd ᵻn ɛ́riəz əv lóʊ prɒ̀bəbᵻ̀lᵻti dɛ́nsᵻti fʌ́ŋkʃən ɑr kənsᵻ̀dərd æz ənɒ́məliz. 
+ənʌ́ðər wáɪdli júzd əpróʊʧ ᵻz dᵻ̀stəns-béɪst mɛ́θədz. 
+ðiz tɛkníks kənsᵻ̀dər ən ᵻ̀nstəns tə bi ən ənɒ́məli ᵻf ðə dᵻ̀stəns əv ðᵻs ᵻ̀nstəns tə ᵻts nɪ́rəst néɪbərz əksídz ə θrɛ́ʃòʊld. 
+ðə dᵻ̀stəns fʌ́ŋkʃən kən bi juklᵻ̀diən, manhattan:mænhǽtən, ɔr ɛ́ni ʌ́ðər sútəbəl mɛ́trᵻk dəpɛ́ndᵻŋ ɒn ðə spəsᵻ̀fᵻk kæ̀rəktərᵻ̀stᵻks əv ðə déɪtə. 
+wʌ́n wɛ́lnóʊn ǽlɡərᵻ̀ðəm ᵻn ðᵻs kǽtəɡɔ̀ri ᵻz ðə k-nɪ́rəst néɪbər (k-NN) ǽlɡərᵻ̀ðəm. 
+ᵻt aɪdɛ́ntᵻfàɪz ən ᵻ̀nstəns æz ən ənɒ́məli ᵻf ðə dᵻ̀stəns tə ðə kth nɪ́rəst néɪbər ᵻz ɡréɪtər ðʌn ə dəfáɪnd θrɛ́ʃòʊld. 
+sᵻ̀mᵻlərli, ðə lóʊkəl áʊtlaɪər fǽktər (LOF) ǽlɡərᵻ̀ðəm kəmpɛ́rz ðə dɛ́nsᵻti əv ən ᵻ̀nstəns wᵻð ðə dɛ́nsᵻti əv ᵻts néɪbərz. 
+ən ᵻ̀nstəns ᵻz kənsᵻ̀dərd ən ənɒ́məli ᵻf ᵻts dɛ́nsᵻti ᵻz sᵻɡnᵻ̀fᵻkəntli lóʊər ðʌn ðə dɛ́nsᵻtiz əv ᵻts néɪbərz. 
+klʌ́stərᵻŋ-béɪst mɛ́θədz kən ɔ́lsoʊ bi jútᵻlàɪzd fɔr ənɒ́məli dᵻtɛ́kʃən. 
+hír, ðə aɪdíə ᵻz tə ɡrúp sᵻ̀mᵻlər ᵻ̀nstənsᵻz ᵻntu klʌ́stərz, ðɛn ᵻ̀nstənsᵻz thət ɑr fɑ́r əwéɪ frəm ðɛr nɪ́rəst klʌ́stər kən bi kənsᵻ̀dərd ənɒ́məliz. 
+ðə əsʌ́mpʃən ᵻz thət nɔ́rməl déɪtə ᵻ̀nstənsᵻz bᵻlɔ́ŋ tə klʌ́stərz wáɪl ənɒ́məliz dú nɒt bᵻlɔ́ŋ tə ɛ́ni klʌ́stərz ɔr bᵻlɔ́ŋ tə smɔ́l ɔr spɑ́rs klʌ́stərz. 
+dɛ́nsᵻti-béɪst ǽlɡərᵻ̀ðəmz sʌʧ æz DBSCAN, wᵻ̀ʧ kən dᵻskʌ́vər klʌ́stərz əv ɑ́rbᵻtrɛ̀ri ʃéɪp, kən bi pɑ̀rtᵻ̀kjələrli əféktᵻv ᵻn ənɒ́məli dᵻtɛ́kʃən. 
+ᵻn DBSCAN, ə klʌ́stər ᵻz ə dɛ́ns ríʤən əv déɪtə ᵻ̀nstənsᵻz səráʊndᵻd baɪ ríʤənz əv lóʊər dɛ́nsᵻti. 
+ᵻ̀nstənsᵻz lóʊkèɪtᵻd ᵻn lóʊ-dɛ́nsᵻti ríʤənz kən ðɛn bi léɪbəld æz ənɒ́məliz. 
+wɛ́n ᵻt kʌ́mz tə háɪ-dᵻmɛ́nʃənəl déɪtə, ðə prᵻ̀nsᵻpəl kəmpóʊnənt ənǽlᵻsᵻs (PCA) tɛkník ᵻz ɔ́fən əpláɪd fɔr ənɒ́məli dᵻtɛ́kʃən. 
+PCA ᵻz ə dᵻmɛ̀nʃənǽlᵻti rədʌ́kʃən tɛkník thət trænsfɔ́rmz ðə déɪtə ᵻntu ə nu koʊɔ́rdᵻnèɪt sᵻ̀stəm sʌʧ thət ðə ɡréɪtəst vɛ́riəns ᵻn ðə déɪtə kʌ́mz tə láɪ ɒn ðə fɜ́rst koʊɔ́rdᵻnèɪt (kɔ́ld ðə fɜ́rst prᵻ̀nsᵻpəl component), ðə sɛ́kənd ɡréɪtəst vɛ́riəns ɒn ðə sɛ́kənd koʊɔ́rdᵻnèɪt, ənd soʊ ɒn. 
+ənɒ́məliz kən bi dᵻtɛ́ktᵻd ᵻn ðə lóʊər-vɛ́riəns dᵻmɛ́nʃənz, wᵻ̀ʧ rɛ̀prəzɛ́nt ðə nɔ́ɪz ənd ɛ́rər kəmpóʊnənts əv ðə déɪtə. 
+ən ᵻ̀mpɔ́rtənt ǽspɛ̀kt əv ənɒ́məli dᵻtɛ́kʃən ᵻz ðə əvæ̀ljuéɪʃən əv ðə əfɛ́ktᵻvnəs əv ə ʧóʊzən mɛ́θəd. 
+ᵻn ðə ʌ̀nsúpərvàɪzd lɜ́rnᵻŋ kɒ́ntɛkst, ðᵻs ᵻz ɔ́fən ʧǽlənʤᵻŋ djú tə ðə lǽk əv ə ɡráʊnd trúθ. 
+nɒ́vəlti dᵻtɛ́kʃən kən bi wʌ́n strǽtəʤi wɛ́r ə mɒ́dəl ᵻz tréɪnd ɒn ə déɪtəsɛ̀t thət dʌz nɒt kəntéɪn ənɒ́məliz. 
+ðə mɒ́dəl ᵻz ðɛn júzd tə dᵻtɛ́kt ənɒ́məliz ᵻn nu ʌ̀nsín déɪtə. 
+ᵻn kənklúʒən, ənɒ́məli dᵻtɛ́kʃən ᵻz ə krᵻ̀tᵻkəl ǽspɛ̀kt əv ʌ̀nsúpərvàɪzd lɜ́rnᵻŋ, wᵻ̀ʧ əláʊz ʌs tə aɪdɛ́ntᵻfàɪ ʌ̀njúʒùəl ənd pətɛ́nʃəli ᵻ̀ntərəstᵻŋ pǽtərnz ᵻn ðə déɪtə. 
+ðiz kən bi váɪtəl fɔr númərəs æ̀plᵻkéɪʃənz ənd ɑr fʌ̀ndəmɛ́ntəl ᵻn ɛnʃʊ́rᵻŋ rəláɪəbəl ənd trʌ́stwɜ̀rði məʃín lɜ́rnᵻŋ mɒ́dəlz. 
+
+B002C009: ʌ̀nsúpərvàɪzd lɜ́rnᵻŋ - dᵻmɛ̀nʃənǽlᵻti rədʌ́kʃən. 
+æz ðə kwɒ́ntᵻti əv déɪtə ᵻ̀nkrìsᵻz ᵻn ðə mɒ́dərn dᵻ̀ʤᵻtəl wɜ́rld, soʊ dʌz ðə dᵻmɛ̀nʃənǽlᵻti əv ðə déɪtə. 
+wáɪl hǽvᵻŋ mɔr ᵻ̀nfərméɪʃən ᵻz bɛ̀nəfᵻ̀ʃəl, háɪ-dᵻmɛ́nʃənəl déɪtə kən bi ʧǽlənʤᵻŋ tə wɜ́rk wᵻð, méɪnli djú tə ðə sóʊkɔ́ld "kɜ́rs əv dᵻmɛ̀nʃənǽlᵻti," wᵻ̀ʧ əfɛ́kts ðə kɒ̀mpjutéɪʃənəl əfᵻ̀ʃənsi ənd pərfɔ́rməns əv məʃín lɜ́rnᵻŋ mɒ́dəlz. 
+dᵻmɛ̀nʃənǽlᵻti rədʌ́kʃən kʌ́mz tə ðə rɛ́skju baɪ trænsfɔ́rmᵻŋ ðə déɪtə ᵻntu ə lóʊər-dᵻmɛ́nʃənəl spéɪs, ðɛ́rbáɪ méɪkᵻŋ ᵻt mɔr mǽnᵻʤəbəl ənd kɒ̀mprəhɛ́nsᵻbəl wᵻðáʊt sǽkrᵻfàɪsᵻŋ tú mʌʧ vǽljəbəl ᵻ̀nfərméɪʃən. 
+dᵻmɛ̀nʃənǽlᵻti rədʌ́kʃən tɛkníks kən bi klǽsᵻfàɪd ᵻntu tú brɔ́d kǽtəɡɔ̀riz: fíʧər səlɛ́kʃən ənd fíʧər əkstrǽkʃən. 
+fíʧər səlɛ́kʃən ᵻ̀nvɒ́lvz səlɛ́ktᵻŋ ə sʌ́bsɛ̀t əv ðə ərᵻ̀ʤᵻnəl fíʧərz wáɪl fíʧər əkstrǽkʃən kɒ́nstrəkts ə nu sɛ́t əv fíʧərz frəm ðə ərᵻ̀ʤᵻnəl wʌ́nz. 
+prᵻ̀nsᵻpəl kəmpóʊnənt ənǽlᵻsᵻs (PCA) ᵻz əmʌ́ŋ ðə móʊst pɒ́pjələr fíʧər əkstrǽkʃən tɛkníks. 
+ᵻt wɜ́rks baɪ aɪdɛ́ntᵻfàɪᵻŋ ðə háɪpərpléɪn thət láɪz klóʊsəst tə ðə déɪtə ənd ðɛn prɒ́ʤɛkts ðə déɪtə ɒ́ntu ᵻt. 
+ðə ǽksᵻs thət əkspléɪnz ðə mǽksᵻməm vɛ́riəns ᵻn ðə déɪtə ᵻz ðə fɜ́rst prᵻ̀nsᵻpəl kəmpóʊnənt. 
+ðə sɛ́kənd prᵻ̀nsᵻpəl kəmpóʊnənt ᵻz ɔrθɔ́ɡənəl tə ðə fɜ́rst ənd əkspléɪnz ðə mǽksᵻməm əmáʊnt əv rəméɪnᵻŋ vɛ́riəns, ənd soʊ ɒn. 
+ðə déɪtə ᵻz ðɛ́rbáɪ rɛ̀prəzɛ́ntᵻd ᵻn tɜ́rmz əv ᵻts prᵻ̀nsᵻpəl kəmpóʊnənts, wᵻ̀ʧ ɑr lᵻ̀niər kɒ̀mbᵻnéɪʃənz əv ðə ərᵻ̀ʤᵻnəl vɛ́riəbəlz. 
+PCA méɪks ðə əsʌ́mpʃən thət ðə prᵻ̀nsᵻpəl kəmpóʊnənts ɑr ə lᵻ̀niər kɒ̀mbᵻnéɪʃən əv ðə ərᵻ̀ʤᵻnəl fíʧərz. 
+ᵻn ᵻ̀nstənsᵻz wɛ́r ðᵻs ᵻz nɒt ðə kéɪs, nɒnlᵻ̀nìər dᵻmɛ̀nʃənǽlᵻti rədʌ́kʃən tɛkníks sʌʧ æz kɜ́rnəl PCA kən bi júzd. 
+kɜ́rnəl PCA júsᵻz ðə séɪm kɒ́nsɛpt æz PCA bʌt əpláɪz ᵻt ᵻn ə háɪər-dᵻmɛ́nʃənəl fíʧər spéɪs ᵻ̀ndúst baɪ ə kɜ́rnəl fʌ́ŋkʃən. 
+ənʌ́ðər pɒ́pjələr nɒnlᵻ̀nìər tɛkník ᵻz t-dᵻstrᵻ̀bjətᵻd stoʊkǽstᵻk néɪbər ɛmbɛ́dᵻŋ (t-SNE). 
+ðᵻs mɛ́θəd rədjúsᵻz dᵻmɛ̀nʃənǽlᵻti wáɪl tráɪᵻŋ tə kíp sᵻ̀mᵻlər ᵻ̀nstənsᵻz kloʊs|kloʊz ənd dᵻsᵻ̀mᵻlər ᵻ̀nstənsᵻz əpɑ́rt. 
+ᵻ̀ts əspɛ́ʃəli əféktᵻv wɛ́n vᵻ̀ʒwəlàɪzᵻŋ háɪ-dᵻmɛ́nʃənəl déɪtəsɛ̀ts ᵻn tú ɔr θrí dᵻmɛ́nʃənz. 
+lóʊkəli lᵻ̀niər ɛmbɛ́dᵻŋ (LLE) ᵻz ənʌ́ðər əféktᵻv mɛ́θəd əv nɒnlᵻ̀nìər dᵻmɛ̀nʃənǽlᵻti rədʌ́kʃən. 
+ʌ̀nláɪk PCA ənd t-SNE, LLE dʌz nɒt fóʊkəs ɒn prəzɜ́rvᵻŋ dᵻ̀stənsᵻz bitwín ᵻ̀nstənsᵻz. 
+ᵻ̀nstɛ́d, ᵻt meɪntéɪnz rəléɪʃənʃᵻ̀ps ᵻn tɜ́rmz əv néɪbərz. 
+ᵻf ən ᵻ̀nstəns ᵻz ə lᵻ̀niər kɒ̀mbᵻnéɪʃən əv ᵻts néɪbərz ᵻn ðə háɪ-dᵻmɛ́nʃənəl spéɪs, LLE wᵻl ənʃʊ́r ᵻt stéɪz thət weɪ ᵻn ðə lóʊər-dᵻmɛ́nʃənəl spéɪs. 
+ənʌ́ðər túl júzd ᵻn dᵻmɛ̀nʃənǽlᵻti rədʌ́kʃən ᵻz ɔ̀toʊɛnkʌ́ʊdərz, ə táɪp əv ɑ̀rtᵻfᵻ̀ʃəl nʊ́rəl nɛ́twɜ̀rk. 
+ən ɔ̀toʊɛnkʌ́ʊdər ᵻz dᵻzáɪnd tə lɜ́rn ən aɪdɛ́ntᵻtì fʌ́ŋkʃən ᵻn ən ʌ̀nsúpərvàɪzd mǽnər tə rìkənstrʌ́kt ðə ᵻ̀npʊ̀t déɪtə wáɪl tráɪᵻŋ tə ɛnkóʊd ðə déɪtə ᵻn ðə prɒ́sɛ̀s. 
+ðə aɪdíə ᵻz tə lɜ́rn ə kəmprɛ́st rɛ̀prəzɛntéɪʃən əv ðə déɪtə, əfɛ́ktᵻvli rədjúsᵻŋ ᵻts dᵻmɛ̀nʃənǽlᵻti. 
+dᵻmɛ̀nʃənǽlᵻti rədʌ́kʃən tɛkníks nɒt óʊnli rədjús kɒ̀mpjutéɪʃənəl rísɔrs rəkwáɪrmənts ənd òʊvərfᵻ̀tᵻŋ bʌt kən ɔ́lsoʊ hɛ́lp ᵻn déɪtə vᵻ̀ʒwəlᵻzéɪʃən. 
+háɪ-dᵻmɛ́nʃənəl déɪtə kǽnɒt bi vᵻ̀ʒwəlàɪzd dᵻrɛ́kli, bʌt baɪ rədjúsᵻŋ ᵻt tə tú ɔr θrí dᵻmɛ́nʃənz, ᵻt kən bi plɒ́tᵻd ənd ʌ̀ndərstʊ́d mɔr ízəli. 
+ðᵻs éɪdz ᵻn ɡéɪnᵻŋ ᵻ̀nsàɪts ənd ʌ̀ndərstǽndᵻŋ strʌ́kʧərz ənd pǽtərnz wᵻðᵻ̀n ðə déɪtə. 
+wʌ́n θᵻ̀ŋ tə rəmɛ́mbər ᵻz thət wáɪl dᵻmɛ̀nʃənǽlᵻti rədʌ́kʃən ᵻz júsfəl, ᵻ̀ts nɒt ɔ́lwèɪz nɛ́səsɛ̀ri ənd maɪt ívᵻn lɛ́d|líd tə wɜ́rs pərfɔ́rməns fɔr sʌm tǽsks. 
+ᵻ̀ts krúʃəl tə kənsᵻ̀dər ðə néɪʧər əv ðə déɪtə, ðə prɒ́bləm æt hǽnd, ənd ðə spəsᵻ̀fᵻk mɒ́dəl bíᵻŋ júzd bìfɔ́r dᵻ̀sáɪdᵻŋ tə əpláɪ dᵻmɛ̀nʃənǽlᵻti rədʌ́kʃən. 
+ᵻn kənklúʒən, dᵻmɛ̀nʃənǽlᵻti rədʌ́kʃən ᵻz ən ᵻ̀nvǽljəbəl túl ᵻn ʌ̀nsúpərvàɪzd məʃín lɜ́rnᵻŋ. 
+ᵻt dílz wᵻð ðə háɪ dᵻmɛ̀nʃənǽlᵻti əv mɒ́dərn déɪtə, méɪkᵻŋ ᵻt mɔr mǽnᵻʤəbəl ənd kɒmprəhɛ́ndᵻbəl. 
+mɔróʊvər, ᵻt kəntrᵻ̀bjuts tə ðə ənhǽnsmənt əv kɒ̀mpjutéɪʃənəl əfᵻ̀ʃənsi, rədʌ́kʃən əv stɔ́rᵻʤ spéɪs, ənd ðə əbᵻ̀lᵻti tə vᵻ̀ʒwəlàɪz háɪ-dᵻmɛ́nʃənəl déɪtə. 
+
+B002C010: rìᵻnfɔ́rsmənt lɜ́rnᵻŋ. 
+rìᵻnfɔ́rsmənt lɜ́rnᵻŋ ᵻz ə sɛ́gmənt|səgmɛ́nt əv məʃín lɜ́rnᵻŋ wɛ́r ən éɪʤənt lɜ́rnz tə bᵻhéɪv ᵻn ən ənváɪrənmənt, baɪ pərfɔ́rmᵻŋ sɜ́rtən ǽkʃənz ənd əbzɜ́rvᵻŋ ðə rəzʌ́lts (rəwɔ́rdz ɔr pɛ́nəltiz) əv ðoʊz ǽkʃənz. 
+óʊvər táɪm, ðə éɪʤənt lɜ́rnz tə ətéɪn ᵻts ɡóʊl wᵻðᵻ̀n ðə prəváɪdᵻd kɒ́ntɛkst. 
+ʌ̀nláɪk súpərvàɪzd lɜ́rnᵻŋ wɛ́r ðə éɪʤənt ᵻz tɔ́t ðə kərɛ́kt səlúʃən, ɔr ʌ̀nsúpərvàɪzd lɜ́rnᵻŋ wɛ́r ðə éɪʤənt fáɪndz hᵻ̀dən pǽtərnz ᵻn déɪtə, rìᵻnfɔ́rsmənt lɜ́rnᵻŋ ᵻz əbaʊt ᵻ̀ntərǽkʃən ənd ɛ̀kspləréɪʃən. 
+sɛ́ntrəl tə rìᵻnfɔ́rsmənt lɜ́rnᵻŋ ᵻz ðə kɒ́nsɛpt əv ðə éɪʤənt ənd ənváɪrənmənt. 
+ðə éɪʤənt ᵻz ðə lɜ́rnər ənd dəsᵻ̀ʒən-méɪkər, ənd ðə ənváɪrənmənt ᵻ̀nklúdz ɛ́vriθᵻ̀ŋ thət ðə éɪʤənt ᵻ̀ntərǽkts wᵻð. 
+ðə éɪʤənt méɪks dəsᵻ̀ʒənz ᵻn ðə fɔ́rm əv ǽkʃənz, ənd ðə ənváɪrənmənt rəspɒ́ndz tə ðiz ǽkʃənz ənd prɛ́zənts nu sᵻ̀ʧuéɪʃənz tə ðə éɪʤənt. 
+ðə ənváɪrənmənt ɔ́lsoʊ ɡᵻ̀vz rəwɔ́rdz - pɒ́zᵻtᵻv ɔr nɛ́ɡətᵻv - wᵻ̀ʧ ɡáɪd ðə éɪʤənt tə ðə ʌ́ltᵻmət ɡóʊl. 
+ðə ᵻ̀ntərǽkʃən bitwín ðə éɪʤənt ənd ðə ənváɪrənmənt ᵻz dʌ́n θrú ə síkwəns əv stéɪt-ǽkʃən-rəwɔ́rd túpəlz lídᵻŋ tə ə trəʤɛ́ktəri, wᵻ̀ʧ kʊ́d bi fáɪnàɪt ɔr ᵻ̀nfᵻnᵻt. 
+ðᵻs síkwəns ᵻz fɔ́rməlàɪzd ᵻntu ə kɒ́nsɛpt kɔ́ld ə mɑ́rkoʊv dəsᵻ̀ʒən prɒ́sɛ̀s (MDP), ðə mæ̀θəmǽtᵻkəl fréɪmwɜ̀rk júzd fɔr mɒ́dəlᵻ̀ŋ dəsᵻ̀ʒən méɪkᵻŋ ᵻn sᵻ̀ʧuéɪʃənz wɛ́r áʊtkʌ̀mz ɑr pɑ́rtli rǽndəm ənd pɑ́rtli ʌ́ndər ðə kəntróʊl əv ə dəsᵻ̀ʒən-méɪkər. 
+ən ᵻ̀mpɔ́rtənt ǽspɛ̀kt əv rìᵻnfɔ́rsmənt lɜ́rnᵻŋ ᵻz ðə pɒ́lᵻsi. 
+A pɒ́lᵻsi ᵻz ə strǽtəʤi thət ðə éɪʤənt ɛmplɔ́ɪz tə dətɜ́rmᵻn ðə nɛ́kst ǽkʃən béɪst ɒn ðə kɑ́rənt stéɪt. 
+ᵻt kən bi dətɜ̀rmᵻnᵻ̀stᵻk, wɛ́r ðə ǽkʃən ᵻz fᵻ̀kst fɔr iʧ stéɪt, ɔr stoʊkǽstᵻk, wɛ́r ðɛ́rz ə prɒ̀bəbᵻ̀lᵻti dᵻ̀strəbjúʃən óʊvər ǽkʃənz. 
+rìᵻnfɔ́rsmənt lɜ́rnᵻŋ mɛ́θədz kən bi klǽsᵻfàɪd ᵻntu θrí méɪn táɪps: vǽlju-béɪst, pɒ́lᵻsi-béɪst, ənd mɒ́dəl-béɪst. 
+vǽlju-béɪst mɛ́θədz, sʌʧ æz q-lɜ́rnᵻŋ, sík tə fáɪnd ən ɒ́ptᵻməl vǽlju fʌ́ŋkʃən, wᵻ̀ʧ ᵻz ə mɛ́ʒər əv ðə lɔ́ŋtɜ́rm əkspɛ́ktᵻd rəwɔ́rd fɔr iʧ ǽkʃən ᵻn iʧ stéɪt. 
+pɒ́lᵻsi-béɪst mɛ́θədz, láɪk pɒ́lᵻsi ɡréɪdiənt, dᵻrɛ́kli fáɪnd ðə ɒ́ptᵻməl pɒ́lᵻsi wᵻðáʊt əbtéɪnᵻŋ ðə vǽlju fʌ́ŋkʃən. 
+mɒ́dəl-béɪst mɛ́θədz tráɪ tə mɒ́dəl ðə ənváɪrənmənt ənd ðɛn jus|juz thət mɒ́dəl tə méɪk dəsᵻ̀ʒənz. 
+ðə ɛ̀kspləréɪʃən vɜ́rsəs ɛ̀ksplɔ̀ɪtéɪʃən tréɪdɔ̀f ᵻz ə krᵻ̀tᵻkəl ʧǽlənʤ ᵻn rìᵻnfɔ́rsmənt lɜ́rnᵻŋ. 
+ɛ̀kspləréɪʃən ᵻz wɛ́n ðə éɪʤənt próʊbz ðə ənváɪrənmənt tə fáɪnd mɔr ᵻ̀nfərméɪʃən, wáɪl ɛ̀ksplɔ̀ɪtéɪʃən ᵻz wɛ́n ðə éɪʤənt júsᵻz ðə nɒ́lᵻʤ ᵻt həz ɡéɪnd tə ɡɛt ðə háɪəst rəwɔ́rd. 
+bǽlənsᵻŋ bitwín ðiz tú strǽtəʤiz ᵻz nɛ́səsɛ̀ri fɔr əféktᵻv lɜ́rnᵻŋ. 
+ənʌ́ðər kí kɒ́nsɛpt ᵻn rìᵻnfɔ́rsmənt lɜ́rnᵻŋ ᵻz tɛ́mpərəl dᵻ̀fərəns lɜ́rnᵻŋ (TD Learning), ə kɒ̀mbᵻnéɪʃən əv mɒ́nti carlo:kɑ́rloʊ aɪdíəz ənd daɪnǽmᵻk próʊɡræ̀mᵻŋ aɪdíəz. 
+tɛ́mpərəl dᵻ̀fərəns lɜ́rnᵻŋ ᵻz júʒəli júzd tə prədᵻ̀kt ðə vǽlju əv ə stéɪt ɔr ǽkʃən baɪ kəntᵻ̀njuəli ʌ́pdèɪtᵻŋ ðə ɛ́stᵻmèɪt béɪst ɒn ðə əbzɜ́rvd rəwɔ́rdz ənd ðə kɑ́rənt ɛ́stᵻmèɪt. 
+fáɪnəli, lɛ́ts tʌ́ʧ əpɒ́n díp rìᵻnfɔ́rsmənt lɜ́rnᵻŋ, wɛ́r díp lɜ́rnᵻŋ ənd rìᵻnfɔ́rsmənt lɜ́rnᵻŋ mít. 
+baɪ júzᵻŋ nʊ́rəl nɛ́twɜ̀rks, ðə éɪʤənt kən lɜ́rn frəm ə lɑ́rʤ əmáʊnt əv ʌ̀nprɔ́sɛ̀st déɪtə. 
+ðᵻs ᵻz əspɛ́ʃəli júsfəl ᵻn sənǽrioʊz wɛ́r ðə stéɪt ənd ǽkʃən spéɪsᵻz ɑr lɑ́rʤ ɔr ᵻ̀nfᵻnᵻt. 
+ᵻn sʌ́məri, rìᵻnfɔ́rsmənt lɜ́rnᵻŋ ɔ́fərz ə roʊbʌ́st fréɪmwɜ̀rk tə lɜ́rn frəm ᵻ̀ntərǽkʃən ənd tráɪəl-ənd-ɛ́rər. 
+ᵻts junᵻ̀k əpróʊʧ əv tréɪnᵻŋ éɪʤənts tə pərfɔ́rm tǽsks həz fáʊnd səksɛ́s ᵻn vɛ́riəs ɛ́riəz, ᵻ̀nklúdᵻŋ ɡéɪmz, ròʊbɒ́tᵻks, ənd rísɔrs mǽnəʤmənt. 
+dᵻspáɪt ᵻts ʧǽlənʤᵻz, ðə daɪnǽmᵻk ənd ədǽptᵻv néɪʧər əv rìᵻnfɔ́rsmənt lɜ́rnᵻŋ méɪks ᵻt ə páʊərfəl túl ᵻn ðə məʃín lɜ́rnᵻŋ túlbɔ̀ks. 
+
+B002C011: ðə nɔ́rməl əkwéɪʒən mɛ́θəd. 
+ðə nɔ́rməl əkwéɪʒən ᵻz ə mɛ́θəd júzd ᵻn məʃín lɜ́rnᵻŋ tə sɒ́lv fɔr ðə səlúʃən tə ə lᵻ̀niər rəɡrɛ́ʃən prɒ́bləm æ̀nəlᵻ̀tᵻkli. 
+ᵻ̀nstɛ́d əv júzᵻŋ ᵻ̀tərətᵻv ǽlɡərᵻ̀ðəmz láɪk ɡréɪdiənt dᵻsɛ́nt tə ɡrǽʤuəli rəfáɪn ðə mɒ́dəl pərǽmətərz, ðə nɔ́rməl əkwéɪʒən prəváɪdz ə weɪ tə dᵻrɛ́kli fáɪnd ðə səlúʃən. 
+lᵻ̀niər rəɡrɛ́ʃən ᵻz ə mɛ́θəd thət mɒ́dəlz ðə rəléɪʃənʃᵻ̀p bitwín tú ɔr mɔr fíʧərz ənd ə rəspɒ́ns baɪ fᵻ̀tᵻŋ ə lᵻ̀niər əkwéɪʒən tə əbzɜ́rvd déɪtə. 
+ðə stɛ́ps tə pərfɔ́rm lᵻ̀niər rəɡrɛ́ʃən ɑr sʌbstǽnʃəli sᵻ̀mpləfàɪd baɪ ðə nɔ́rməl əkwéɪʒən. 
+ðə aɪdíə bᵻháɪnd ðə nɔ́rməl əkwéɪʒən ᵻz ɡráʊndᵻd ᵻn lᵻ̀niər ǽlʤəbrə ənd kǽlkjələs. 
+ðə ɡóʊl əv lᵻ̀niər rəɡrɛ́ʃən ᵻz tə fáɪnd ðə vǽljuz fɔr ðə mɒ́dəl pərǽmətərz thət mᵻ̀nᵻmàɪz ðə kɒ́st fʌ́ŋkʃən, ɔ́fən ðə sʌ́m əv skwɛ́rd dᵻ̀fərənsᵻz bitwín ðə prədᵻ̀ktᵻd ənd ǽkʧəl áʊtpʊ̀t vǽljuz. 
+ðə nɔ́rməl əkwéɪʒən ᵻz dəráɪvd baɪ sɛ́tᵻŋ ðə ɡréɪdiənt əv ðᵻs kɒ́st fʌ́ŋkʃən tə zíroʊ, ənd sɒ́lvᵻŋ fɔr ðə pərǽmətər vɛ́ktər. 
+ðə nɔ́rməl əkwéɪʒən téɪks ðə fɒ́loʊᵻŋ fɔ́rm: θ = (X^T * X)^-1 * X^T * wáɪ 
+ᵻn ðᵻs əkwéɪʒən, θ ᵻz ðə vɛ́ktər əv mɒ́dəl pərǽmətərz thət mᵻ̀nᵻmàɪzᵻz ðə kɒ́st fʌ́ŋkʃən, X ᵻz ðə méɪtrᵻks əv ᵻ̀npʊ̀t fíʧərz, ənd y ᵻz ðə vɛ́ktər əv áʊtpʊ̀t vǽljuz. 
+ðɛr ɑr ə fjú ᵻ̀mpɔ́rtənt θᵻ̀ŋz tə nóʊt əbaʊt ðə nɔ́rməl əkwéɪʒən. 
+fɜ́rstli, ðə nɔ́rməl əkwéɪʒən rəkwáɪərz ðə ᵻ̀nvɜ́rʒən əv ðə méɪtrᵻks (X^T * X). 
+ðᵻs ɒ̀pəréɪʃən ᵻz kɒ̀mpjətéɪʃənəli əkspɛ́nsᵻv ənd ðə kɒ̀mpjutéɪʃənəl kəmplɛ́ksᵻti ɡróʊz rǽpᵻdli wᵻð ðə nʌ́mbər əv fíʧərz. 
+ðɛ́rfɔ̀r, ðᵻs mɛ́θəd ᵻz bɛ́st sútᵻd fɔr déɪtəsɛ̀ts wᵻð ə smɔ́l nʌ́mbər əv fíʧərz (ᵻn ðə réɪnʤ əv thousands), bʌt ᵻt kən hǽndəl lɑ́rʤ nʌ́mbərz əv ᵻ̀nstənsᵻz ᵻn ðə déɪtəsɛ̀t əfᵻ̀ʃəntli. 
+sɛ́kəndli, ðᵻs əkwéɪʒən meɪ sʌ́fər frəm numɛ́rəkəl ᵻ̀nstəbᵻ̀lᵻti ᵻf ðə méɪtrᵻks (X^T * X) ᵻz nɒt ᵻnvɜ́rrtᵻbəl, ɔr nɪ́rli soʊ. 
+ðᵻs ᵻ̀ʃu ᵻz kɒ́mənli rəfɜ́rd tə æz mʌ̀ltikəlᵻ̀niǽrᵻti, wᵻ̀ʧ wi wᵻl dɛ́lv ᵻntu ᵻn ə léɪtər ʧǽptər. 
+brífli, ᵻt əráɪzᵻz wɛ́n tú ɔr mɔr ᵻ̀npʊ̀t fíʧərz ɑr háɪli kɔ́rəlèɪtᵻd, ənd kən lɛ́d|líd tə lɑ́rʤ ʧéɪnʤᵻz ᵻn ðə mɒ́dəl pərǽmətərz fɔr smɔ́l ʧéɪnʤᵻz ᵻn ðə déɪtə. 
+θɜ́rdli, dᵻspáɪt ðiz lᵻ̀mᵻtéɪʃənz, ə méɪʤər ædvǽntᵻʤ əv ðə nɔ́rməl əkwéɪʒən ᵻz thət ᵻt prəváɪdz ən əɡzǽkt səlúʃən ᵻn wʌ́n kæ̀lkjəléɪʃən. 
+ðɛr ᵻz noʊ níd tə ʧúz ə lɜ́rnᵻŋ réɪt ɔr ᵻ̀təreɪt ʌ̀ntᵻ̀l kənvɜ́rʤəns, ʌ̀nláɪk ɡréɪdiənt dᵻsɛ́nt. 
+ᵻn sʌ́məri, ðə nɔ́rməl əkwéɪʒən mɛ́θəd prəváɪdz ən æ̀nəlᵻ̀tᵻkəl səlúʃən tə ðə lᵻ̀niər rəɡrɛ́ʃən prɒ́bləm, ənd ᵻ̀ts ən ᵻ̀mpɔ́rtənt túl ᵻn ðə məʃín lɜ́rnᵻŋ præktᵻ̀ʃənər’z ɑ́rsənəl. 
+wáɪl ᵻ̀ts bɛ́st sútᵻd tə prɒ́bləmz wᵻð ə smɔ́l nʌ́mbər əv fíʧərz, ᵻt prəváɪdz ə kwᵻ̀k ənd dᵻrɛ́kt mɛ́θəd fɔr fáɪndᵻŋ ðə ɒ́ptᵻməl mɒ́dəl pərǽmətərz wᵻðáʊt ðə níd fɔr ᵻ̀tərətᵻv ɒptᵻmᵻzéɪʃən. 
+wɛ́n júzd əpróʊpriᵻtli, ᵻt kən bi ə páʊərfəl mɛ́θəd fɔr lᵻ̀niər rəɡrɛ́ʃən mɒ́dəlᵻ̀ŋ. 
+
+B002C012: lᵻ̀niər rəɡrɛ́ʃən. 
+lᵻ̀niər rəɡrɛ́ʃən ᵻz ə faʊndéɪʃənəl ǽlɡərᵻ̀ðəm ᵻn məʃín lɜ́rnᵻŋ ənd stətᵻ̀stᵻks, júzd fɔr prədᵻ̀ktᵻŋ ə kəntᵻ̀njuəs áʊtkʌ̀m vɛ́riəbəl (ɔ́lsoʊ kɔ́ld ðə dəpɛ́ndənt vɛ́riəbəl) béɪst ɒn wʌ́n ɔr mɔr prədᵻ̀ktər vɛ́riəbəlz (ɔ́lsoʊ nóʊn æz ᵻ̀ndəpɛ́ndənt variables). 
+ᵻt prəzúmz ə lᵻ̀niər rəléɪʃənʃᵻ̀p bitwín ðə prədᵻ̀ktərz ənd ðə áʊtkʌ̀m vɛ́riəbəl, wᵻ̀ʧ ᵻz sʌ́məràɪzd ᵻntu ə mɒ́dəl əkwéɪʒən. 
+ᵻn ᵻts sᵻ̀mpləst fɔ́rm, lᵻ̀niər rəɡrɛ́ʃən fᵻ̀ts ə stréɪt láɪn tə ðə rəléɪʃənʃᵻ̀p bitwín ə sᵻ̀ŋɡəl prədᵻ̀ktər vɛ́riəbəl ənd ðə rəspɒ́ns. 
+ðə láɪn ᵻz əksprɛ́st mæ̀θəmǽtᵻkəli æz: y = θ0 + θ1*x. 
+hír, y rɛ̀prəzɛ́nts ðə prədᵻ̀ktᵻd rəspɒ́ns, x ᵻz ðə prədᵻ̀ktər vɛ́riəbəl, θ0 ᵻz ðə y-ᵻ̀ntərsɛ́pt əv ðə láɪn, ənd θ1 ᵻz ðə slóʊp. 
+ðə slóʊp kwɒ́ntᵻfaɪz ðə ʧéɪnʤ ᵻn y fɔr iʧ wʌ́n-júnᵻt ʧéɪnʤ ᵻn x, wáɪl ðə ᵻ̀ntərsɛ́pt spɛ́sᵻfàɪz ðə vǽlju əv y wɛ́n x íkwəlz zíroʊ. 
+lᵻ̀niər rəɡrɛ́ʃən, hàʊɛ́vər, ᵻz nɒt lᵻ̀mᵻtᵻd tə sᵻ̀ŋɡəl-vɛ́riəbəl sɛ́tᵻŋz. 
+ᵻn mʌ́ltᵻpəl lᵻ̀niər rəɡrɛ́ʃən, ðə mɒ́dəl ᵻ̀nkɔ́rpərèɪts tú ɔr mɔr prədᵻ̀ktərz. 
+ðə fɔ́rmjələ bəkʌ́mz: y = θ0 + θ1x1 + θ2x2 + _ + θn*xn. 
+iʧ kòʊəfᵻ̀ʃənt, θi, sᵻ̀ɡnᵻfàɪz ðə ʧéɪnʤ ᵻn y fɔr iʧ wʌ́n-júnᵻt ʃᵻ̀ft ᵻn ðə kɔ̀rəspɒ́ndᵻŋ prədᵻ̀ktər vɛ́riəbəl ʃí, ɔl ʌ́ðər prədᵻ̀ktərz hɛ́ld kɒ́nstənt. 
+ðᵻs prəváɪdz ə weɪ tə kənsᵻ̀dər ðə ᵻ̀mpækt|ᵻmpǽkt əv iʧ prədᵻ̀ktər wáɪl əʤʌ́stᵻŋ fɔr ðə əfɛ́kts əv ʌ́ðər prədᵻ̀ktərz ᵻn ðə mɒ́dəl. 
+lᵻ̀niər rəɡrɛ́ʃən ɛmplɔ́ɪz ə mɛ́θəd kɔ́ld ɔ́rdᵻnɛ̀ri líst skwɛ́rz (OLS) tə ɛ́stᵻmèɪt ðə kòʊəfᵻ̀ʃənts thət mᵻ̀nᵻmàɪz ðə sʌ́m əv skwɛ́rd rᵻzᵻ̀ʤuəlz. 
+ðə rᵻzᵻ̀ʤuəlz rɛ̀prəzɛ́nt ðə dᵻ̀fərəns bitwín ðə ǽkʧəl ənd prədᵻ̀ktᵻd rəspɒ́ns vǽljuz. 
+mᵻ̀nᵻmàɪzᵻŋ ðᵻs sʌ́m ənʃʊ́rz thət ðə mɒ́dəlz prədᵻ̀kʃənz ɑr æz kloʊs|kloʊz æz pɒ́sᵻbəl tə ðə əbzɜ́rvd déɪtə. 
+wáɪl páʊərfəl ənd vɜ́rsətaɪl, lᵻ̀niər rəɡrɛ́ʃən həz əsʌ́mpʃənz thət níd tə bi mɛ́t fɔr ᵻt tə wɜ́rk əfɛ́ktᵻvli. 
+ᵻt əsúmz lᵻ̀niǽrᵻti, ᵻ̀ndəpɛ́ndəns əv ɒ̀bzərvéɪʃənz, kɒ́nstənt vɛ́riəns (homoscedasticity), ənd nɔ́rməli dᵻstrᵻ̀bjətᵻd ɛ́rərz. 
+wɛ́n ðiz kəndᵻ̀ʃənz ɑr váɪəleɪtᵻd, ðə mɒ́dəlz prədᵻ̀kʃənz meɪ bəkʌ́m lɛ́s rəláɪəbəl. 
+lᵻ̀niər rəɡrɛ́ʃən ɔ́lsoʊ həz pətɛ́nʃəl pᵻ̀tfɔ̀lz. 
+fɔr ᵻ̀nstəns, ᵻ̀nklúdᵻŋ ᵻ̀rɛ́ləvənt prədᵻ̀ktər vɛ́riəbəlz kən ᵻ̀ntrədús nɔ́ɪz thət əbskjʊ́rz ríəl rəléɪʃənʃᵻ̀ps. 
+kɒ́nvərsli, oʊmᵻ̀tᵻŋ ᵻ̀mpɔ́rtənt prədᵻ̀ktərz kən kriéɪt mᵻslídᵻŋ ᵻ̀ntɜ̀rprᵻtéɪʃənz. 
+ᵻ̀ts ɔ́lsoʊ ᵻ̀mpɔ́rtənt tə bi əwɛ́r əv mʌ̀ltikəlᵻ̀niǽrᵻti, wɛ́r prədᵻ̀ktər vɛ́riəbəlz ɑr háɪli kɔ́rəlèɪtᵻd wᵻð iʧ ʌ́ðər, wᵻ̀ʧ kən kɒ́z prɒ́bləmz ᵻn ᵻ̀ntərprɛ̀tᵻŋ ðə kòʊəfᵻ̀ʃənts əv ðə prədᵻ̀ktərz. 
+mɔróʊvər, ðə prɛ́zəns əv áʊtlaɪərz kən ɡréɪtli ǽfɛkt|əfɛ́kt ðə fᵻ̀t əv ðə láɪn, pətɛ́nʃəli lídᵻŋ tə ᵻ̀nǽkjərət prədᵻ̀kʃənz. 
+wáɪl lᵻ̀niər rəɡrɛ́ʃən ᵻz roʊbʌ́st tə ə sɜ́rtən dᵻɡrí əv vaɪəléɪʃən əv ᵻts əsʌ́mpʃənz, ðɛr ɑr strǽtəʤiz, sʌʧ æz trænsfɔ́rmᵻŋ vɛ́riəbəlz ɔr júzᵻŋ roʊbʌ́st rəɡrɛ́ʃən mɛ́θədz, thət kən bi ɛmplɔ́ɪd wɛ́n ðiz əsʌ́mpʃənz ɑr səvɪ́rli váɪəleɪtᵻd. 
+dᵻspáɪt ðiz kənsᵻ̀dəréɪʃənz, lᵻ̀niər rəɡrɛ́ʃən ᵻz ə vǽljəbəl túl ᵻn ə déɪtə sáɪəntᵻsts túlkᵻt djú tə ᵻts sᵻmplᵻ̀sᵻti, ᵻntərprɛtəbᵻ̀lᵻti, ənd flɛ̀ksᵻbᵻ̀lᵻti. 
+ᵻt sɜ́rvz æz ə stɛ́pᵻŋ stóʊn tə mɔr kɒ́mplɛks ǽlɡərᵻ̀ðəmz ənd ᵻz ə ɡʊ́d stɑ́rtᵻŋ pɔ́ɪnt fɔr ɛ́ni prədᵻ̀ktᵻv mɒ́dəlᵻ̀ŋ tǽsk. 
+ᵻt ᵻz ɔ́lsoʊ ðə faʊndéɪʃən fɔr mɛ́ni ʌ́ðər mɛ́θədz ᵻ̀nklúdᵻŋ ləʤᵻ̀stᵻk rəɡrɛ́ʃən, pɒ̀lìnóʊmiəl rəɡrɛ́ʃən, rᵻ̀ʤ rəɡrɛ́ʃən, lǽsu rəɡrɛ́ʃən, ənd mɛ́ni mɔr. 
+ᵻn ðə kɒ́ntɛkst əv məʃín lɜ́rnᵻŋ, lᵻ̀niər rəɡrɛ́ʃən kən bi júzd æz ə prədᵻ̀ktᵻv mɒ́dəl, bʌt ᵻts kòʊəfᵻ̀ʃənts ɔ́lsoʊ prəváɪd vǽljəbəl ᵻ̀nfərméɪʃən əbaʊt ðə rəléɪʃənʃᵻ̀ps bitwín vɛ́riəbəlz, méɪkᵻŋ ᵻt ən ᵻ̀mpɔ́rtənt túl ᵻn əksplɔ́rətɔ̀ri déɪtə ənǽlᵻsᵻs ənd fíʧər səlɛ́kʃən æz wɛ́l. 
+ðʌs, ʌ̀ndərstǽndᵻŋ lᵻ̀niər rəɡrɛ́ʃən ᵻz ə fʌ̀ndəmɛ́ntəl stɛ́p ᵻn mǽstərᵻŋ məʃín lɜ́rnᵻŋ. 
+
+B002C013: pɒ̀lìnóʊmiəl rəɡrɛ́ʃən. 
+ᵻn sɜ́rtən sənǽrioʊz, ə lᵻ̀niər rəléɪʃənʃᵻ̀p bitwín prədᵻ̀ktərz ənd ðə áʊtkʌ̀m vɛ́riəbəl meɪ nɒt bi ðə bɛ́st fᵻ̀t fɔr ðə déɪtə. 
+ríəlwɜ̀rld fənɒ́mənə fríkwəntli həv ə mɔr kɒ́mplɛks strʌ́kʧər, sʌʧ æz ə kɜ́rv ɔr ə sɪ́riz əv píks ənd vǽliz. 
+pɒ̀lìnóʊmiəl rəɡrɛ́ʃən ᵻz ən əkstɛ́nʃən əv lᵻ̀niər rəɡrɛ́ʃən thət əláʊz fɔr ðiz mɔr kɒ́mplɛks rəléɪʃənʃᵻ̀ps baɪ ᵻ̀ntrədúsᵻŋ páʊərz əv ðə ərᵻ̀ʤᵻnəl prədᵻ̀ktər vɛ́riəbəlz ᵻntu ðə mɒ́dəl. 
+pɒ̀lìnóʊmiəl rəɡrɛ́ʃən’z ɡóʊl rəméɪnz ðə séɪm æz ᵻn lᵻ̀niər rəɡrɛ́ʃən: tə fáɪnd ðə bɛ́st-fᵻ̀tᵻŋ mɒ́dəl thət mᵻ̀nᵻmàɪzᵻz ðə rᵻzᵻ̀ʤuəlz, ɔr ðə dᵻ̀fərəns bitwín ðə ǽkʧəl ənd prədᵻ̀ktᵻd áʊtkʌ̀mz. 
+hàʊɛ́vər, ᵻ̀nstɛ́d əv fᵻ̀tᵻŋ ə stréɪt láɪn tə ðə déɪtə, pɒ̀lìnóʊmiəl rəɡrɛ́ʃən fᵻ̀ts ə kɜ́rv. 
+ᵻn ðə sᵻ̀mpləst kéɪs əv ə sᵻ̀ŋɡəl prədᵻ̀ktər vɛ́riəbəl x, ə sɛ́kənd-dᵻɡrí pɒ̀lìnóʊmiəl rəɡrɛ́ʃən mɒ́dəl wʊd lʊ́k láɪk ðᵻs: y = θ0 + θ1x + θ2x^2. 
+ðᵻs əkwéɪʒən rɛ̀prəzɛ́nts ə pɛ̀rəbɒ́lᵻk rəléɪʃənʃᵻ̀p. 
+ᵻf wi wɔ́ntᵻd tə mɒ́dəl ə kjúbᵻk rəléɪʃənʃᵻ̀p, wi wʊd ǽd ənʌ́ðər tɜ́rm: y = θ0 + θ1x + θ2x^2 + θ3*x^3. 
+iʧ ədᵻ̀ʃənəl dᵻɡrí ǽdz ə páʊər əv x tə ðə əkwéɪʒən, wᵻ̀ʧ ᵻ̀nkrìsᵻz ðə flɛ̀ksᵻbᵻ̀lᵻti əv ðə mɒ́dəl, ɛnéɪbəlᵻŋ ᵻt tə fᵻ̀t mɔr kɒ́mplɛks pǽtərnz ᵻn ðə déɪtə. 
+ʤəst æz lᵻ̀niər rəɡrɛ́ʃən həz ᵻts əsʌ́mpʃənz, soʊ dʌz pɒ̀lìnóʊmiəl rəɡrɛ́ʃən. 
+fɔr ᵻ̀nstəns, ᵻt stᵻ̀l əsúmz ᵻ̀ndəpɛ́ndəns əv ɒ̀bzərvéɪʃənz ənd nɔ́rməli dᵻstrᵻ̀bjətᵻd rᵻzᵻ̀ʤuəlz. 
+hàʊɛ́vər, pɒ̀lìnóʊmiəl rəɡrɛ́ʃən rᵻlǽksᵻz ðə əsʌ́mpʃən əv lᵻ̀niǽrᵻti ənd hòʊməskᵻdæ̀stᵻ̀sᵻti (kɒ́nstənt variance). 
+ɔ̀lðóʊ pɒ̀lìnóʊmiəl rəɡrɛ́ʃən ǽdz kəmplɛ́ksᵻti tə ðə mɒ́dəl, ᵻt mʌst bi júzd ʤudᵻ̀ʃᵻsli. 
+ðə flɛ̀ksᵻbᵻ̀lᵻti thət kʌ́mz wᵻð háɪər dᵻɡríz kən lɛ́d|líd tə òʊvərfᵻ̀tᵻŋ, wɛ́r ðə mɒ́dəl nɒt óʊnli kǽpʧərz ðə ʌ̀ndərláɪᵻŋ trɛ́nd bʌt ɔ́lsoʊ ðə nɔ́ɪz ᵻn ðə déɪtə. 
+óʊvərfᵻt mɒ́dəlz wᵻl pərfɔ́rm wɛ́l ɒn ðə tréɪnᵻŋ déɪtə bʌt pɔ́rli ɒn ʌ̀nsín déɪtə bᵻkɒ́z ðeɪ həv əsɛ́nʃəli mɛ́məràɪzd ðə tréɪnᵻŋ déɪtə rǽðər ðʌn lɜ́rnᵻŋ ðə ʌ̀ndərláɪᵻŋ pǽtərn. 
+tə ɡɑ́rd əɡéɪnst òʊvərfᵻ̀tᵻŋ, ᵻ̀ts ɔ́fən hɛ́lpfəl tə jus|juz tɛkníks láɪk krɔ́s-væ̀lᵻdéɪʃən, wᵻ̀ʧ ᵻ̀nvɒ́lvz pɑrtᵻ̀ʃənᵻŋ ðə déɪtə sɛ́t ᵻntu sʌ́bsɛ̀ts, tréɪnᵻŋ ðə mɒ́dəl ɒn ə pɔ́rʃən əv ðə déɪtə, ənd vǽlᵻdèɪtᵻŋ ᵻt ɒn ðə rəméɪnᵻŋ déɪtə. 
+ðᵻs prɒ́sɛ̀s ᵻz rᵻpítᵻd wᵻð dᵻ̀fərənt pɑrtᵻ̀ʃənz əv ðə déɪtə tə əbtéɪn ən ǽvərᵻʤ mɛ́ʒər əv mɒ́dəl pərfɔ́rməns. 
+rèɡjəlɛ̀rᵻzéɪʃən, ə tɛkník thət ᵻ̀ntrədúsᵻz ə pɛ́nəlti tɜ́rm tə ðə lɔ́s fʌ́ŋkʃən tə dᵻskɜ́rᵻʤ óʊvərli kɒ́mplɛks mɒ́dəlz, ᵻz ənʌ́ðər túl tə kɒ́mbæt òʊvərfᵻ̀tᵻŋ. 
+ᵻn ðə kɒ́ntɛkst əv pɒ̀lìnóʊmiəl rəɡrɛ́ʃən, tú kɒ́mənli júzd rèɡjəlɛ̀rᵻzéɪʃən tɛkníks ɑr rᵻ̀ʤ rəɡrɛ́ʃən, wᵻ̀ʧ ᵻmpóʊzᵻz ə pɛ́nəlti ɒn ðə sáɪz əv ðə kòʊəfᵻ̀ʃənts, ənd lǽsu rəɡrɛ́ʃən, wᵻ̀ʧ kən ʃrᵻ̀ŋk sʌm kòʊəfᵻ̀ʃənts tə zíroʊ, əfɛ́ktᵻvli pərfɔ́rmᵻŋ vɛ́riəbəl səlɛ́kʃən. 
+ðə əpróʊprièɪt dᵻɡrí fɔr ðə pɒ̀lìnóʊmiəl ᵻz ə krúʃəl dəsᵻ̀ʒən. 
+tú lóʊ, ənd ðə mɒ́dəl meɪ bi óʊvərli sᵻ̀mpləfàɪd ənd əɡzᵻ̀bᵻt háɪ báɪəs (underfitting). 
+tú háɪ, ənd ðə mɒ́dəl meɪ bəkʌ́m əksɛ́sᵻvli kɒ́mplɛks ənd əɡzᵻ̀bᵻt háɪ vɛ́riəns (overfitting). 
+ðə ɒ́ptᵻməl dᵻɡrí júʒəli láɪz sʌ́mwɛ̀r ᵻn ðə mᵻ̀dəl ənd kən bi dətɜ́rmᵻnd θrú tɛkníks láɪk krɔ́s-væ̀lᵻdéɪʃən. 
+dᵻspáɪt ᵻts ənhǽnst kəmplɛ́ksᵻti, ðə ᵻ̀ntɜ̀rprᵻtéɪʃən əv ə pɒ̀lìnóʊmiəl rəɡrɛ́ʃən mɒ́dəl ᵻz lɛ́s stréɪtfɔ́rwərd ðʌn ᵻn sᵻ̀mpəl lᵻ̀niər rəɡrɛ́ʃən. 
+wáɪl ðə kòʊəfᵻ̀ʃənts stᵻ̀l rɛ̀prəzɛ́nt ðə ʧéɪnʤ ᵻn ðə áʊtkʌ̀m vɛ́riəbəl fɔr ə wʌ́n-júnᵻt ʧéɪnʤ ᵻn ðə prədᵻ̀ktər, ðᵻs əfɛ́kt ᵻz nɒt kɒ́nstənt bʌt dəpɛ́ndz ɒn ðə vǽlju əv ðə prədᵻ̀ktər. 
+ᵻn kənklúʒən, pɒ̀lìnóʊmiəl rəɡrɛ́ʃən ᵻz ə páʊərfəl əkstɛ́nʃən əv lᵻ̀niər rəɡrɛ́ʃən thət əláʊz fɔr ðə mɒ́dəlᵻ̀ŋ əv mɔr kɒ́mplɛks rəléɪʃənʃᵻ̀ps. 
+júzd wáɪzli, wᵻð ən əwɛ́rnəs əv pətɛ́nʃəl pᵻ̀tfɔ̀lz láɪk òʊvərfᵻ̀tᵻŋ, pɒ̀lìnóʊmiəl rəɡrɛ́ʃən kən əfɛ́ktᵻvli mɒ́dəl kɜ́rvd rəléɪʃənʃᵻ̀ps ənd jíld mɔr ǽkjərət prədᵻ̀kʃənz fɔr sɜ́rtən káɪndz əv déɪtə. 
+
+B002C014: fíʧər ɛ́nʤᵻnɪ́rᵻŋ. 
+fíʧər ɛ́nʤᵻnɪ́rᵻŋ ᵻz ə krúʃəl stɛ́p ᵻn ðə məʃín lɜ́rnᵻŋ páɪplàɪn thət ᵻ̀nvɒ́lvz səlɛ́ktᵻŋ ənd trænsfɔ́rmᵻŋ rɛ́ləvənt vɛ́riəbəlz frəm rɔ́ déɪtə ᵻntu fíʧərz thət ɑr sútəbəl fɔr mɒ́dəlᵻ̀ŋ. 
+ðə ɡóʊl əv fíʧər ɛ́nʤᵻnɪ́rᵻŋ ᵻz tə kriéɪt ə sɛ́t əv fíʧərz thət ɑr rɛ́ləvənt, mínᵻŋfəl, ənd júsfəl fɔr ðə məʃín lɜ́rnᵻŋ ǽlɡərᵻ̀ðəm tə lɜ́rn pǽtərnz ənd rəléɪʃənʃᵻ̀ps ᵻn ðə déɪtə. 
+fíʧər ɛ́nʤᵻnɪ́rᵻŋ tᵻ̀pᵻkəli ᵻ̀nvɒ́lvz sɛ́vərəl stɛ́ps, ᵻ̀nklúdᵻŋ:. 
+fíʧər səlɛ́kʃən: ðᵻs stɛ́p ᵻ̀nvɒ́lvz aɪdɛ́ntᵻfàɪᵻŋ ðə móʊst rɛ́ləvənt fíʧərz frəm ðə rɔ́ déɪtə thət ɑr rɛ́ləvənt tə ðə prɒ́bləm æt hǽnd. 
+ðᵻs ᵻz ɔ́fən dʌ́n baɪ ǽnəlàɪzᵻŋ ðə kɔ̀rəléɪʃən bitwín ðə fíʧərz ənd ðə tɑ́rɡət vɛ́riəbəl, æz wɛ́l æz baɪ kənsᵻ̀dərᵻŋ doʊméɪn nɒ́lᵻʤ ənd ðə ʌ̀ndərláɪᵻŋ fᵻ̀zᵻks əv ðə prɒ́bləm. 
+fíʧər træ̀nsfərméɪʃən: wʌ́ns ðə rɛ́ləvənt fíʧərz həv bᵻn səlɛ́ktᵻd, ðeɪ meɪ níd tə bi trænsfɔ́rmd tə mít ðə rəkwáɪrmənts əv ðə məʃín lɜ́rnᵻŋ ǽlɡərᵻ̀ðəm. 
+ðᵻs meɪ ᵻ̀nvɒ́lv skéɪlᵻŋ, nɔ́rməlàɪzᵻŋ, ɔr ɛnkóʊdᵻŋ kæ̀təɡɑ́rᵻkəl vɛ́riəbəlz. 
+dᵻmɛ̀nʃənǽlᵻti rədʌ́kʃən: háɪ-dᵻmɛ́nʃənəl déɪtə kən bi dᵻ̀fᵻkəlt tə ǽnəlàɪz ənd meɪ lɛ́d|líd tə ðə kɜ́rs əv dᵻmɛ̀nʃənǽlᵻti, wɛ́r ðə vɒ́ljum əv ðə fíʧər spéɪs ᵻ̀nkrìsᵻz ɛ̀kspoʊnɛ́nʃəli wᵻð ðə nʌ́mbər əv fíʧərz. 
+dᵻmɛ̀nʃənǽlᵻti rədʌ́kʃən tɛkníks, sʌʧ æz prᵻ̀nsᵻpəl kəmpóʊnənt ənǽlᵻsᵻs (PCA) ɔr sᵻ̀ŋɡjələr vǽlju dìkəmpəzᵻ̀ʃən (SVD), kən bi júzd tə rədjús ðə nʌ́mbər əv fíʧərz wáɪl prəzɜ́rvᵻŋ ðə móʊst ᵻ̀mpɔ́rtənt ᵻ̀nfərméɪʃən. 
+fíʧər kriéɪʃən: ᵻn sʌm kéɪsᵻz, nu fíʧərz kən bi kriéɪtᵻd frəm əɡzᵻ̀stᵻŋ wʌ́nz. 
+fɔr əɡzǽmpəl, pɒ̀lìnóʊmiəl træ̀nsfərméɪʃənz kən bi əpláɪd tə əɡzᵻ̀stᵻŋ fíʧərz tə kriéɪt nu wʌ́nz thət meɪ kǽpʧər nɒnlᵻ̀nìər rəléɪʃənʃᵻ̀ps. 
+fíʧər səlɛ́kʃən ənd əvæ̀ljuéɪʃən: ǽftər trænsfɔ́rmᵻŋ ənd rədjúsᵻŋ ðə dᵻmɛ̀nʃənǽlᵻti əv ðə déɪtə, ðə nɛ́kst stɛ́p ᵻz tə səlɛ́kt ðə móʊst rɛ́ləvənt fíʧərz fɔr mɒ́dəlᵻ̀ŋ. 
+ðᵻs kən bi dʌ́n júzᵻŋ vɛ́riəs mɛ́θədz, sʌʧ æz kɔ̀rəléɪʃən ənǽlᵻsᵻs, mjúʧuəl ᵻ̀nfərméɪʃən, ənd rəkɜ́rsᵻv fíʧər əlᵻ̀mᵻnéɪʃən (RFE). 
+fíʧər ɛ́nʤᵻnɪ́rᵻŋ ᵻz ə krᵻ̀tᵻkəl stɛ́p ᵻn ðə məʃín lɜ́rnᵻŋ páɪplàɪn, æz ᵻt kən sᵻɡnᵻ̀fᵻkəntli ᵻ̀mpækt|ᵻmpǽkt ðə pərfɔ́rməns əv ðə mɒ́dəl. 
+A wɛ́l-ɛ̀nʤᵻnírd sɛ́t əv fíʧərz kən ᵻ̀mprúv ðə ǽkjərəsi ənd ᵻntərprɛtəbᵻ̀lᵻti əv ðə mɒ́dəl, wáɪl ə pɔ́rli ɛ̀nʤᵻnírd sɛ́t əv fíʧərz kən lɛ́d|líd tə pɔ́r pərfɔ́rməns ənd dᵻ̀fᵻkəlti ᵻn mɒ́dəl ᵻ̀ntɜ̀rprᵻtéɪʃən. 
+ᵻn sʌ́məri, fíʧər ɛ́nʤᵻnɪ́rᵻŋ ᵻz ə krúʃəl stɛ́p ᵻn ðə məʃín lɜ́rnᵻŋ páɪplàɪn thət ᵻ̀nvɒ́lvz səlɛ́ktᵻŋ ənd trænsfɔ́rmᵻŋ rɛ́ləvənt vɛ́riəbəlz frəm rɔ́ déɪtə ᵻntu fíʧərz thət ɑr sútəbəl fɔr mɒ́dəlᵻ̀ŋ. 
+ᵻt ᵻ̀nklúdz sɛ́vərəl stɛ́ps, sʌʧ æz fíʧər səlɛ́kʃən, fíʧər træ̀nsfərméɪʃən, dᵻmɛ̀nʃənǽlᵻti rədʌ́kʃən, fíʧər kriéɪʃən, ənd fíʧər səlɛ́kʃən ənd əvæ̀ljuéɪʃən. 
+baɪ kɛ́rfəli ɛ́nʤᵻnɪ́rᵻŋ fíʧərz, məʃín lɜ́rnᵻŋ mɒ́dəlz kən lɜ́rn pǽtərnz ənd rəléɪʃənʃᵻ̀ps ᵻn ðə déɪtə mɔr əfɛ́ktᵻvli, lídᵻŋ tə ᵻ̀mprúvd pərfɔ́rməns ənd ᵻntərprɛtəbᵻ̀lᵻti. 
+
+B002C015: lɔ́s fʌ́ŋkʃən. 
+A lɔ́s fʌ́ŋkʃən, sʌ́mtàɪmz kɔ́ld ə kɒ́st fʌ́ŋkʃən ɔr ɛ́rər fʌ́ŋkʃən, ᵻz ə mæ̀θəmǽtᵻkəl mɛ́θəd júzd tə ɛ́stᵻmèɪt ðə dᵻspɛ́rᵻti bitwín ðə prədᵻ̀ktᵻd áʊtkʌ̀m ənd ðə ǽkʧəl rəzʌ́lt ᵻn məʃín lɜ́rnᵻŋ ǽlɡərᵻ̀ðəmz. 
+ᵻt ᵻz ə kí ɛ́ləmənt ᵻn ðə tréɪnᵻŋ əv məʃín lɜ́rnᵻŋ mɒ́dəlz, æz ᵻt prəváɪdz ə mɛ́ʒər əv ǽkjərəsi thət ðə mɒ́dəlz lɜ́rnᵻŋ ǽlɡərᵻ̀ðəm síks tə mᵻ̀nᵻmàɪz θrú ᵻ̀tərətᵻv ɒptᵻmᵻzéɪʃən. 
+ᵻn ə brɔ́dər sɛ́ns, ðə lɔ́s fʌ́ŋkʃən kwɒ́ntᵻfaɪz ðə ɛ́rər əv ə prədᵻ̀kʃən. 
+wɛ́n ə mɒ́dəl méɪks ə prədᵻ̀kʃən əbaʊt ən ᵻ̀nstəns, ðə lɔ́s fʌ́ŋkʃən kəmpjúts ə sᵻ̀ŋɡəl numɛ́rəkəl vǽlju rɛ̀prəzɛ́ntᵻŋ ðə kɒ́st əv ðə ɛ́rər. 
+ðə ɡóʊl əv ðə mɒ́dəl’z lɜ́rnᵻŋ ǽlɡərᵻ̀ðəm ᵻz tə fáɪnd ðə mɒ́dəl pərǽmətərz thət mᵻ̀nᵻmàɪz ðə sʌ́m əv ðiz kɒ́sts óʊvər ɔl ᵻ̀nstənsᵻz ᵻn ðə tréɪnᵻŋ sɛ́t. 
+ðɛr ᵻz ə vəráɪəti əv lɔ́s fʌ́ŋkʃənz əvéɪləbəl, iʧ wᵻð ᵻts junᵻ̀k kæ̀rəktərᵻ̀stᵻks ənd jus|juz kéɪsᵻz. 
+ðə ʧɔ́ɪs əv ðə lɔ́s fʌ́ŋkʃən lɑ́rʤli dəpɛ́ndz ɒn ðə káɪnd əv prɒ́bləm bíᵻŋ sɒ́lvd, wɛ́ðər ᵻt ᵻz ə rəɡrɛ́ʃən prɒ́bləm, ə báɪnəri klæ̀sᵻfᵻkéɪʃən prɒ́bləm, ə mʌ́lti-klǽs klæ̀sᵻfᵻkéɪʃən prɒ́bləm, ɔr sʌ́mθᵻŋ ɛ́ls. 
+wʌ́n əv ðə móʊst fríkwəntli júzd lɔ́s fʌ́ŋkʃənz ᵻn rəɡrɛ́ʃən prɒ́bləmz ᵻz mín skwɛ́rd ɛ́rər (MSE). 
+ðə MSE kəmpjúts ðə ǽvərᵻʤ əv ðə skwɛ́rd dᵻ̀fərənsᵻz bitwín ðə prədᵻ̀ktᵻd ənd ǽkʧəl vǽljuz. 
+ðᵻs ɡᵻ̀vz ə háɪər pɛ́nəlti tə lɑ́rʤər ɛ́rərz ənd tɛ́ndz tə bi vɛ́ri sɛ́nsᵻtᵻv tə áʊtlaɪərz djú tə ðə skwɛ́rᵻŋ ɒ̀pəréɪʃən. 
+ðə mín ǽbsəlùt ɛ́rər (MAE) ᵻz ənʌ́ðər kɒ́mən lɔ́s fʌ́ŋkʃən fɔr rəɡrɛ́ʃən. 
+ᵻt kəmpjúts ðə ǽvərᵻʤ əv ðə ǽbsəlùt dᵻ̀fərənsᵻz bitwín ðə prədᵻ̀ktᵻd ənd ǽkʧəl vǽljuz. 
+ʌ̀nláɪk MSE, MAE ᵻz nɒt sɛ́nsᵻtᵻv tə áʊtlaɪərz bᵻkɒ́z ᵻt dʌz nɒt skwɛ́r ðə ɛ́rərz. 
+ᵻn klæ̀sᵻfᵻkéɪʃən prɒ́bləmz, ðə kɒ́mənli júzd lɔ́s fʌ́ŋkʃənz ɑr lɔ́ɡ lɔ́s fɔr báɪnəri klæ̀sᵻfᵻkéɪʃən ənd krɔ́s-ɛ́ntrəpi lɔ́s fɔr mʌ́lti-klǽs klæ̀sᵻfᵻkéɪʃən. 
+lɔ́ɡ lɔ́s kwɒ́ntᵻfaɪz ðə ǽkjərəsi əv ə klǽsᵻfaɪər baɪ pínəlàɪzᵻŋ fɔ́ls klæ̀sᵻfᵻkéɪʃənz. 
+ðə pɛ́nəlti ᵻ̀nkrìsᵻz ɛ̀kspoʊnɛ́nʃəli æz ðə prədᵻ̀ktᵻd prɒ̀bəbᵻ̀lᵻti daɪvɜ́rʤᵻz frəm ðə ǽkʧəl léɪbəl. 
+krɔ́s-ɛ́ntrəpi lɔ́s, ɔ́lsoʊ nóʊn æz nɛ́ɡətᵻv lɔ́ɡ-láɪklihʊ̀d, əkstɛ́ndz lɔ́ɡ lɔ́s tə mʌ́lti-klǽs klæ̀sᵻfᵻkéɪʃən prɒ́bləmz. 
+ᵻt mɛ́ʒərz ðə pərfɔ́rməns əv ə klæ̀sᵻfᵻkéɪʃən mɒ́dəl húz áʊtpʊ̀t ᵻz ə prɒ̀bəbᵻ̀lᵻti vǽlju bitwín 0 ənd 1. 
+hᵻ̀nʤ lɔ́s ᵻz ɔ́fən júzd wᵻð səpɔ́rt vɛ́ktər məʃín (SVM) klǽsᵻfaɪərz. 
+ᵻt ᵻz ᵻ̀ntɛ́ndᵻd fɔr báɪnəri klæ̀sᵻfᵻkéɪʃən wɛ́r ðə áʊtpʊ̀t ᵻz ᵻn ðə réɪnʤ əv [-1, 1]. 
+ðɛ́rz ɔ́lsoʊ ðə kullback-leibler:kʊ́lbæ̀k-láɪblər daɪvɜ́rʤəns, wᵻ̀ʧ mɛ́ʒərz ðə daɪvɜ́rʤəns bitwín tú prɒ̀bəbᵻ̀lᵻti dᵻ̀strəbjúʃənz. 
+ᵻt ᵻz ɔ́fən júzd wɛ́n ðə mɒ́dəl nídz tə lɜ́rn tə áʊtpʊ̀t ə prɒ̀bəbᵻ̀lᵻti dᵻ̀strəbjúʃən thət mǽʧᵻz ðə tɑ́rɡət dᵻ̀strəbjúʃən æz klóʊsli æz pɒ́sᵻbəl. 
+ᵻn ðə rɛ́lm əv díp lɜ́rnᵻŋ ənd nʊ́rəl nɛ́twɜ̀rks, lɔ́s fʌ́ŋkʃənz láɪk krɔ́s-ɛ́ntrəpi lɔ́s ɑr ɔ́fən júzd, bʌt wᵻð ədᵻ̀ʃənz sʌʧ æz rèɡjəlɛ̀rᵻzéɪʃən tɜ́rmz. 
+rèɡjəlɛ̀rᵻzéɪʃən hɛ́lps tə əvɔ́ɪd òʊvərfᵻ̀tᵻŋ baɪ ǽdᵻŋ ə kəmplɛ́ksᵻti pɛ́nəlti tə ðə lɔ́s fʌ́ŋkʃən. 
+ðə ʧɔ́ɪs əv ə lɔ́s fʌ́ŋkʃən ʃʊd bi əláɪnd wᵻð ðə bᵻ̀znəs əbʤɛ́ktᵻv. 
+dᵻ̀fərənt lɔ́s fʌ́ŋkʃənz wᵻl próʊdus|prədús dᵻ̀fərənt ɛ́rər vǽljuz fɔr ðə séɪm prədᵻ̀kʃən, ənd sʌm meɪ bi mɔr sútəbəl ðʌn ʌ́ðərz fɔr ə pɑ̀rtᵻ̀kjələr tǽsk. 
+ᵻn ðə ɛ́nd, ʌ̀ndərstǽndᵻŋ ðə mæ̀θəmǽtᵻkəl prɒ́pərtiz, strɛ́ŋkθs, ənd wíknəsᵻz əv iʧ lɔ́s fʌ́ŋkʃən wᵻl əláʊ ju tə méɪk ən ᵻ̀nfɔ́rmd ʧɔ́ɪs wɛ́n bᵻ̀ldᵻŋ jɔr məʃín lɜ́rnᵻŋ mɒ́dəlz. 
+ðə sɛ́ntrəl róʊl əv lɔ́s fʌ́ŋkʃənz ᵻn tréɪnᵻŋ ənd ɒ́ptᵻmàɪzᵻŋ məʃín lɜ́rnᵻŋ mɒ́dəlz méɪks ðɛm ə krᵻ̀tᵻkəl kɒ́nsɛpt ᵻn məʃín lɜ́rnᵻŋ. 
+æz sʌʧ, ə klɪ́r ʌ̀ndərstǽndᵻŋ əv lɔ́s fʌ́ŋkʃənz ənd ðɛr prɒ́pərtiz ᵻz ə mʌst fɔr ɛ́ni məʃín lɜ́rnᵻŋ præktᵻ̀ʃənər. 
+
+B002C016: ɡréɪdiənt dᵻsɛ́nt. 
+ɡréɪdiənt dᵻsɛ́nt ᵻz ən ɒptᵻmᵻzéɪʃən ǽlɡərᵻ̀ðəm prədɒ́mᵻnəntlì júzd ᵻn tréɪnᵻŋ məʃín lɜ́rnᵻŋ mɒ́dəlz. 
+ᵻt ɒ́pərèɪts ɒn ðə prᵻ̀nsᵻpəl əv nǽvᵻɡèɪtᵻŋ daʊn ðə stípəst pǽθ ᵻn ə fʌ́ŋkʃən’z ɡréɪdiənt təwɔ́rdz ə lóʊkəl mᵻ̀nᵻməm, wᵻ̀ʧ ᵻn ðə kɒ́ntɛkst əv məʃín lɜ́rnᵻŋ kɔ̀rəspɒ́ndz tə ðə ɒ́ptᵻməl pərǽmətərz əv ðə mɒ́dəl. 
+ðə éɪm ᵻz tə mᵻ̀nᵻmàɪz ðə vǽlju əv ðə lɔ́s fʌ́ŋkʃən, wᵻ̀ʧ, æz wi príviəsli dᵻskʌ́st, kwɒ́ntᵻfaɪz ðə ɛ́rər əv ðə mɒ́dəlz prədᵻ̀kʃənz. 
+kənsɛ́pʧuəli, ɡréɪdiənt dᵻsɛ́nt stɑ́rts wᵻð ən ᵻnᵻ̀ʃəl sɛ́t əv pərǽmətərz fɔr ðə mɒ́dəl ənd ᵻ̀tərətᵻvli əʤʌ́sts ðoʊz pərǽmətərz tə rədjús ðə lɔ́s. 
+ᵻt júsᵻz ðə ɡréɪdiənt əv ðə lɔ́s fʌ́ŋkʃən æt ðə kɑ́rənt pɔ́ɪnt ᵻn ðə pərǽmətər spéɪs tə ɡáɪd ᵻts stɛ́ps. 
+ᵻn ðᵻs kɒ́ntɛkst, ðə ɡréɪdiənt ᵻz ə mʌ́lti-dᵻmɛ́nʃənəl dərᵻ̀vətᵻv ᵻ̀ndᵻkèɪtᵻŋ ðə dᵻrɛ́kʃən əv stípəst əsɛ́nt. 
+tə ríʧ ðə mᵻ̀nᵻməm, wi níd tə múv ᵻn ðə ɒ́pəzᵻt dᵻrɛ́kʃən, fɜ̀r: ðə dᵻrɛ́kʃən əv stípəst dᵻsɛ́nt. 
+ðə mǽɡnᵻtùd əv iʧ stɛ́p dʊ́rᵻŋ ðə ᵻ̀təréɪʃən ᵻz dətɜ́rmᵻnd baɪ ðə lɜ́rnᵻŋ réɪt, ə túnəbəl pərǽmətər thət əfɛ́kts ðə spíd ənd kwɒ́lᵻti əv ðə lɜ́rnᵻŋ prɒ́sɛ̀s. 
+A smɔ́l lɜ́rnᵻŋ réɪt kən lɛ́d|líd tə slóʊ kənvɜ́rʤəns, wáɪl ə lɑ́rʤ wʌ́n maɪt óʊvərʃùt ðə mᵻ̀nᵻməm ənd kɒ́z ðə ǽlɡərᵻ̀ðəm tə dᵻvɜ́rʤ. 
+kɛ́rfəl səlɛ́kʃən əv ðə lɜ́rnᵻŋ réɪt ᵻz krúʃəl fɔr əfᵻ̀ʃənt ənd səksɛ́sfəl ɡréɪdiənt dᵻsɛ́nt. 
+ðɛr ɑr dᵻ̀fərənt fléɪvərz əv ðə ɡréɪdiənt dᵻsɛ́nt ǽlɡərᵻ̀ðəm béɪst ɒn háʊ mʌʧ déɪtə ᵻz júzd tə kəmpjút ðə ɡréɪdiənt əv ðə lɔ́s fʌ́ŋkʃən. 
+bǽʧ ɡréɪdiənt dᵻsɛ́nt júsᵻz ðə əntáɪər tréɪnᵻŋ sɛ́t fɔr ðə kɒ̀mpjətéɪʃən, wᵻ̀ʧ prəváɪdz ə stéɪbəl kənvɜ́rʤəns ənd əláʊz fɔr ə stréɪtfɔ́rwərd ᵻ̀mpləmɛntéɪʃən əv pɛ́rəlɛ̀l prɒ́sɛsᵻŋ. 
+hàʊɛ́vər, ᵻt kən bi kɒ̀mpjətéɪʃənəli əkspɛ́nsᵻv ənd slóʊ fɔr lɑ́rʤ déɪtəsɛ̀ts. 
+stoʊkǽstᵻk ɡréɪdiənt dᵻsɛ́nt, ɒn ðə ʌ́ðər hǽnd, júsᵻz óʊnli ə sᵻ̀ŋɡəl ᵻ̀nstəns æt iʧ ᵻ̀təréɪʃən. 
+ðᵻs ᵻ̀ntrədúsᵻz rǽndəmnəs ᵻn ðə dᵻsɛ́nt prɒ́sɛ̀s, méɪkᵻŋ ᵻt fǽstər ənd éɪbəl tə hǽndəl lɑ́rʤ déɪtəsɛ̀ts. 
+hàʊɛ́vər, ðə kənvɜ́rʤəns ᵻz lɛ́s stéɪbəl kəmpɛ́rd tə bǽʧ ɡréɪdiənt dᵻsɛ́nt. 
+A tréɪdɔ̀f bitwín ðiz tú ᵻz ðə mᵻ̀ni-bǽʧ ɡréɪdiənt dᵻsɛ́nt, wᵻ̀ʧ júsᵻz ə sʌ́bsɛ̀t əv ðə tréɪnᵻŋ déɪtə æt iʧ stɛ́p. 
+ᵻt kəmbáɪnz ðə ædvǽntᵻʤᵻz əv bóʊθ príviəs mɛ́θədz: ᵻt ᵻz fǽstər ðʌn bǽʧ ɡréɪdiənt dᵻsɛ́nt ənd mɔr stéɪbəl ðʌn stoʊkǽstᵻk ɡréɪdiənt dᵻsɛ́nt. 
+ᵻt ᵻz ᵻ̀mpɔ́rtənt tə nóʊt thət ɡréɪdiənt dᵻsɛ́nt’z əfᵻ̀ʃənsi hɛ́vᵻli dəpɛ́ndz ɒn ðə ʃéɪp əv ðə lɔ́s fʌ́ŋkʃən. 
+ᵻt wɜ́rks bɛ́st wᵻð kɒ́nvɛ̀ks fʌ́ŋkʃənz, wɛ́r ðɛr ᵻz óʊnli wʌ́n ɡlóʊbəl mᵻ̀nᵻməm. 
+fɔr nɒn-kɒ́nvɛ̀ks fʌ́ŋkʃənz, sʌʧ æz ðoʊz ɔ́fən ənkáʊntərd ᵻn díp lɜ́rnᵻŋ, ᵻt maɪt ɡɛt stʌ́k ᵻn lóʊkəl mᵻ̀nᵻmə ɔr sǽdəl pɔ́ɪnts. 
+númərəs mɒ̀dᵻfᵻkéɪʃənz ənd ənhǽnsmənts tə ðə béɪsᵻk ɡréɪdiənt dᵻsɛ́nt ǽlɡərᵻ̀ðəm həv bᵻn prəpóʊzd tə əlívièɪt ðiz ᵻ̀ʃuz, sʌʧ æz ǽdᵻŋ moʊmɛ́ntəm ɔr ədǽptᵻŋ ðə lɜ́rnᵻŋ réɪt. 
+ᵻn kənklúʒən, ɡréɪdiənt dᵻsɛ́nt ᵻz ə páʊərfəl túl ᵻn ðə məʃín lɜ́rnᵻŋ præktᵻ̀ʃənər’z túlbɔ̀ks. 
+ᵻts sᵻmplᵻ̀sᵻti ənd əfᵻ̀ʃənsi méɪk ᵻt wáɪdli ǽplᵻkəbəl. 
+hàʊɛ́vər, prɒ́pər ʌ̀ndərstǽndᵻŋ əv ᵻts məkǽnᵻks, pərǽmətərz, ənd pətɛ́nʃəl pᵻ̀tfɔ̀lz ᵻz krúʃəl fɔr ᵻts əféktᵻv æ̀plᵻkéɪʃən. 
+ᵻn ðə fɒ́loʊᵻŋ ʧǽptərz, wi wᵻl sí háʊ ɡréɪdiənt dᵻsɛ́nt ᵻz júzd ᵻn vɛ́riəs məʃín lɜ́rnᵻŋ mɒ́dəlz ənd sənǽrioʊz. 
+
+B002C017: nɔ̀rməlᵻzéɪʃən. 
+ᵻn ðə kɒ́ntɛkst əv məʃín lɜ́rnᵻŋ, nɔ̀rməlᵻzéɪʃən ᵻz ə prìprʌ́ʊsɛsᵻŋ tɛkník əpláɪd tə ᵻ̀npʊ̀t déɪtə thət ənʃʊ́rz iʧ fíʧər həz ə sᵻ̀mᵻlər skéɪl. 
+ðᵻs stændərdᵻzéɪʃən əv réɪnʤᵻz əkrɔ́s fíʧərz ᵻz ən ᵻ̀mpɔ́rtənt prɒ́sɛ̀s æz ᵻt kən sᵻɡnᵻ̀fᵻkəntli ᵻ̀nfluəns ðə pərfɔ́rməns əv mɛ́ni məʃín lɜ́rnᵻŋ ǽlɡərᵻ̀ðəmz. 
+wᵻðáʊt nɔ̀rməlᵻzéɪʃən, fíʧərz wᵻð lɑ́rʤər réɪnʤᵻz kən dɒ́mᵻnèɪt ðə áʊtkʌ̀m, wᵻ̀ʧ kən dᵻstɔ́rt ðə lɜ́rnᵻŋ prɒ́sɛ̀s ənd lɛ́d|líd tə sʌbɒ́ptᵻməl mɒ́dəlz. 
+fɔr əɡzǽmpəl, kənsᵻ̀dər ə déɪtəsɛ̀t kəntéɪnᵻŋ haʊs|haʊz práɪsᵻz wᵻð fíʧərz sʌʧ æz ðə nʌ́mbər əv rúmz (wᵻ̀ʧ tᵻ̀pᵻkəli réɪnʤᵻz frəm 1 tə 10) ənd ðə tóʊtəl ɛ́riə ᵻn skwɛ́r fít (wᵻ̀ʧ kən réɪnʤ ᵻn ðə thousands). 
+ᵻf nɒt nɔ́rməlàɪzd, ðə tóʊtəl ɛ́riəz ᵻ̀nfluəns ɒn ðə lɜ́rnᵻŋ ǽlɡərᵻ̀ðəm kʊ́d óʊvərʃǽdoʊ ðə nʌ́mbər əv rúmz djú tə ðə dᵻ̀fərəns ᵻn ðɛr réɪnʤᵻz. 
+nɔ̀rməlᵻzéɪʃən tᵻ̀pᵻkəli riskéɪlz ðə vǽljuz əv numɛ́rᵻk fíʧərz ᵻn ðə déɪtəsɛ̀t tə ə stǽndərd réɪnʤ - ɔ́fən 0 tə 1 ɔr -1 tə 1. 
+lɛ́ts dɛ́lv ᵻntu ə fjú kɒ́mən nɔ̀rməlᵻzéɪʃən tɛkníks júzd ᵻn məʃín lɜ́rnᵻŋ. 
+wʌ́n əv ðə móʊst stréɪtfɔ́rwərd ənd kɒ́mən nɔ̀rməlᵻzéɪʃən mɛ́θədz ᵻz mᵻ̀n-max:mæks skéɪlᵻŋ. 
+ðᵻs əpróʊʧ riskéɪlz ə fíʧər tə ðə réɪnʤ əv 0 tə 1 baɪ sʌbtrǽktᵻŋ ðə mᵻ̀nᵻməm vǽlju əv ðə fíʧər ənd ðɛn dᵻváɪdᵻŋ baɪ ðə réɪnʤ əv ðə fíʧər vǽljuz. 
+mᵻ̀n-max:mæks skéɪlᵻŋ ᵻz bɛ̀nəfᵻ̀ʃəl wɛ́n ju níd ə báʊndᵻd ᵻ̀ntərvəl, ənd ᵻt prəzɜ́rvz ðə ərᵻ̀ʤᵻnəl dᵻ̀strəbjúʃən əv ðə fíʧər vǽljuz. 
+ənʌ́ðər pɒ́pjələr mɛ́θəd ᵻz stǽndərd skéɪlᵻŋ, ɔ́lsoʊ nóʊn æz z-skɔ́r nɔ̀rməlᵻzéɪʃən. 
+ðᵻs əpróʊʧ sɛ́ntərz ðə fíʧərz əráʊnd zíroʊ wᵻð ə stǽndərd dìviéɪʃən əv wʌ́n. 
+ᵻn ʌ́ðər wɜ́rdz, ᵻt səbtrǽkts ðə mín vǽlju əv ðə fíʧər ənd ðɛn dᵻváɪdz baɪ ðə stǽndərd dìviéɪʃən. 
+ðə rəzʌ́ltᵻŋ dᵻ̀strəbjúʃən həz ə mín əv 0 ənd ə stǽndərd dìviéɪʃən əv 1. 
+ðᵻs nɔ̀rməlᵻzéɪʃən tɛkník ᵻz pɑ̀rtᵻ̀kjələrli júsfəl wɛ́n ðə fíʧərz həv ə ɡáʊsiən (bɛ́l kɜ́rv) dᵻ̀strəbjúʃən ənd kən bi lɛ́s əfɛ́ktᵻd baɪ áʊtlaɪər vǽljuz kəmpɛ́rd tə mᵻ̀n-max:mæks skéɪlᵻŋ. 
+lɛ́ts kənsᵻ̀dər ənʌ́ðər nɔ̀rməlᵻzéɪʃən tɛkník, L1 ənd L2 nɔ̀rməlᵻzéɪʃən, wᵻ̀ʧ kən ɔ́lsoʊ ǽkt æz ə fɔ́rm əv rèɡjəlɛ̀rᵻzéɪʃən tə prəvɛ́nt òʊvərfᵻ̀tᵻŋ, ə tɒ́pᵻk tə bi kʌ́vərd mɔr əkstɛ́nsᵻvli ᵻn léɪtər ʧǽptərz. 
+L1 nɔ̀rməlᵻzéɪʃən, ɔ́lsoʊ nóʊn æz líst ǽbsəlùt dìviéɪʃənz, mɒ́dᵻfàɪz ðə vǽljuz soʊ thət ðə sʌ́m əv ðɛr ǽbsəlùt vǽljuz íkwəlz 1. 
+L2 nɔ̀rməlᵻzéɪʃən, ɔ́lsoʊ nóʊn æz líst skwɛ́rz, əʤʌ́sts ðə vǽljuz soʊ thət ðə sʌ́m əv ðɛr skwɛ́rz íkwəlz 1. 
+ðiz tɛkníks ɑr ɔ́fən júzd ᵻn məʃín lɜ́rnᵻŋ mɒ́dəlz, láɪk nʊ́rəl nɛ́twɜ̀rks ənd səpɔ́rt vɛ́ktər məʃínz. 
+nɔ̀rməlᵻzéɪʃən ɔ́lsoʊ pléɪz ən əsɛ́nʃəl róʊl ᵻn sʌm spəsᵻ̀fᵻk táɪps əv məʃín lɜ́rnᵻŋ ǽlɡərᵻ̀ðəmz. 
+fɔr ᵻ̀nstəns, ᵻn k-nɪ́rəst néɪbərz (K-NN) ənd k-mínz ǽlɡərᵻ̀ðəmz, wɛ́r ðə áʊtkʌ̀m dəpɛ́ndz ɒn ðə dᵻ̀stənsᵻz bitwín déɪtə pɔ́ɪnts, nɔ̀rməlᵻzéɪʃən kən bi váɪtəl fɔr əbtéɪnᵻŋ ǽkjərət rəzʌ́lts. 
+hàʊɛ́vər, nɔ̀rməlᵻzéɪʃən maɪt nɒt ɔ́lwèɪz bi nɛ́səsɛ̀ri ɔr ívᵻn bɛ̀nəfᵻ̀ʃəl, ənd ðə ʧɔ́ɪs ɔ́fən dəpɛ́ndz ɒn ðə spəsᵻ̀fᵻk ǽlɡərᵻ̀ðəm ənd prɒ́bləm æt hǽnd. 
+fɔr əɡzǽmpəl, dəsᵻ̀ʒən trí-béɪst ǽlɡərᵻ̀ðəmz, sʌʧ æz rǽndəm fɔ́rəst ənd ɡréɪdiənt bústᵻŋ, ɑr lɛ́s sɛ́nsᵻtᵻv tə ðə skéɪl əv ðə fíʧərz ənd maɪt nɒt bɛ́nəfᵻt frəm nɔ̀rməlᵻzéɪʃən. 
+ᵻn sʌ́məri, nɔ̀rməlᵻzéɪʃən ᵻz ə krᵻ̀tᵻkəl stɛ́p ᵻn prəpɛ́rᵻŋ jɔr déɪtə fɔr məʃín lɜ́rnᵻŋ ǽlɡərᵻ̀ðəmz. 
+ᵻt kən lɛ́d|líd tə fǽstər kənvɜ́rʤəns əv ðə lɜ́rnᵻŋ prɒ́sɛ̀s, ᵻ̀mprúvd mɒ́dəl pərfɔ́rməns, ənd mɔr roʊbʌ́st mɒ́dəlz thət ɑr lɛ́s sɛ́nsᵻtᵻv tə ðə skéɪl əv ðə fíʧərz. 
+ᵻn ðə fɒ́loʊᵻŋ ʧǽptərz, wi wᵻl ɔ́fən sí nɔ̀rməlᵻzéɪʃən æz ə rɛ̀kəmɛ́ndᵻd prìprʌ́ʊsɛsᵻŋ stɛ́p fɔr vɛ́riəs məʃín lɜ́rnᵻŋ mɒ́dəlz. 
+
+B002C018: L1 ənd L2 rɛ̀ɡjəléɪʃənz. 
+ᵻn məʃín lɜ́rnᵻŋ, rèɡjəlɛ̀rᵻzéɪʃən ᵻz ə tɛkník dᵻzáɪnd tə káʊntər òʊvərfᵻ̀tᵻŋ, ɛnhǽnsᵻŋ ðə ʤɛ̀nərəlᵻzéɪʃən əv ðə mɒ́dəl tə ʌ̀nsín déɪtə. 
+L1 ənd L2 rɛ̀ɡjəléɪʃənz, ɔ́fən tɜ́rmd æz lǽsu ənd rᵻ̀ʤ rèɡjəlɛ̀rᵻzéɪʃən rəspɛ́ktᵻvli, ɑr tú əv ðə móʊst kɒ́mən rèɡjəlɛ̀rᵻzéɪʃən mɛ́θədz ᵻn ðə fíld əv məʃín lɜ́rnᵻŋ. 
+ðiz tɛkníks sʌ́təli ɔ́ltər ðə kɒ́st fʌ́ŋkʃən, ǽdᵻŋ ə pɛ́nəlti tɜ́rm tə prəmóʊt sᵻ̀mplər mɒ́dəlz ənd dᵻskɜ́rᵻʤ òʊvərfᵻ̀tᵻŋ. 
+L1 rèɡjəlɛ̀rᵻzéɪʃən, nóʊn æz lǽsu (líst ǽbsəlùt ʃrᵻ̀ŋkᵻʤ ənd səlɛ́kʃən Operator), ᵻ̀ntrədúsᵻz ə pɛ́nəlti əkwᵻ̀vələnt tə ðə ǽbsəlùt vǽlju əv ðə mǽɡnᵻtùd əv kòʊəfᵻ̀ʃənts. 
+ðə ǽdᵻd tɜ́rm ᵻn ðə kɒ́st fʌ́ŋkʃən fɔr L1 rèɡjəlɛ̀rᵻzéɪʃən ᵻz ðə sʌ́m əv ðə ǽbsəlùt vǽljuz əv ðə wéɪts. 
+ᵻt əfɛ́ktᵻvli rəstrᵻ̀kts ðə sáɪz əv ðə kòʊəfᵻ̀ʃənts, lídᵻŋ tə spɑ́rsər səlúʃənz wɛ́r sʌm kòʊəfᵻ̀ʃənts kən bəkʌ́m zíroʊ, ðɛ́rbáɪ əksklúdᵻŋ ðə kɔ̀rəspɒ́ndᵻŋ fíʧərz frəm ðə mɒ́dəl. 
+ðᵻs bᵻ̀ltᵻ̀n fíʧər səlɛ́kʃən kən bi bɛ̀nəfᵻ̀ʃəl ᵻn prǽktᵻs, pɑ̀rtᵻ̀kjələrli ᵻn háɪ-dᵻmɛ́nʃənəl déɪtə wɛ́r óʊnli ə sʌ́bsɛ̀t əv fíʧərz meɪ bi rɛ́ləvənt. 
+L2 rèɡjəlɛ̀rᵻzéɪʃən, ɔ́lsoʊ nóʊn æz rᵻ̀ʤ rèɡjəlɛ̀rᵻzéɪʃən, ǽdz ə pɛ́nəlti íkwəl tə ðə skwɛ́r əv ðə mǽɡnᵻtùd əv kòʊəfᵻ̀ʃənts. 
+ðə L2 tɜ́rm ᵻn ðə kɒ́st fʌ́ŋkʃən ᵻz ðə sʌ́m əv ðə skwɛ́rz əv ðə wéɪts. 
+ðᵻs əpróʊʧ ənkɜ́rᵻʤᵻz smɔ́lər kòʊəfᵻ̀ʃənt vǽljuz bʌt dʌ́zənt fɔ́rs ðɛm tə zíroʊ. 
+ᵻt tɛ́ndz tə rəzʌ́lt ᵻn mɒ́dəlz wɛ́r ɔl ðə fíʧərz ʃɛ́r ðə mɒ́dəlz bɜ́rdən mɔr íkwəli, ívᵻn ᵻf óʊnli ə fjú ɑr pɑ̀rtᵻ̀kjələrli sᵻɡnᵻ̀fᵻkənt. 
+ðə jus|juz əv L1 ɔr L2 rèɡjəlɛ̀rᵻzéɪʃən, ɔr ívᵻn ə kɒ̀mbᵻnéɪʃən əv bóʊθ, tɜ́rmd æz əlǽstᵻk nɛ́t, dəpɛ́ndz lɑ́rʤli ɒn ðə néɪʧər əv ðə prɒ́bləm ənd ðə déɪtə. 
+L1 rèɡjəlɛ̀rᵻzéɪʃən maɪt bi prəfɜ́rd wɛ́n wi bəlív óʊnli ə fjú fíʧərz ɑr ᵻ̀mpɔ́rtənt, djú tə ᵻts ᵻnhɛ́rənt fíʧər səlɛ́kʃən. 
+kɒ́nvərsli, ᵻf wi θᵻ̀ŋk ɔl fíʧərz kəntrᵻ̀bjut tə ðə áʊtpʊ̀t bʌt tə vɛ́riəs dᵻɡríz, L2 rèɡjəlɛ̀rᵻzéɪʃən maɪt bi ə bɛ́tər ʧɔ́ɪs. 
+əlǽstᵻk nɛ́t kəmbáɪnz ðə bɛ́st əv bóʊθ wɜ́rldz, meɪntéɪnᵻŋ ðə fíʧər səlɛ́kʃən prɒ́pərtiz əv L1 wáɪl téɪkᵻŋ ᵻntu əkáʊnt ðə fíʧər dᵻ̀strəbjúʃən prɒ́pərtiz əv L2. 
+hàʊɛ́vər, ðə tréɪdɔ̀f ᵻz thət ᵻt ᵻ̀ntrədúsᵻz ən ədᵻ̀ʃənəl hàɪpərpǽrəmətər tə tún. 
+rèɡjəlɛ̀rᵻzéɪʃən mɛ́θədz láɪk L1 ənd L2 wɜ́rk baɪ ǽdᵻŋ ə kənstréɪnt tə ðə kɒ́st fʌ́ŋkʃən. 
+hàʊɛ́vər, ðeɪ ɔ́lsoʊ ᵻ̀ntrədús ə hàɪpərpǽrəmətər ɔ́fən rəfɜ́rd tə æz lǽmdə ɔr ǽlfə. 
+ðᵻs hàɪpərpǽrəmətər kəntróʊlz ðə strɛ́ŋkθ əv ðə rèɡjəlɛ̀rᵻzéɪʃən ənd nídz tə bi kɛ́rfəli kǽləbrèɪtᵻd. 
+ᵻf ᵻt ᵻz tú lɑ́rʤ, ðə rèɡjəlɛ̀rᵻzéɪʃən tɜ́rm dɒ́mᵻnèɪts ðə kɒ́st fʌ́ŋkʃən, lídᵻŋ tə ʌ̀ndərfᵻ̀tᵻŋ. 
+ɒn ðə ʌ́ðər hǽnd, ᵻf ᵻt ᵻz tú smɔ́l, ðə rèɡjəlɛ̀rᵻzéɪʃən əfɛ́kt maɪt bi nɛ́ɡlᵻʤᵻbəl, lídᵻŋ tə òʊvərfᵻ̀tᵻŋ. 
+səlɛ́ktᵻŋ ən əpróʊprièɪt rèɡjəlɛ̀rᵻzéɪʃən strɛ́ŋkθ ᵻz ʤɛ́nərəli dʌ́n váɪə krɔ́s-væ̀lᵻdéɪʃən, ə kɒ́nsɛpt wi wᵻl kʌ́vər ᵻn ə léɪtər ʧǽptər. 
+ᵻn prǽktᵻs, əpláɪᵻŋ L1 ɔr L2 rèɡjəlɛ̀rᵻzéɪʃən rəkwáɪərz ə stǽndərdàɪzd déɪtəsɛ̀t, hɛ́ns nɔ̀rməlᵻzéɪʃən ᵻz ə nɛ́səsɛ̀ri prìprʌ́ʊsɛsᵻŋ stɛ́p. 
+ðᵻs ᵻz bᵻkɒ́z rèɡjəlɛ̀rᵻzéɪʃən ᵻz sɛ́nsᵻtᵻv tə ðə skéɪl əv ᵻ̀npʊ̀t fíʧərz. 
+A fíʧər wᵻð ə nǽʧərəli lɑ́rʤər skéɪl wᵻl həv ə kɔ̀rəspɒ́ndᵻŋli lɑ́rʤər kòʊəfᵻ̀ʃənt, lídᵻŋ tə ə dᵻ̀sprəpɔ́rʃənᵻt ᵻ̀mpækt|ᵻmpǽkt ɒn ðə kɒ́st fʌ́ŋkʃən. 
+ᵻn kənklúʒən, L1 ənd L2 rèɡjəlɛ̀rᵻzéɪʃən ɑr páʊərfəl tɛkníks fɔr prəvɛ́ntᵻŋ òʊvərfᵻ̀tᵻŋ ənd ᵻ̀mprúvᵻŋ ðə ʤɛ̀nərəlᵻzéɪʃən əbᵻ̀lᵻti əv məʃín lɜ́rnᵻŋ mɒ́dəlz. 
+ðeɪ əkɒ́mplᵻʃ ðᵻs baɪ kənstréɪnᵻŋ ðə mɒ́dəlz kəmplɛ́ksᵻti ənd ənkɜ́rᵻʤᵻŋ sᵻ̀mplər, mɔr roʊbʌ́st səlúʃənz. 
+ʌ̀ndərstǽndᵻŋ wɛ́n ənd háʊ tə əpláɪ ðiz rèɡjəlɛ̀rᵻzéɪʃən tɛkníks ᵻz ə kí skᵻ̀l fɔr ɛ́ni məʃín lɜ́rnᵻŋ præktᵻ̀ʃənər. 
+
+B002C019: pərfɔ́rməns mɛ́ʒərmənts. 
+pərfɔ́rməns mɛ́ʒərmənts ɑr ən ᵻ̀ntəɡrəl pɑ́rt əv ðə məʃín lɜ́rnᵻŋ prɒ́sɛ̀s. 
+ðiz mɛ́trᵻks əláʊ ʌs tə əvǽljuèɪt ðə kwɒ́lᵻti əv ə mɒ́dəl ənd kəmpɛ́r dᵻ̀fərənt mɒ́dəlz. 
+wáɪl ðə táɪp əv pərfɔ́rməns mɛ́trᵻk júzd meɪ vɛ́ri dəpɛ́ndᵻŋ ɒn ðə spəsᵻ̀fᵻk tǽsk æt hǽnd, ðə óʊvərɔ̀l ɡóʊl rəméɪnz ðə séɪm: tə prəváɪd ən əbʤɛ́ktᵻv mɛ́ʒər əv ə mɒ́dəlz əbᵻ̀lᵻti tə méɪk ǽkjərət prədᵻ̀kʃənz. 
+ᵻn ðə rɛ́lm əv rəɡrɛ́ʃən mɒ́dəlz, ðə kɒ́mən pərfɔ́rməns mɛ́trᵻks ɑr mín skwɛ́rd ɛ́rər (MSE), rút mín skwɛ́rd ɛ́rər (RMSE), ənd mín ǽbsəlùt ɛ́rər (MAE). 
+iʧ əv ðiz mɛ́trᵻks əsɛ́sᵻz ðə dᵻ̀fərəns bitwín ðə prədᵻ̀ktᵻd ənd ǽkʧəl vǽljuz, bʌt ðeɪ dᵻ̀fər ᵻn háʊ ðeɪ ǽɡrəɡeɪt ðiz dᵻ̀fərənsᵻz. 
+MSE skwɛ́rz ðə dᵻ̀fərənsᵻz, ðɛ́rbáɪ ɡᵻ̀vᵻŋ mɔr wéɪt tə lɑ́rʤər ɛ́rərz. 
+RMSE ᵻz ðə skwɛ́r rút əv ðə MSE, meɪntéɪnᵻŋ ðə séɪm wéɪtᵻŋ əv ɛ́rərz bʌt brᵻ̀ŋᵻŋ ðə mɛ́trᵻk bǽk tə ðə ərᵻ̀ʤᵻnəl júnᵻts əv ðə áʊtpʊ̀t vɛ́riəbəl. 
+MAE, ɒn ðə ʌ́ðər hǽnd, téɪks ðə ǽbsəlùt vǽlju əv ðə dᵻ̀fərənsᵻz, ɡᵻ̀vᵻŋ íkwəl wéɪt tə ɔl ɛ́rərz. 
+ðə ʧɔ́ɪs əmʌ́ŋ ðiz mɛ́trᵻks kən dəpɛ́nd ɒn wɛ́ðər lɑ́rʤər ɛ́rərz ɑr sᵻɡnᵻ̀fᵻkəntli mɔr prɒ̀bləmǽtᵻk ðʌn smɔ́lər wʌ́nz ənd ðə néɪʧər əv ðə ɛ́rər dᵻ̀strəbjúʃən. 
+ᵻn klæ̀sᵻfᵻkéɪʃən tǽsks, ǽkjərəsi ᵻz wʌ́n əv ðə móʊst stréɪtfɔ́rwərd mɛ́trᵻks. 
+ǽkjərəsi ᵻz sᵻ̀mpli ðə réɪʃiòʊ əv kərɛ́kt prədᵻ̀kʃənz tə tóʊtəl prədᵻ̀kʃənz. 
+hàʊɛ́vər, ᵻt kən bi mᵻslídᵻŋ wɛ́n ðə klǽsᵻz ɑr ᵻmbǽlənst. 
+fɔr sʌʧ sᵻ̀ʧuéɪʃənz, prəsᵻ̀ʒən, ríkɔ̀l, ənd ðə F1 skɔ́r ɔ́fər ə mɔr núɒnst vjú əv pərfɔ́rməns. 
+prəsᵻ̀ʒən ᵻz ðə prəpɔ́rʃən əv trú pɒ́zᵻtᵻv prədᵻ̀kʃənz əmʌ́ŋ ɔl pɒ́zᵻtᵻv prədᵻ̀kʃənz. 
+ríkɔ̀l, ɔ́lsoʊ nóʊn æz sɛ̀nsᵻtᵻ̀vᵻti, ᵻz ðə prəpɔ́rʃən əv trú pɒ́zᵻtᵻv prədᵻ̀kʃənz əmʌ́ŋ ɔl ǽkʧəl pɒ́zᵻtᵻv ᵻ̀nstənsᵻz. 
+ðə F1 skɔ́r ᵻz ðə hɑrmɒ́nᵻk mín əv prəsᵻ̀ʒən ənd ríkɔ̀l, prəváɪdᵻŋ ə sᵻ̀ŋɡəl mɛ́trᵻk thət bǽlənsᵻz ðə tú. 
+wáɪl ðiz mɛ́trᵻks prəváɪd vǽljəbəl ᵻ̀nsàɪts, ðeɪ meɪ nɒt fʊ́li kǽpʧər ðə tréɪdɔ̀fs bitwín dᵻ̀fərənt táɪps əv ɛ́rərz. 
+ᵻn mɛ́ni kéɪsᵻz, fɔ́ls pɒ́zᵻtᵻvz ənd fɔ́ls nɛ́ɡətᵻvz meɪ həv dᵻ̀fərənt ᵻ̀mpækts, ənd ðiz ᵻ̀mpækts níd tə bi kənsᵻ̀dərd ᵻn ðə əvæ̀ljuéɪʃən əv ðə mɒ́dəl. 
+ðə kənfjúʒən méɪtrᵻks, wᵻ̀ʧ léɪz áʊt trú ənd fɔ́ls pɒ́zᵻtᵻvz ənd nɛ́ɡətᵻvz, prəváɪdz ə mɔr dᵻtéɪld vjú əv ðə mɒ́dəlz pərfɔ́rməns. 
+fɔr prɒ̀bəbᵻlᵻ̀stᵻk prədᵻ̀kʃənz, mɛ́trᵻks sʌʧ æz lɔ́ɡ lɔ́s ɔr bráɪər skɔ́r meɪ bi júzd. 
+lɔ́ɡ lɔ́s mɛ́ʒərz ðə daɪvɜ́rʤəns əv ðə prədᵻ̀ktᵻd prɒ̀bəbᵻ̀lᵻtìz frəm ðə ǽkʧəl áʊtkʌ̀mz, wᵻð ə smɔ́lər lɔ́ɡ lɔ́s ᵻ̀ndᵻkèɪtᵻŋ ə bɛ́tər mɒ́dəl. 
+ðə bráɪər skɔ́r ᵻz sᵻ̀mᵻlər tə MSE bʌt əpláɪd tə prɒ̀bəbᵻlᵻ̀stᵻk fɔ́rkæ̀s. 
+ɛ́riə ʌ́ndər ðə rəsívər ɒ́pərèɪtᵻŋ kæ̀rəktərᵻ̀stᵻk kɜ́rv (AUC-ROC) ᵻz ənʌ́ðər wáɪdli júzd mɛ́trᵻk ᵻn báɪnəri klæ̀sᵻfᵻkéɪʃən. 
+ðə ROC kɜ́rv plɒ́ts ðə trú pɒ́zᵻtᵻv réɪt (ríkɔ̀l) əɡéɪnst ðə fɔ́ls pɒ́zᵻtᵻv réɪt fɔr vɛ́riəs dəsᵻ̀ʒən θrɛ́ʃòʊldz, ənd ðə AUC-ROC kwɒ́ntᵻfaɪz ðə óʊvərɔ̀l pərfɔ́rməns əv ðə mɒ́dəl əkrɔ́s ɔl θrɛ́ʃòʊldz. 
+A pɜ́rfᵻkt|pərfɛ́kt mɒ́dəl həz ən AUC-ROC əv 1, wáɪl ə rǽndəm mɒ́dəl həz ən AUC-ROC əv 0,5. 
+ᵻn ədᵻ̀ʃən, fɔr mʌ́lti-klǽs klæ̀sᵻfᵻkéɪʃən prɒ́bləmz, mɛ́trᵻks sʌʧ æz mʌ́lti-klǽs lɔ́ɡ lɔ́s ɔr mín pɜ́r-klǽs ǽkjərəsi kən bi júzd. 
+pərfɔ́rməns mɛ́trᵻks pléɪ ə pᵻ̀vətəl róʊl ᵻn mɒ́dəl səlɛ́kʃən ənd hàɪpərpǽrəmətər túnᵻŋ prɒ́sɛsᵻz. 
+ðeɪ fɔ́rm ðə əbʤɛ́ktᵻv fʌ́ŋkʃən fɔr ɒptᵻmᵻzéɪʃən ǽlɡərᵻ̀ðəmz dᵻzáɪnd tə fáɪnd ðə bɛ́st mɒ́dəl ənd sɛ́tᵻŋz. 
+səlɛ́ktᵻŋ ðə əpróʊprièɪt pərfɔ́rməns mɛ́trᵻk ᵻz ðʌs krúʃəl, æz ᵻt dᵻrɛ́kli ᵻ̀nflùənsᵻz ðə kwɒ́lᵻti əv ðə mɒ́dəlz ʤɛ́nərèɪtᵻd. 
+ᵻn kənklúʒən, pərfɔ́rməns mɛ́ʒərmənts ɑr ən əsɛ́nʃəl túl fɔr məʃín lɜ́rnᵻŋ præktᵻ̀ʃənərz. 
+ðeɪ prəváɪd ən əbʤɛ́ktᵻv weɪ tə əvǽljuèɪt ənd kəmpɛ́r mɒ́dəlz, ᵻ̀nfɔ́rmᵻŋ dəsᵻ̀ʒənz ɒn mɒ́dəl səlɛ́kʃən, hàɪpərpǽrəmətər túnᵻŋ, ənd mɔr. 
+ʌ̀ndərstǽndᵻŋ ðə dᵻ̀fərənt mɛ́trᵻks ənd wɛ́n tə jus|juz ðɛm ᵻz ə krᵻ̀tᵻkəl pɑ́rt əv bᵻ̀ldᵻŋ əféktᵻv məʃín lɜ́rnᵻŋ mɒ́dəlz. 
+
+B002C020: r-skwɛ́rd ənd əʤʌ́stᵻd r-skwɛ́rd. 
+ᵻn rəɡrɛ́ʃən ənǽlᵻsᵻs, wi sík tə ʌ̀ndərstǽnd ðə rəléɪʃənʃᵻ̀p bitwín ᵻ̀ndəpɛ́ndənt ənd dəpɛ́ndənt vɛ́riəbəlz. 
+tə dətɜ́rmᵻn háʊ wɛ́l ə mɒ́dəl həz kǽpʧərd ðᵻs rəléɪʃənʃᵻ̀p, wi jútᵻlàɪz ɡʊ́dnəs-əv-fᵻ̀t mɛ́ʒərz. 
+tú sʌʧ mɛ́ʒərz ɑr r-skwɛ́rd ənd əʤʌ́stᵻd r-skwɛ́rd. 
+ðeɪ kwɒ́ntᵻfàɪ ðə prəpɔ́rʃən əv ðə vɛriəbᵻ̀lᵻti ᵻn ðə dəpɛ́ndənt vɛ́riəbəl thət ᵻz əkspléɪnd baɪ ðə ᵻ̀ndəpɛ́ndənt vɛ́riəbəlz. 
+r-skwɛ́rd, ɔ́lsoʊ nóʊn æz ðə kòʊəfᵻ̀ʃənt əv dətɜ̀rmᵻnéɪʃən, réɪnʤᵻz frəm 0 tə 1. 
+A vǽlju əv 0 ᵻ̀ndᵻkèɪts thət ðə mɒ́dəl əkspléɪnz nən əv ðə vɛriəbᵻ̀lᵻti əv ðə rəspɒ́ns déɪtə əráʊnd ᵻts mín. 
+ɒn ðə ʌ́ðər hǽnd, ən r-skwɛ́rd əv 1 ᵻ̀mpláɪz thət ðə mɒ́dəl əkspléɪnz ɔl ðə vɛriəbᵻ̀lᵻti əv ðə rəspɒ́ns déɪtə əráʊnd ᵻts mín. 
+wáɪl ə háɪər r-skwɛ́rd vǽlju ʤɛ́nərəli ᵻ̀ndᵻkèɪts ə bɛ́tər fᵻ̀t fɔr ðə mɒ́dəl, ᵻt ᵻz nɒt ɔ́lwèɪz ðə kéɪs. 
+fɔr əɡzǽmpəl, ᵻf ə mɒ́dəl ᵻz òʊvərfᵻ̀tᵻd, ᵻt maɪt həv ən ᵻ̀nfléɪtᵻd r-skwɛ́rd vǽlju thət səʤɛ́sts ə ɡʊ́d fᵻ̀t wɛ́n ðə fᵻ̀t ᵻz nɒt ʤénjuᵻnli ɡʊ́d. 
+r-skwɛ́rd ᵻz kəmpjútᵻd æz 1 máɪnəs ðə réɪʃiòʊ əv ðə rᵻzᵻ̀ʤuəl sʌ́m əv skwɛ́rz (ðə sʌ́m əv ðə skwɛ́rd dᵻ̀fərənsᵻz bitwín əbzɜ́rvd ənd prədᵻ̀ktᵻd vǽljuz) tə ðə tóʊtəl sʌ́m əv skwɛ́rz (ðə sʌ́m əv ðə skwɛ́rd dᵻ̀fərənsᵻz bitwín əbzɜ́rvd vǽljuz ənd ðə mín əv əbzɜ́rvd values). 
+ᵻt əsɛ́nʃəli mɛ́ʒərz háʊ mʌʧ əv ðə tóʊtəl vɛriəbᵻ̀lᵻti ᵻz əkspléɪnd baɪ ðə mɒ́dəl. 
+wáɪl r-skwɛ́rd ᵻz ə júsfəl túl, ᵻt həz ᵻts lᵻ̀mᵻtéɪʃənz. 
+wʌ́n ᵻ̀ʃu ᵻz thət r-skwɛ́rd ɔ́lwèɪz ᵻ̀nkrìsᵻz wɛ́n ju ǽd mɔr prədᵻ̀ktərz tə ðə mɒ́dəl, ívᵻn ᵻf ðoʊz prədᵻ̀ktərz ɑr nɒt trúli rəléɪtᵻd tə ðə áʊtpʊ̀t vɛ́riəbəl. 
+ðᵻs ᵻz prɒ̀bləmǽtᵻk bᵻkɒ́z ᵻt kən lɛ́d|líd tə òʊvərfᵻ̀tᵻŋ, wɛ́r ə mɒ́dəl pərfɔ́rmz wɛ́l ɒn ðə tréɪnᵻŋ déɪtə bʌt pɔ́rli ɒn ʌ̀nsín déɪtə. 
+ðᵻs ᵻz wɛ́r əʤʌ́stᵻd r-skwɛ́rd kʌ́mz ᵻntu pléɪ. 
+əʤʌ́stᵻd r-skwɛ́rd əʤʌ́sts ðə stətᵻ̀stᵻk béɪst ɒn ðə nʌ́mbər əv prədᵻ̀ktərz ᵻn ðə mɒ́dəl. 
+ʌ̀nláɪk r-skwɛ́rd, əʤʌ́stᵻd r-skwɛ́rd ᵻ̀nkrìsᵻz óʊnli ᵻf ðə nu tɜ́rm ənhǽnsᵻz ðə mɒ́dəl mɔr ðʌn wʊd bi əkspɛ́ktᵻd baɪ ʧǽns. 
+ᵻt díkrìsᵻz wɛ́n ə prədᵻ̀ktər ᵻ̀mprúvz ðə mɒ́dəl baɪ lɛ́s ðʌn əkspɛ́ktᵻd baɪ ʧǽns. 
+əʤʌ́stᵻd r-skwɛ́rd kən bi lóʊər ðʌn r-skwɛ́rd ənd ᵻz ɔ́lwèɪz lóʊər ðʌn ɔr íkwəl tə r-skwɛ́rd. 
+əʤʌ́stᵻd r-skwɛ́rd ᵻz kǽlkjəlèɪtᵻd baɪ əʤʌ́stᵻŋ r-skwɛ́rd fɔr ðə sǽmpəl sáɪz ənd ðə nʌ́mbər əv prədᵻ̀ktərz ᵻn ðə mɒ́dəl. 
+ᵻt ᵻz béɪst ɒn ðə dᵻɡríz əv frídəm əv ðə rᵻzᵻ̀ʤuəlz ənd ðə tóʊtəl vɛriəbᵻ̀lᵻti, téɪkᵻŋ ᵻntu əkáʊnt ðə nʌ́mbər əv prədᵻ̀ktərz júzd rɛ́lətᵻv tə ðə nʌ́mbər əv ɒ̀bzərvéɪʃənz. 
+ᵻn sʌ́məri, r-skwɛ́rd ənd əʤʌ́stᵻd r-skwɛ́rd ɑr vǽljəbəl mɛ́trᵻks fɔr əvǽljuèɪtᵻŋ ðə pərfɔ́rməns əv rəɡrɛ́ʃən mɒ́dəlz. 
+ðeɪ prəváɪd ə kwɒ̀ntᵻfáɪəbɛl mɛ́ʒər əv háʊ wɛ́l ðə mɒ́dəl əkspléɪnz ðə vɛriəbᵻ̀lᵻti əv ðə déɪtə. 
+wáɪl r-skwɛ́rd ᵻz ə ɡʊ́d stɑ́rtᵻŋ pɔ́ɪnt, əʤʌ́stᵻd r-skwɛ́rd prəváɪdz ə mɔr núɒnst vjú thət téɪks ᵻntu əkáʊnt ðə nʌ́mbər əv prədᵻ̀ktərz ᵻn ðə mɒ́dəl, hɛ́lpᵻŋ tə prəvɛ́nt òʊvərfᵻ̀tᵻŋ. 
+baɪ ʌ̀ndərstǽndᵻŋ ənd kərɛ́ktli ᵻ̀ntərprɛ̀tᵻŋ ðiz mɛ́trᵻks, wi kən ənʃʊ́r wi ɑr júzᵻŋ ðə móʊst əpróʊprièɪt mɒ́dəl fɔr aʊər déɪtə. 
+
+B002C021: ǽkjərəsi, prəsᵻ̀ʒən, ríkɔ̀l, ənd F1-Score. 
+ðə pərfɔ́rməns əv ə məʃín lɜ́rnᵻŋ mɒ́dəl ᵻz krúʃəl ᵻn dətɜ́rmᵻnᵻŋ ᵻts əfɛ́ktᵻvnəs. 
+fɔr klæ̀sᵻfᵻkéɪʃən prɒ́bləmz, wi ɔ́fən jus|juz mɛ́trᵻks sʌʧ æz ǽkjərəsi, prəsᵻ̀ʒən, ríkɔ̀l, ənd F1-score tə əvǽljuèɪt pərfɔ́rməns. 
+ðiz mɛ́ʒərz iʧ prəváɪd ə junᵻ̀k pərspɛ́ktᵻv ɒn ðə mɒ́dəlz əbᵻ̀lᵻtìz, ənd wɛ́n júzd təɡɛ́ðər, ðeɪ kən ɔ́fər ə kɒ̀mprəhɛ́nsᵻv ʌ̀ndərstǽndᵻŋ əv ə mɒ́dəlz pərfɔ́rməns. 
+ǽkjərəsi ᵻz ə mɛ́ʒər əv ə mɒ́dəlz óʊvərɔ̀l kərɛ́ktnəs. 
+ᵻt ᵻz ðə prəpɔ́rʃən əv tóʊtəl prədᵻ̀kʃənz thət ɑr kərɛ́kt. 
+ᵻt ᵻz kǽlkjəlèɪtᵻd baɪ dᵻváɪdᵻŋ ðə nʌ́mbər əv kərɛ́kt prədᵻ̀kʃənz baɪ ðə tóʊtəl nʌ́mbər əv prədᵻ̀kʃənz. 
+wáɪl ǽkjərəsi kən bi ə júsfəl mɛ́ʒər, ᵻt kən bi mᵻslídᵻŋ wɛ́n klǽsᵻz ɑr ᵻmbǽlənst. 
+ᵻf 90% əv ᵻ̀nstənsᵻz bᵻlɔ́ŋ tə klǽs A, ə nàɪív mɒ́dəl thət ɔ́lwèɪz prədᵻ̀kts klǽs A wᵻl həv ən ǽkjərəsi əv 90%, ívᵻn ðóʊ ᵻt ᵻz nɒt ǽkʧùəli júsfəl fɔr prədᵻ̀kʃən. 
+prəsᵻ̀ʒən ᵻz ə mɛ́ʒər əv ə mɒ́dəlz rɛ́ləvənsi. 
+ᵻt ᵻz ðə prəpɔ́rʃən əv pɒ́zᵻtᵻv prədᵻ̀kʃənz thət ɑr ǽkʧùəli kərɛ́kt. 
+ᵻn ʌ́ðər wɜ́rdz, prəsᵻ̀ʒən mɛ́ʒərz ðə kwɒ́lᵻti əv ðə mɒ́dəlz pɒ́zᵻtᵻv klǽs prədᵻ̀kʃənz. 
+prəsᵻ̀ʒən ᵻz əspɛ́ʃəli júsfəl wɛ́n ðə kɒ́st əv fɔ́ls pɒ́zᵻtᵻvz ᵻz háɪ. 
+fɔr əɡzǽmpəl, ᵻn spǽm dᵻtɛ́kʃən, wi wɒ́nt tə mᵻ̀nᵻmàɪz ðə nʌ́mbər əv nɒn-spǽm ímeɪlz ᵻ̀nkərɛ́ktli mɑ́rkt æz spǽm, ənd soʊ prəsᵻ̀ʒən ᵻz ə krúʃəl mɛ́ʒər. 
+ríkɔ̀l, ɔ́lsoʊ nóʊn æz sɛ̀nsᵻtᵻ̀vᵻti ɔr trú pɒ́zᵻtᵻv réɪt, ᵻz ə mɛ́ʒər əv ə mɒ́dəlz kəmplítnəs. 
+ᵻt ᵻz ðə prəpɔ́rʃən əv ǽkʧəl pɒ́zᵻtᵻv ᵻ̀nstənsᵻz thət ðə mɒ́dəl kərɛ́ktli aɪdɛ́ntᵻfàɪd æz pɒ́zᵻtᵻv. 
+ᵻn ʌ́ðər wɜ́rdz, ríkɔ̀l mɛ́ʒərz ðə mɒ́dəlz əbᵻ̀lᵻti tə dᵻtɛ́kt pɒ́zᵻtᵻv ᵻ̀nstənsᵻz. 
+ríkɔ̀l ᵻz pɑ̀rtᵻ̀kjələrli ᵻ̀mpɔ́rtənt wɛ́n ðə kɒ́st əv fɔ́ls nɛ́ɡətᵻvz ᵻz háɪ. 
+fɔr əɡzǽmpəl, ᵻn kǽnsər dᵻtɛ́kʃən, ə fɔ́ls nɛ́ɡətᵻv (féɪlᵻŋ tə dᵻtɛ́kt kǽnsər wɛ́n ᵻt ᵻz prɛ́zənt|prəzɛ́nt) kʊ́d həv səvɪ́r kɒ́nsəkwɛ̀nsᵻz, ənd soʊ ə háɪ ríkɔ̀l ᵻz əsɛ́nʃəl. 
+wáɪl prəsᵻ̀ʒən ənd ríkɔ̀l ɑr hɛ́lpfəl, ðeɪ dú nɒt prəváɪd ə kəmplít pᵻ̀kʧər ᵻ̀ndᵻvᵻ̀ʤəli. 
+fɔr əɡzǽmpəl, ə mɒ́dəl thət prədᵻ̀kts ɛvəri ᵻ̀nstəns æz pɒ́zᵻtᵻv wᵻl həv ə ríkɔ̀l əv 100%, bʌt ᵻts prəsᵻ̀ʒən meɪ bi lóʊ ᵻf ðɛr ɑr mɛ́ni nɛ́ɡətᵻv ᵻ̀nstənsᵻz. 
+sᵻ̀mᵻlərli, ə mɒ́dəl thət prədᵻ̀kts óʊnli wʌ́n pɒ́zᵻtᵻv ᵻ̀nstəns kərɛ́ktli ənd prədᵻ̀kts ɔl ʌ́ðər ᵻ̀nstənsᵻz æz nɛ́ɡətᵻv wᵻl həv ə prəsᵻ̀ʒən əv 100%, bʌt ᵻts ríkɔ̀l meɪ bi lóʊ ᵻf ðɛr ɑr mɛ́ni pɒ́zᵻtᵻv ᵻ̀nstənsᵻz. 
+ðə F1-score ᵻz ə mɛ́trᵻk thət kəmbáɪnz prəsᵻ̀ʒən ənd ríkɔ̀l ᵻntu ə sᵻ̀ŋɡəl nʌ́mbər. 
+ᵻt ᵻz ðə hɑrmɒ́nᵻk mín əv prəsᵻ̀ʒən ənd ríkɔ̀l, wᵻ̀ʧ ɡᵻ̀vz íkwəl wéɪt tə bóʊθ vǽljuz. 
+ðə F1-score ᵻz pɑ̀rtᵻ̀kjələrli júsfəl wɛ́n ju wɒ́nt tə kəmpɛ́r tú mɒ́dəlz thət həv sᵻ̀mᵻlər prəsᵻ̀ʒən ənd ríkɔ̀l tréɪd-ɔ́fs. 
+ᵻn kənklúʒən, ǽkjərəsi, prəsᵻ̀ʒən, ríkɔ̀l, ənd F1-score ɑr fʌ̀ndəmɛ́ntəl mɛ́trᵻks fɔr əvǽljuèɪtᵻŋ ðə pərfɔ́rməns əv klæ̀sᵻfᵻkéɪʃən mɒ́dəlz. 
+iʧ prəváɪdz ə dᵻ̀fərənt pərspɛ́ktᵻv ɒn ðə mɒ́dəlz pərfɔ́rməns, ənd təɡɛ́ðər ðeɪ ɔ́fər ə wɛ́l-ráʊndᵻd ʌ̀ndərstǽndᵻŋ əv ðə mɒ́dəlz əbᵻ̀lᵻtìz. 
+ᵻ̀ts ᵻ̀mpɔ́rtənt tə ʌ̀ndərstǽnd ðə núɒnsᵻz əv iʧ ənd ʧúz ðə əpróʊprièɪt mɛ́trᵻks béɪst ɒn ðə spəsᵻ̀fᵻk nídz əv ðə tǽsk æt hǽnd. 
+baɪ dúᵻŋ soʊ, wi kən ənʃʊ́r thət aʊər mɒ́dəl pərfɔ́rmz əfɛ́ktᵻvli ənd əfᵻ̀ʃəntli ᵻn ədrɛ́sᵻŋ ðə prɒ́bləm wi éɪm tə sɒ́lv. 
+
+B002C022: kənfjúʒən méɪtrᵻks. 
+ᵻn ðə rɛ́lm əv məʃín lɜ́rnᵻŋ, əsɛ́sᵻŋ ðə pərfɔ́rməns əv ə prədᵻ̀ktᵻv mɒ́dəl ᵻz əv pɛ́rəmàʊnt ᵻ̀mpɔ́rtəns. 
+fɔr klæ̀sᵻfᵻkéɪʃən tǽsks, ðə kənfjúʒən méɪtrᵻks sɜ́rvz æz ə krúʃəl túl, prəváɪdᵻŋ ᵻ̀nsàɪt ᵻntu ðə ǽkjərəsi ənd roʊbʌ́stnəs əv ə mɒ́dəlz prədᵻ̀kʃənz. 
+A kənfjúʒən méɪtrᵻks ᵻz ə tǽbjələr léɪàʊt thət vᵻ̀ʒəlaɪz ðə pərfɔ́rməns əv ən ǽlɡərᵻ̀ðəm. 
+ᵻt ᵻz praɪmɛ́rᵻli júzd ᵻn súpərvàɪzd lɜ́rnᵻŋ. 
+tə kɒ̀mprəhɛ́nd ə kənfjúʒən méɪtrᵻks, wʌ́n mʌst fɜ́rst ʌ̀ndərstǽnd ᵻts kəmpóʊnənts: trú pɒ́zᵻtᵻvz, trú nɛ́ɡətᵻvz, fɔ́ls pɒ́zᵻtᵻvz, ənd fɔ́ls nɛ́ɡətᵻvz. 
+ðiz ɑr ðə áʊtkʌ̀mz thət kən əkɜ́r wɛ́n ə báɪnəri klæ̀sᵻfᵻkéɪʃən mɒ́dəl méɪks prədᵻ̀kʃənz. 
+trú pɒ́zᵻtᵻvz (TP) rɛ̀prəzɛ́nt ðə ᵻ̀nstənsᵻz wɛ́n ðə mɒ́dəl kərɛ́ktli prədᵻ̀ktᵻd ðə pɒ́zᵻtᵻv klǽs. 
+láɪkwàɪz, trú nɛ́ɡətᵻvz (TN) ɑr ðə ᵻ̀nstənsᵻz wɛ́n ðə mɒ́dəl kərɛ́ktli prədᵻ̀ktᵻd ðə nɛ́ɡətᵻv klǽs. 
+ɒn ðə ʌ́ðər hǽnd, fɔ́ls pɒ́zᵻtᵻvz (FP) ənd fɔ́ls nɛ́ɡətᵻvz (FN) rɛ̀prəzɛ́nt kéɪsᵻz wɛ́r ðə mɒ́dəlz prədᵻ̀kʃənz wɜ́r ᵻ̀nǽkjərət. 
+fɔ́ls pɒ́zᵻtᵻvz ɑr ᵻ̀nstənsᵻz wɛ́r ðə mɒ́dəl ᵻ̀nkərɛ́ktli prədᵻ̀ktᵻd ðə pɒ́zᵻtᵻv klǽs, ənd fɔ́ls nɛ́ɡətᵻvz ɑr ᵻ̀nstənsᵻz wɛ́r ðə mɒ́dəl ᵻ̀nkərɛ́ktli prədᵻ̀ktᵻd ðə nɛ́ɡətᵻv klǽs. 
+ðə léɪàʊt əv ə kənfjúʒən méɪtrᵻks ᵻz æz fɒ́loʊz: ðə prədᵻ̀ktᵻd klǽsᵻz fɔ́rm ðə kɒ́ləmz, ənd ðə ǽkʧəl klǽsᵻz fɔ́rm ðə róʊz. 
+fɔr ə báɪnəri klǽsᵻfaɪər, ðə kənfjúʒən méɪtrᵻks ᵻz ə 2x2 téɪbəl. 
+ðə tɒ́p lɛ́ft sɛ́l rɛ̀prəzɛ́nts trú nɛ́ɡətᵻvz, ðə tɒ́p ráɪt sɛ́l rɛ̀prəzɛ́nts fɔ́ls pɒ́zᵻtᵻvz, ðə bɒ́təm lɛ́ft sɛ́l rɛ̀prəzɛ́nts fɔ́ls nɛ́ɡətᵻvz, ənd ðə bɒ́təm ráɪt sɛ́l rɛ̀prəzɛ́nts trú pɒ́zᵻtᵻvz. 
+ᵻt ᵻz nóʊtwɜ̀rði thət ðə tɜ́rmz 'pɒ́zᵻtᵻv' ənd 'nɛ́ɡətᵻv' dú nɒt ᵻ̀mpláɪ 'ɡʊ́d' ənd 'bǽd' áʊtkʌ̀mz. 
+ðeɪ mɪ́rli dənóʊt ðə prɛ́zəns ɔr ǽbsəns əv ə kæ̀rəktərᵻ̀stᵻk thət ðə mɒ́dəl ᵻz ətɛ́mptᵻŋ tə prədᵻ̀kt. 
+fɔr ᵻ̀nstəns, ᵻn ə mɛ́dᵻkəl dàɪəɡnóʊsᵻs sənǽrioʊ, ðə 'pɒ́zᵻtᵻv' klǽs kʊ́d rəfɜ́r tə ðə prɛ́zəns əv ə dᵻzíz. 
+ðə kənfjúʒən méɪtrᵻks prəváɪdz ə wɛ́lθ əv ᵻ̀nfərméɪʃən əbaʊt ə mɒ́dəlz pərfɔ́rməns bìɔ́nd sᵻ̀mpəl ǽkjərəsi. 
+frəm ᵻt, wi kən dəráɪv ʌ́ðər mɛ́trᵻks sʌʧ æz prəsᵻ̀ʒən (ɔ́lsoʊ kɔ́ld ðə pɒ́zᵻtᵻv prədᵻ̀ktᵻv value), ríkɔ̀l (ɔ́lsoʊ nóʊn æz sɛ̀nsᵻtᵻ̀vᵻti ɔr trú pɒ́zᵻtᵻv rate), ənd ðə F1-score, wᵻ̀ʧ bǽlənsᵻz prəsᵻ̀ʒən ənd ríkɔ̀l. 
+prəsᵻ̀ʒən kən bi kǽlkjəlèɪtᵻd æz TP  (TP + FP), ənd ᵻt mɛ́ʒərz ðə prəpɔ́rʃən əv pɒ́zᵻtᵻv aɪdɛ̀ntᵻfᵻkéɪʃənz thət wɜ́r ǽkʧùəli kərɛ́kt. 
+ríkɔ̀l kən bi kǽlkjəlèɪtᵻd æz TP  (TP + FN), ənd ᵻt mɛ́ʒərz ðə prəpɔ́rʃən əv ǽkʧəl pɒ́zᵻtᵻvz thət wɜ́r aɪdɛ́ntᵻfàɪd kərɛ́ktli. 
+ðə F1-score ᵻz ðə hɑrmɒ́nᵻk mín əv prəsᵻ̀ʒən ənd ríkɔ̀l. 
+ðə kənfjúʒən méɪtrᵻks həz ʌ́ðər bɛ́nəfᵻts æz wɛ́l. 
+ᵻt hɛ́lps ᵻn ʌ̀ndərstǽndᵻŋ ðə táɪp əv ɛ́rərz méɪd baɪ ðə klǽsᵻfaɪər ənd kən bi júzd tə ᵻ̀mprúv ðiz mɒ́dəlz baɪ fóʊkəsᵻŋ ɒn rədjúsᵻŋ spəsᵻ̀fᵻk táɪps əv ɛ́rərz. 
+fɔr əɡzǽmpəl, ᵻn sɜ́rtən kɒ́ntɛ̀ksts, mᵻ̀nᵻmàɪzᵻŋ fɔ́ls nɛ́ɡətᵻvz meɪ bi mɔr ᵻ̀mpɔ́rtənt ðʌn mᵻ̀nᵻmàɪzᵻŋ fɔ́ls pɒ́zᵻtᵻvz. 
+ᵻt ᵻz əsɛ́nʃəl tə nóʊt thət ðə kənfjúʒən méɪtrᵻks, láɪk ɛ́ni ʌ́ðər mɛ́trᵻk, dʌz nɒt sᵻ̀ŋɡəl-hǽndᵻdli prəváɪd ə kɒ̀mprəhɛ́nsᵻv vjú əv ə mɒ́dəlz pərfɔ́rməns. 
+ᵻt ʃʊd bi júzd ᵻn kənʤʌ́ŋkʃən wᵻð ʌ́ðər mɛ́trᵻks ənd doʊméɪn nɒ́lᵻʤ tə méɪk ən ᵻ̀nfɔ́rmd dəsᵻ̀ʒən əbaʊt ðə ɛ́fᵻkæ̀si əv ə mɒ́dəl ənd ðə sùtəbᵻ̀lᵻti əv ᵻts æ̀plᵻkéɪʃən. 
+ᵻn sʌ́məri, ə kənfjúʒən méɪtrᵻks ᵻz ən ᵻ̀ndᵻspɛ́nsəbəl túl ᵻn ðə məʃín lɜ́rnᵻŋ præktᵻ̀ʃənər’z túlkᵻt. 
+ᵻt əláʊz fɔr ə núɒnst ʌ̀ndərstǽndᵻŋ əv ə mɒ́dəlz pərfɔ́rməns, rəvílᵻŋ strɛ́ŋkθs ənd wíknəsᵻz thət meɪ nɒt bi ᵻ̀mídìətli əpɛ́rənt frəm ʌ́ðər mɛ́trᵻks. 
+baɪ ʌ̀ndərstǽndᵻŋ ənd əfɛ́ktᵻvli jútᵻlàɪzᵻŋ ðə kənfjúʒən méɪtrᵻks, wʌ́n kən sᵻɡnᵻ̀fᵻkəntli ənhǽns ðə prɒ́sɛ̀s əv mɒ́dəl əvæ̀ljuéɪʃən ənd rəfáɪnmənt. 
+
+B002C023: lɜ́rnᵻŋ kɜ́rv. 
+æz wi dɛ́lv ᵻntu ðə rɛ́lm əv məʃín lɜ́rnᵻŋ, ʌ̀ndərstǽndᵻŋ mɒ́dəl pərfɔ́rməns bəkʌ́mz ə prirɛ́kwᵻzᵻt. 
+wáɪl ǽkjərəsi, prəsᵻ̀ʒən, ríkɔ̀l, ənd ðə kənfjúʒən méɪtrᵻks prəváɪd pɔ́ɪnt mɛ́ʒərmənts əv mɒ́dəl pərfɔ́rməns, ðə lɜ́rnᵻŋ kɜ́rv prɛ́zənts ə mɔr kɒ̀mprəhɛ́nsᵻv, vᵻ̀ʒəwəl əɡzæ̀mᵻtéɪʃən əv háʊ aʊər mɒ́dəl lɜ́rnz óʊvər táɪm, méɪkᵻŋ ᵻt ən ᵻ̀nstrəmɛ́ntəl túl ᵻn mɒ́dəl əvæ̀ljuéɪʃən. 
+A lɜ́rnᵻŋ kɜ́rv, ᵻn ðə kɒ́ntɛkst əv məʃín lɜ́rnᵻŋ, ᵻz ə plɒ́t thət ʃóʊz ðə ʧéɪnʤ ᵻn lɜ́rnᵻŋ pərfɔ́rməns óʊvər táɪm ᵻn tɜ́rmz əv əkspɪ́riəns. 
+ᵻn ðᵻs kɒ́ntɛkst, 'əkspɪ́riəns' tᵻ̀pᵻkəli rəfɜ́rz tə ðə sáɪz əv ðə tréɪnᵻŋ sɛ́t. 
+baɪ ʧɑ́rtᵻŋ tréɪnᵻŋ ənd væ̀lᵻdéɪʃən skɔ́rz óʊvər vɛ́riəs tréɪnᵻŋ sɛ́t sáɪzᵻz, ə lɜ́rnᵻŋ kɜ́rv prəváɪdz vǽljəbəl ᵻ̀nsàɪts ᵻntu wɛ́ðər ə məʃín lɜ́rnᵻŋ mɒ́dəl ᵻz lɜ́rnᵻŋ frəm ðə déɪtə, òʊvərfᵻ̀tᵻŋ ðə déɪtə, ɔr ʌ̀ndərfᵻ̀tᵻŋ ᵻt. 
+ᵻn ə tᵻ̀pᵻkəl lɜ́rnᵻŋ kɜ́rv, ðə x-ǽksᵻs rɛ̀prəzɛ́nts ðə sáɪz əv ðə tréɪnᵻŋ sɛ́t wáɪl ðə y-ǽksᵻs rɛ̀prəzɛ́nts ðə prədᵻ̀kʃən ɛ́rər ɔr ɔltɜ́rnətᵻvli, ðə ǽkjərəsi əv ðə mɒ́dəl. 
+tú kɜ́rvz ɑr plɒ́tᵻd: wʌ́n fɔr ðə tréɪnᵻŋ skɔ́r ənd wʌ́n fɔr ðə væ̀lᵻdéɪʃən skɔ́r. 
+ðə tréɪnᵻŋ skɔ́r kɜ́rv rɛ̀prəzɛ́nts ðə pərfɔ́rməns əv ðə mɒ́dəl ɒn ðə tréɪnᵻŋ sɛ́t. 
+ᵻnᵻ̀ʃəli, wɛ́n ðə tréɪnᵻŋ sɛ́t ᵻz smɔ́l, ðə mɒ́dəl kən fᵻ̀t tə ᵻt pɜ́rfəktli, ɔr nɪ́rli soʊ. 
+ðɛ́rfɔ̀r, ðə tréɪnᵻŋ ɛ́rər ᵻz smɔ́l, ɔr ðə tréɪnᵻŋ skɔ́r ᵻz háɪ. 
+æz ðə sáɪz əv ðə tréɪnᵻŋ sɛ́t ᵻ̀nkrìsᵻz, ᵻt bəkʌ́mz hɑ́rdər fɔr ðə mɒ́dəl tə fᵻ̀t tə ɔl déɪtə pɔ́ɪnts, ənd ðə tréɪnᵻŋ ɛ́rər ᵻ̀nkrìsᵻz, ɔr əkwᵻ̀vələntli, ðə tréɪnᵻŋ skɔ́r díkrìsᵻz. 
+æz ə rəzʌ́lt, ðə tréɪnᵻŋ skɔ́r kɜ́rv ᵻz ʤɛ́nərəli ə díkrìsᵻŋ fʌ́ŋkʃən əv ðə tréɪnᵻŋ sɛ́t sáɪz. 
+ðə væ̀lᵻdéɪʃən skɔ́r kɜ́rv rɛ̀prəzɛ́nts ðə pərfɔ́rməns əv ðə mɒ́dəl ɒn ə sɛ́pərət væ̀lᵻdéɪʃən sɛ́t. 
+wɛ́n ðə tréɪnᵻŋ sɛ́t ᵻz smɔ́l, ðə mɒ́dəl kǽnɒt ʤɛ́nərəlàɪz wɛ́l tə nu déɪtə, ənd ðə væ̀lᵻdéɪʃən ɛ́rər ᵻz lɑ́rʤ, ɔr ðə væ̀lᵻdéɪʃən skɔ́r ᵻz lóʊ. 
+æz ðə tréɪnᵻŋ sɛ́t sáɪz ᵻ̀nkrìsᵻz, ðə mɒ́dəl lɜ́rnz mɔr ənd ʤɛ́nərəlaɪz bɛ́tər, ənd ðə væ̀lᵻdéɪʃən ɛ́rər díkrìsᵻz, ɔr ðə væ̀lᵻdéɪʃən skɔ́r ᵻ̀nkrìsᵻz. 
+bìɔ́nd ə sɜ́rtən pɔ́ɪnt, hàʊɛ́vər, ðə mɒ́dəl meɪ nɒt ᵻ̀mprúv sᵻɡnᵻ̀fᵻkəntli ɒn ðə væ̀lᵻdéɪʃən sɛ́t ívᵻn ᵻf mɔr tréɪnᵻŋ déɪtə ᵻz prəváɪdᵻd. 
+ðʌs, ðə væ̀lᵻdéɪʃən skɔ́r kɜ́rv ᵻz ʤɛ́nərəli ən ᵻ̀nkrísᵻŋ fʌ́ŋkʃən əv ðə tréɪnᵻŋ sɛ́t sáɪz, bʌt plætóʊz ǽftər ə sɜ́rtən pɔ́ɪnt. 
+ǽnəlàɪzᵻŋ ðiz kɜ́rvz əláʊz ʌs tə aɪdɛ́ntᵻfàɪ ᵻf aʊər mɒ́dəl ᵻz báɪəst ɔr sʌ́fərᵻŋ frəm háɪ vɛ́riəns. 
+ᵻf bóʊθ kɜ́rvz plætóʊ æt ə háɪ ɛ́rər lɛ́vəl, ðə mɒ́dəl ᵻz ʌ̀ndərfᵻ̀tᵻŋ ðə déɪtə. 
+ðᵻs sᵻ̀ʧuéɪʃən ᵻz kǽrəktəraɪzd æz hǽvᵻŋ háɪ báɪəs, ᵻ̀ndᵻkèɪtᵻŋ thət ðə mɒ́dəl ᵻz oʊvərsᵻ̀mplᵻfàɪd ənd kǽnɒt kǽpʧər ðə kəmplɛ́ksᵻti ᵻn ðə déɪtə. 
+ᵻf ðə tréɪnᵻŋ kɜ́rv ríʧᵻz ə lóʊ ɛ́rər lɛ́vəl bʌt ðə væ̀lᵻdéɪʃən kɜ́rv rəméɪnz æt ə háɪ ɛ́rər lɛ́vəl, ðə mɒ́dəl ᵻz òʊvərfᵻ̀tᵻŋ ðə déɪtə. 
+ðᵻs sᵻ̀ʧuéɪʃən ᵻz kǽrəktəraɪzd æz hǽvᵻŋ háɪ vɛ́riəns, ᵻ̀ndᵻkèɪtᵻŋ thət ðə mɒ́dəl ᵻz óʊvərli kɒ́mplɛks ənd həz kǽpʧərd ðə nɔ́ɪz əlɔ́ŋ wᵻð ðə ʌ̀ndərláɪᵻŋ pǽtərnz ᵻn ðə tréɪnᵻŋ déɪtə. 
+lɜ́rnᵻŋ kɜ́rvz ɑr júsfəl nɒt óʊnli fɔr ʌ̀ndərstǽndᵻŋ háʊ mɒ́dəlz lɜ́rn, bʌt ɔ́lsoʊ fɔr trʌ́bəlʃùtᵻŋ prɒ́bləmz wᵻð lɜ́rnᵻŋ ɔr ɛ́stᵻmèɪtᵻŋ háʊ mʌʧ ðə mɒ́dəlz pərfɔ́rməns kʊ́d ᵻ̀mprúv wᵻð mɔr déɪtə. 
+ðeɪ kən ɔ́lsoʊ bi júzd tə dətɜ́rmᵻn wɛ́ðər kəlɛ́ktᵻŋ mɔr déɪtə ɔr səlɛ́ktᵻŋ ə mɔr ɔr lɛ́s kɒ́mplɛks mɒ́dəl wʊd bi ə bɛ̀nəfᵻ̀ʃəl nɛ́kst stɛ́p. 
+ᵻn sʌ́məri, ðə lɜ́rnᵻŋ kɜ́rv ᵻz ən ᵻ̀ntəɡrəl pɑ́rt əv məʃín lɜ́rnᵻŋ thət əláʊz ʌs tə vᵻ̀ʒwəlàɪz ənd kɒ̀mprəhɛ́nd ðə lɜ́rnᵻŋ prɒ́sɛ̀s, dàɪəɡnóʊs báɪəs ənd vɛ́riəns prɒ́bləmz, ənd ɡáɪd aʊər dəsᵻ̀ʒənz fɔr fjúʧər stɛ́ps ᵻn mɒ́dəl dəvɛ́ləpmənt. 
+
+B002C024: ðə kɜ́rs əv dᵻmɛ̀nʃənǽlᵻti. 
+ðə kɜ́rs əv dᵻmɛ̀nʃənǽlᵻti ᵻz ə fənɒ́mənɒ̀n thət əkɜ́rz ᵻn háɪ-dᵻmɛ́nʃənəl spéɪsᵻz, wɛ́r ðə vɒ́ljum əv ðə spéɪs ᵻ̀nkrìsᵻz ɛ̀kspoʊnɛ́nʃəli wᵻð ðə nʌ́mbər əv dᵻmɛ́nʃənz. 
+ðᵻs mínz thət æz ðə nʌ́mbər əv dᵻmɛ́nʃənz ᵻ̀nkrìsᵻz, ðə əmáʊnt əv déɪtə rəkwáɪərd tə ǽkjərətli rɛ̀prəzɛ́nt ðə spéɪs ɔ́lsoʊ ᵻ̀nkrìsᵻz ɛ̀kspoʊnɛ́nʃəli. 
+ðə kɜ́rs əv dᵻmɛ̀nʃənǽlᵻti həz sᵻɡnᵻ̀fᵻkənt ᵻ̀mplᵻkéɪʃənz fɔr məʃín lɜ́rnᵻŋ ənd déɪtə ənǽlᵻsᵻs. 
+ᵻn háɪ-dᵻmɛ́nʃənəl spéɪsᵻz, ᵻt bəkʌ́mz ᵻnkrísᵻŋɡli dᵻ̀fᵻkəlt tə kəlɛ́kt ənd ǽnəlàɪz déɪtə, æz ðə əmáʊnt əv déɪtə rəkwáɪərd tə ǽkjərətli rɛ̀prəzɛ́nt ðə spéɪs bəkʌ́mz ɛ̀kspoʊnɛ́nʃəli lɑ́rʤər. 
+ðᵻs kən lɛ́d|líd tə ðə fɒ́loʊᵻŋ ʧǽlənʤᵻz: 
+déɪtə spɑ́rsᵻti: æz ðə nʌ́mbər əv dᵻmɛ́nʃənz ᵻ̀nkrìsᵻz, ðə əmáʊnt əv déɪtə rəkwáɪərd tə fᵻ̀l ðə spéɪs ɔ́lsoʊ ᵻ̀nkrìsᵻz. 
+ðᵻs lídz tə ə sᵻ̀ʧuéɪʃən wɛ́r ðɛr meɪ bi fjúər ɒ̀bzərvéɪʃənz pɜ́r dᵻmɛ́nʃən, méɪkᵻŋ ᵻt mɔr dᵻ̀fᵻkəlt tə ǽnəlàɪz ðə déɪtə. 
+dᵻ̀fᵻkəlti ᵻn vᵻ̀ʒwəlᵻzéɪʃən ənd ᵻ̀ntɜ̀rprᵻtéɪʃən: æz ðə nʌ́mbər əv dᵻmɛ́nʃənz ᵻ̀nkrìsᵻz, ᵻt bəkʌ́mz ᵻnkrísᵻŋɡli dᵻ̀fᵻkəlt tə vᵻ̀ʒwəlàɪz ənd ᵻ̀ntɜ́rprət ðə déɪtə. 
+ðᵻs kən méɪk ᵻt hɑ́rdər tə aɪdɛ́ntᵻfàɪ pǽtərnz ənd rəléɪʃənʃᵻ̀ps ᵻn ðə déɪtə. 
+kɒ̀mpjutéɪʃənəl kəmplɛ́ksᵻti: mɛ́ni məʃín lɜ́rnᵻŋ ǽlɡərᵻ̀ðəmz həv kɒ̀mpjutéɪʃənəl kəmplɛ́ksᵻtiz thət ᵻ̀nkris|ᵻnkrís wᵻð ðə nʌ́mbər əv dᵻmɛ́nʃənz. 
+ðᵻs mínz thət æz ðə nʌ́mbər əv dᵻmɛ́nʃənz ᵻ̀nkrìsᵻz, ðə kɒ̀mpjutéɪʃənəl rəkwáɪrmənts fɔr tréɪnᵻŋ ənd tɛ́stᵻŋ ðə mɒ́dəl ɔ́lsoʊ ᵻ̀nkris|ᵻnkrís. 
+òʊvərfᵻ̀tᵻŋ: ðə kɜ́rs əv dᵻmɛ̀nʃənǽlᵻti kən ɔ́lsoʊ lɛ́d|líd tə òʊvərfᵻ̀tᵻŋ, wɛ́r ðə mɒ́dəl bəkʌ́mz tú kɒ́mplɛks ənd stɑ́rts tə fᵻ̀t ðə nɔ́ɪz ᵻn ðə déɪtə rǽðər ðʌn ðə ʌ̀ndərláɪᵻŋ pǽtərnz. 
+ðᵻs kən rəzʌ́lt ᵻn pɔ́r ʤɛ̀nərəlᵻzéɪʃən pərfɔ́rməns ɒn ʌ̀nsín déɪtə. 
+tə mᵻ̀tᵻɡèɪt ðə kɜ́rs əv dᵻmɛ̀nʃənǽlᵻti, vɛ́riəs tɛkníks kən bi júzd, sʌʧ æz:. 
+dᵻmɛ̀nʃənǽlᵻti rədʌ́kʃən: tɛkníks sʌʧ æz prᵻ̀nsᵻpəl kəmpóʊnənt ənǽlᵻsᵻs (PCA) ɔr sᵻ̀ŋɡjələr vǽlju dìkəmpəzᵻ̀ʃən (SVD) kən bi júzd tə rədjús ðə nʌ́mbər əv dᵻmɛ́nʃənz wáɪl prəzɜ́rvᵻŋ ðə móʊst ᵻ̀mpɔ́rtənt ᵻ̀nfərméɪʃən. 
+fíʧər səlɛ́kʃən: səlɛ́ktᵻŋ ə sʌ́bsɛ̀t əv ðə móʊst rɛ́ləvənt fíʧərz kən hɛ́lp rədjús ðə dᵻmɛ̀nʃənǽlᵻti əv ðə déɪtə ənd ᵻ̀mprúv ðə pərfɔ́rməns əv məʃín lɜ́rnᵻŋ ǽlɡərᵻ̀ðəmz. 
+spɑ́rs mɒ́dəlᵻ̀ŋ: júzᵻŋ spɑ́rs mɒ́dəlz, sʌʧ æz spɑ́rs lᵻ̀niər mɛ́θədz ɔr spɑ́rs béɪʒən mɛ́θədz, kən hɛ́lp rədjús ðə dᵻmɛ̀nʃənǽlᵻti əv ðə déɪtə ənd ᵻ̀mprúv ðə kɒ̀mpjutéɪʃənəl əfᵻ̀ʃənsi əv məʃín lɜ́rnᵻŋ ǽlɡərᵻ̀ðəmz. 
+déɪtə-əfᵻ̀ʃənt ǽlɡərᵻ̀ðəmz: júzᵻŋ ǽlɡərᵻ̀ðəmz thət ɑr dᵻzáɪnd tə wɜ́rk wɛ́l wᵻð háɪ-dᵻmɛ́nʃənəl déɪtə, sʌʧ æz rǽndəm fɔ́rəsts ɔr səpɔ́rt vɛ́ktər məʃínz, kən hɛ́lp mᵻ̀tᵻɡèɪt ðə kɜ́rs əv dᵻmɛ̀nʃənǽlᵻti. 
+ᵻn sʌ́məri, ðə kɜ́rs əv dᵻmɛ̀nʃənǽlᵻti ᵻz ə sᵻɡnᵻ̀fᵻkənt ʧǽlənʤ ᵻn məʃín lɜ́rnᵻŋ ənd déɪtə ənǽlᵻsᵻs, æz ᵻt kən lɛ́d|líd tə déɪtə spɑ́rsᵻti, dᵻ̀fᵻkəlti ᵻn vᵻ̀ʒwəlᵻzéɪʃən ənd ᵻ̀ntɜ̀rprᵻtéɪʃən, kɒ̀mpjutéɪʃənəl kəmplɛ́ksᵻti, ənd òʊvərfᵻ̀tᵻŋ. 
+tə mᵻ̀tᵻɡèɪt ðiz ʧǽlənʤᵻz, vɛ́riəs tɛkníks kən bi júzd, sʌʧ æz dᵻmɛ̀nʃənǽlᵻti rədʌ́kʃən, fíʧər səlɛ́kʃən, spɑ́rs mɒ́dəlᵻ̀ŋ, ənd déɪtə-əfᵻ̀ʃənt ǽlɡərᵻ̀ðəmz. 
+
+B002C025: ʌ̀ndərfᵻ̀tᵻŋ vɜ́rsəs òʊvərfᵻ̀tᵻŋ. 
+ᵻn məʃín lɜ́rnᵻŋ, əʧívᵻŋ ə bǽləns bitwín ʌ̀ndərfᵻ̀tᵻŋ ənd òʊvərfᵻ̀tᵻŋ ᵻz ə fʌ̀ndəmɛ́ntəl pɑ́rt əv mɒ́dəl dᵻzáɪn. 
+ʌ̀ndərstǽndᵻŋ ðiz kɒ́nsɛpts ənd ðɛr ᵻ̀mplᵻkéɪʃənz kən ɡáɪd ʌs ᵻn ðə prɒ́sɛ̀s əv mɒ́dəl tréɪnᵻŋ ənd əvæ̀ljuéɪʃən. 
+ʌ̀ndərfᵻ̀tᵻŋ əkɜ́rz wɛ́n ə mɒ́dəl ᵻz tú sᵻ̀mpəl tə kǽpʧər ðə ʌ̀ndərláɪᵻŋ strʌ́kʧər əv ðə déɪtə. 
+ðə mɒ́dəl féɪlz tə lɜ́rn ᵻ̀mpɔ́rtənt kæ̀rəktərᵻ̀stᵻks frəm ðə tréɪnᵻŋ déɪtə, rəzʌ́ltᵻŋ ᵻn pɔ́r pərfɔ́rməns nɒt óʊnli ɒn ʌ̀nsín déɪtə, bʌt ɔ́lsoʊ ɒn ðə tréɪnᵻŋ déɪtə ᵻ̀tsɛ́lf. 
+ᵻn ɛ́səns, ən ʌ̀ndərfᵻ̀t mɒ́dəl rɛ̀prəzɛ́nts ə háɪ báɪəs sənǽrioʊ wɛ́r ðə mɒ́dəlz əsʌ́mpʃənz ɑr soʊ strɔ́ŋ thət ðeɪ prəvɛ́nt ᵻt frəm ǽdəkwətli lɜ́rnᵻŋ ðə déɪtəz ᵻ̀ntrəkəsiz. 
+òʊvərfᵻ̀tᵻŋ, ɒn ðə ʌ́ðər hǽnd, əkɜ́rz wɛ́n ə mɒ́dəl ᵻz əksɛ́sᵻvli kɒ́mplɛks ənd bᵻɡᵻ̀nz tə lɜ́rn frəm ðə nɔ́ɪz ᵻn ðə déɪtə əlɔ́ŋ wᵻð ðə ǽkʧəl pǽtərnz. 
+ən óʊvərfᵻt mɒ́dəl ɔ́fən ʃóʊz əksɛ́pʃənəl pərfɔ́rməns ɒn ðə tréɪnᵻŋ déɪtə bʌt féɪlz tə ʤɛ́nərəlàɪz tə nu, ʌ̀nsín déɪtə, lídᵻŋ tə pɔ́r tɛ́st pərfɔ́rməns. 
+ðᵻs ᵻz ə háɪ vɛ́riəns sənǽrioʊ wɛ́r ðə mɒ́dəl ᵻz óʊvərli sɛ́nsᵻtᵻv tə ðə tréɪnᵻŋ déɪtəz spəsᵻ̀fᵻk kæ̀rəktərᵻ̀stᵻks ənd féɪlz tə kǽpʧər ðə brɔ́dər trɛ́nd. 
+ðiz tú sənǽrioʊz kən bi vᵻ̀ʒwəlàɪzd ᵻn tɜ́rmz əv ðə ɛ́rər əv ðə mɒ́dəl, wᵻ̀ʧ tᵻ̀pᵻkəli kənsᵻ̀sts əv báɪəs ɛ́rər, vɛ́riəns ɛ́rər, ənd ɪ̀rədúsᵻbəl ɛ́rər. 
+báɪəs ɛ́rər ᵻz ðə ɛ́rər frəm ɛróʊniəs əsʌ́mpʃənz ᵻn ðə lɜ́rnᵻŋ ǽlɡərᵻ̀ðəm. 
+háɪ báɪəs kən kɒ́z ən ǽlɡərᵻ̀ðəm tə mᵻ̀s rɛ́ləvənt rəléɪʃənz bitwín fíʧərz ənd tɑ́rɡət áʊtpʊ̀ts (underfitting). 
+vɛ́riəns ɛ́rər rəfɜ́rz tə ðə ɛ́rər djú tə ðə mɒ́dəlz sɛ̀nsᵻtᵻ̀vᵻti tə flʌ̀kʧuéɪʃənz ᵻn ðə tréɪnᵻŋ sɛ́t. 
+háɪ vɛ́riəns kən kɒ́z ən ǽlɡərᵻ̀ðəm tə mɒ́dəl ðə rǽndəm nɔ́ɪz ᵻn ðə tréɪnᵻŋ déɪtə (overfitting). 
+ðə báɪəs-vɛ́riəns tréɪdɔ̀f rɛ̀prəzɛ́nts ðə dɛ́lᵻkət bǽləns nídᵻd tə mᵻ̀nᵻmàɪz ðə tóʊtəl ɛ́rər. 
+ᵻf aʊər mɒ́dəl ᵻz tú sᵻ̀mpəl ənd həz vɛ́ri fjú pərǽmətərz, wi meɪ həv háɪ báɪəs ənd lóʊ vɛ́riəns. 
+ᵻf aʊər mɒ́dəl həz ə lɑ́rʤ nʌ́mbər əv pərǽmətərz, wi maɪt həv háɪ vɛ́riəns ənd lóʊ báɪəs. 
+ðɛ́rfɔ̀r, ðə trᵻ̀k ᵻz tə fáɪnd ðə ráɪt bǽləns wᵻðáʊt áɪðər òʊvərfᵻ̀tᵻŋ ɔr ʌ̀ndərfᵻ̀tᵻŋ ðə déɪtə. 
+ðə strǽtəʤiz tə ǽdrɛ̀s ʌ̀ndərfᵻ̀tᵻŋ ᵻ̀nvɒ́lv méɪkᵻŋ ðə mɒ́dəl mɔr kɒ́mplɛks. 
+ðᵻs kən bi dʌ́n baɪ ᵻ̀nkrísᵻŋ ðə nʌ́mbər əv pərǽmətərz ᵻn ðə mɒ́dəl, kənstrʌ́ktᵻŋ mɔr fíʧərz frəm ðə əɡzᵻ̀stᵻŋ déɪtə, ɔr rədjúsᵻŋ ðə lɛ́vəl əv rèɡjəlɛ̀rᵻzéɪʃən əpláɪd tə ðə mɒ́dəl. 
+ᵻn kɒ́ntrɒst|kəntrǽst, strǽtəʤiz tə ǽdrɛ̀s òʊvərfᵻ̀tᵻŋ ᵻ̀nvɒ́lv sᵻ̀mpləfàɪᵻŋ ðə mɒ́dəl, əpláɪᵻŋ rèɡjəlɛ̀rᵻzéɪʃən, ɡǽðərᵻŋ mɔr tréɪnᵻŋ déɪtə, ɔr rədjúsᵻŋ ðə nʌ́mbər əv fíʧərz júzd baɪ ðə mɒ́dəl. 
+sɛ́vərəl dàɪəɡnɒ́stᵻk túlz, láɪk lɜ́rnᵻŋ kɜ́rvz ənd væ̀lᵻdéɪʃən kɜ́rvz, kən hɛ́lp ʌs dᵻtɛ́kt ʌ̀ndərfᵻ̀tᵻŋ ɔr òʊvərfᵻ̀tᵻŋ. 
+fɔr ᵻ̀nstəns, ə lɜ́rnᵻŋ kɜ́rv plɒ́ts tréɪnᵻŋ ənd væ̀lᵻdéɪʃən ɛ́rərz æz ə fʌ́ŋkʃən əv ðə nʌ́mbər əv tréɪnᵻŋ əɡzǽmpəlz. 
+ᵻf ə mɒ́dəl ᵻz ʌ̀ndərfᵻ̀tᵻŋ, bóʊθ tréɪnᵻŋ ənd væ̀lᵻdéɪʃən ɛ́rərz wᵻl bi háɪ rəɡɑ́rdləs əv ðə nʌ́mbər əv tréɪnᵻŋ əɡzǽmpəlz. 
+ᵻf ə mɒ́dəl ᵻz òʊvərfᵻ̀tᵻŋ, ðə tréɪnᵻŋ ɛ́rər wᵻl bi sᵻɡnᵻ̀fᵻkəntli lóʊər ðʌn ðə væ̀lᵻdéɪʃən ɛ́rər, əspɛ́ʃəli æz ðə nʌ́mbər əv tréɪnᵻŋ əɡzǽmpəlz ᵻ̀nkrìsᵻz. 
+ᵻn kənklúʒən, ðə bǽləns bitwín ʌ̀ndərfᵻ̀tᵻŋ ənd òʊvərfᵻ̀tᵻŋ ᵻz ə kɔ́rnərstòʊn əv əféktᵻv məʃín lɜ́rnᵻŋ mɒ́dəlz. 
+baɪ ʌ̀ndərstǽndᵻŋ ðiz kɒ́nsɛpts ənd jútᵻlàɪzᵻŋ əpróʊprièɪt dàɪəɡnɒ́stᵻk túlz ənd strǽtəʤiz, wi kən bᵻ̀ld mɒ́dəlz thət nɒt óʊnli pərfɔ́rm wɛ́l ɒn aʊər tréɪnᵻŋ déɪtə, bʌt ɔ́lsoʊ ʤɛ́nərəlàɪz tə ʌ̀nsín déɪtə, ðʌs hóʊldᵻŋ trú prədᵻ̀ktᵻv páʊər. 
+
+B002C026: báɪəs ənd vɛ́riəns. 
+ᵻn ðə lǽnskèɪp əv məʃín lɜ́rnᵻŋ, báɪəs ənd vɛ́riəns ɑr tú fʌ̀ndəmɛ́ntəl ɛ́ləmənts tə ɡrǽsp æz ðeɪ kɒ́nstᵻtùt ə sɛ́ntrəl pɑ́rt əv ʌ̀ndərstǽndᵻŋ háʊ wɛ́l ə mɒ́dəl ᵻz pərfɔ́rmᵻŋ. 
+əsɛ́nʃəli, báɪəs ənd vɛ́riəns prəváɪd ʌs wᵻð ə mɛ́ʒər əv ðə ɛ́rər ə məʃín lɜ́rnᵻŋ mɒ́dəl ᵻz próʊn tə méɪk. 
+lɛt ʌs dáɪv dípər ᵻntu ðiz kɒ́nsɛpts. 
+báɪəs ᵻz ðə sᵻ̀mpləfàɪᵻŋ əsʌ́mpʃənz méɪd baɪ ə mɒ́dəl tə méɪk ðə tɑ́rɡət fʌ́ŋkʃən íziər tə əprɒ́ksəmèɪt. 
+ᵻn ʌ́ðər wɜ́rdz, báɪəs ᵻz ðə ɛ́rər frəm ɛróʊniəs əsʌ́mpʃənz ᵻn ðə lɜ́rnᵻŋ ǽlɡərᵻ̀ðəm. 
+ᵻt mɛ́ʒərz háʊ fɑ́r ɔ́f ᵻn ʤɛ́nərəl ðiz mɒ́dəlz prədᵻ̀kʃənz ɑr frəm ðə kərɛ́kt vǽlju. 
+háɪ báɪəs ᵻz ᵻ̀ndᵻ̀kətᵻv əv ən ʌ̀ndərfᵻ̀tᵻŋ mɒ́dəl, wɛ́r ðə mɒ́dəl ᵻz tú sᵻmplᵻ̀stᵻk tə kǽpʧər ɔl ðə fíʧərz ᵻn ðə déɪtəsɛ̀t, kɒ́zᵻŋ ᵻt tə óʊvərlʊ̀k ðə déɪtəz ʌ̀ndərláɪᵻŋ strʌ́kʧər. 
+ɒn ðə ʌ́ðər hǽnd, vɛ́riəns ᵻz ə mɛ́ʒər əv háʊ mʌʧ ðə prədᵻ̀kʃənz fɔr ə ɡᵻ̀vən pɔ́ɪnt vɛ́ri bitwín dᵻ̀fərənt rᵻ̀əlaɪzéɪʃənz əv ðə mɒ́dəl. 
+vɛ́riəns rɛ̀prəzɛ́nts ðə mɒ́dəlz sɛ̀nsᵻtᵻ̀vᵻti tə flʌ̀kʧuéɪʃənz ᵻn ðə déɪtəsɛ̀t, rəflɛ́ktᵻŋ háʊ mʌʧ ðə mɒ́dəlz prədᵻ̀kʃənz wʊd ɔ́ltər ᵻf ᵻt wɜ́r ritréɪnd ɒn ə dᵻ̀fərənt tréɪnᵻŋ sɛ́t. 
+háɪ vɛ́riəns ᵻz kæ̀rəktərᵻ̀stᵻk əv ən òʊvərfᵻ̀tᵻŋ mɒ́dəl, wʌ́n thət mɒ́dəlz ðə rǽndəm nɔ́ɪz ᵻn ðə tréɪnᵻŋ déɪtə, ðɛ́rbáɪ pərfɔ́rmᵻŋ pɔ́rli ɒn ʌ̀nsín déɪtə. 
+bǽlənsᵻŋ ðə tréɪdɔ̀f bitwín báɪəs ənd vɛ́riəns ᵻz krúʃəl tə kriéɪtᵻŋ ə mɒ́dəl thət ʤɛ́nərəlaɪz wɛ́l tə ʌ̀nsín déɪtə. 
+tú mʌʧ báɪəs lídz tə ə mɒ́dəl thət dʌz nɒt kənsᵻ̀dər ᵻ̀mpɔ́rtənt fíʧərz ənd pǽtərnz ᵻn ðə déɪtə, wáɪl tú mʌʧ vɛ́riəns rəzʌ́lts ᵻn ə mɒ́dəl thət ᵻz óʊvərli kɒ́mplɛks, kǽpʧərᵻŋ ðə nɔ́ɪz rǽðər ðʌn ðə ǽkʧəl sᵻ̀ɡnəl ᵻn ðə déɪtə. 
+rədjúsᵻŋ ðə ɛ́rər ᵻn ə mɒ́dəl ᵻ̀nvɒ́lvz rədjúsᵻŋ bóʊθ ðə báɪəs ənd vɛ́riəns kəmpóʊnənts əv ɛ́rər. 
+rədjúsᵻŋ báɪəs tᵻ̀pᵻkəli méɪks ðə mɒ́dəl mɔr kɒ́mplɛks, ᵻ̀nkrísᵻŋ ᵻts əbᵻ̀lᵻti tə kǽpʧər ðə déɪtəz trú strʌ́kʧər. 
+tɛkníks sʌʧ æz júzᵻŋ mɔr fíʧərz ɔr kriéɪtᵻŋ ə mɔr kɒ́mplɛks mɒ́dəl ɑ́rkᵻtɛ̀kʧər, láɪk múvᵻŋ frəm ə lᵻ̀niər mɒ́dəl tə ə nʊ́rəl nɛ́twɜ̀rk, ɑr wéɪz əv rədjúsᵻŋ báɪəs. 
+hàʊɛ́vər, æz ðə mɒ́dəl bəkʌ́mz mɔr kɒ́mplɛks, ᵻt tɛ́ndz tə həv háɪər vɛ́riəns. 
+hɛ́ns, strǽtəʤiz tə rədjús vɛ́riəns ɑr ɔ́fən nɛ́səsɛ̀ri tə prəvɛ́nt òʊvərfᵻ̀tᵻŋ. 
+ðiz meɪ ᵻ̀nklúd tɛkníks láɪk rèɡjəlɛ̀rᵻzéɪʃən, wᵻ̀ʧ ǽdz ə pɛ́nəlti tə ðə lɔ́s fʌ́ŋkʃən béɪst ɒn ðə kəmplɛ́ksᵻti əv ðə mɒ́dəl, ɔr ᵻ̀nkrísᵻŋ ðə sáɪz əv ðə déɪtəsɛ̀t tə prəváɪd ðə mɒ́dəl wᵻð mɔr əɡzǽmpəlz frəm wᵻ̀ʧ tə lɜ́rn. 
+ᵻn prǽktᵻs, wʌ́n maɪt jus|juz mɛ́θədz láɪk krɔ́s-væ̀lᵻdéɪʃən tə dətɜ́rmᵻn ðə ɒ́ptᵻməl kəmplɛ́ksᵻti əv ðə mɒ́dəl ənd tə mɒ́nᵻtər bóʊθ báɪəs ənd vɛ́riəns ɛ́rərz. 
+krɔ́s-væ̀lᵻdéɪʃən ᵻ̀nvɒ́lvz dᵻváɪdᵻŋ ðə déɪtəsɛ̀t ᵻntu mʌ́ltᵻpəl sʌ́bsɛ̀ts ənd tréɪnᵻŋ ðə mɒ́dəl ɒn iʧ sʌ́bsɛ̀t, ðɛ́rbáɪ prəváɪdᵻŋ ə mɔr roʊbʌ́st mɛ́ʒər əv ðə mɒ́dəlz pərfɔ́rməns. 
+ᵻn kənklúʒən, ʌ̀ndərstǽndᵻŋ báɪəs ənd vɛ́riəns ᵻz krúʃəl tə məʃín lɜ́rnᵻŋ. 
+ðə bǽləns bitwín báɪəs ənd vɛ́riəns ᵻz ðə kí tə bᵻ̀ldᵻŋ mɒ́dəlz thət ʤɛ́nərəlàɪz wɛ́l ənd həv ɡʊ́d prədᵻ̀ktᵻv pərfɔ́rməns. 
+tú mʌʧ báɪəs kən kɒ́z ðə mɒ́dəl tə mᵻ̀s ᵻ̀mpɔ́rtənt pǽtərnz ᵻn ðə déɪtə, lídᵻŋ tə ʌ̀ndərfᵻ̀tᵻŋ. 
+ɒn ðə ʌ́ðər hǽnd, tú mʌʧ vɛ́riəns kən kɒ́z ðə mɒ́dəl tə kǽpʧər ðə nɔ́ɪz rǽðər ðʌn ðə sᵻ̀ɡnəl, lídᵻŋ tə òʊvərfᵻ̀tᵻŋ. 
+ðɛ́rfɔ̀r, ə bǽlənst mɒ́dəl thət mᵻ̀nᵻmàɪzᵻz bóʊθ báɪəs ənd vɛ́riəns ᵻz ðə ɡóʊl əv ɛvəri məʃín lɜ́rnᵻŋ prɒ́ʤɛkt|prəʤɛ́kt. 
+
+B002C027: nʊ́rəl nɛ́twɜ̀rks - pərsɛ́ptrɒn. 
+ᵻn ðə doʊméɪn əv məʃín lɜ́rnᵻŋ, nʊ́rəl nɛ́twɜ̀rks həv bəkʌ́m ə pᵻ̀lər fɔr ðɛr roʊbʌ́stnəs ᵻn hǽndəlᵻŋ kɒ́mplɛks tǽsks, wɛ́ðər ᵻn ᵻ̀mᵻʤ rɛ̀kəɡnᵻ̀ʃən, nǽʧərəl lǽŋɡwᵻʤ prɒ́sɛsᵻŋ, ɔr rəɡrɛ́ʃən prɒ́bləmz. 
+wʌ́n əv ðə sᵻ̀mpləst fɔ́rmz əv nʊ́rəl nɛ́twɜ̀rks ᵻz ðə pərsɛ́ptrɒn. 
+ðə pərsɛ́ptrɒn, pàɪənɪ́rd baɪ frǽŋk róʊzənblæ̀t ᵻn 1957, fɔ́rmz ðə faʊndéɪʃən fɔr mɔr ədvǽnst nʊ́rəl nɛ́twɜ̀rks. 
+ðə pərsɛ́ptrɒn ᵻz ə táɪp əv ɑ̀rtᵻfᵻ̀ʃəl nʊ́rɒn wᵻ̀ʧ kən bi θɔ́t əv æz ðə béɪsᵻk bᵻ̀ldᵻŋ blɒ́k əv nʊ́rəl nɛ́twɜ̀rks. 
+kənsɛ́pʧuəli, ðə pərsɛ́ptrɒn rəsívz wʌ́n ɔr mɔr ᵻ̀npʊ̀ts, ǽɡrəɡèɪts ðiz ᵻ̀npʊ̀ts, əpláɪz ə træ̀nsfərméɪʃən fʌ́ŋkʃən, ənd ðɛn prədúsᵻz ən áʊtpʊ̀t. 
+A pərsɛ́ptrɒn mᵻ̀mᵻks ðə fʌ́ŋkʃən əv ə bàɪəlɒ́ʤᵻkəl nʊ́rɒn. 
+iʧ ᵻ̀npʊ̀t ᵻz əsóʊsièɪtᵻd wᵻð ə wéɪt, ənǽləɡəs tə ðə strɛ́ŋkθ əv ə sᵻ̀nǽptᵻk kənɛ́kʃən ᵻn ə bàɪəlɒ́ʤᵻkəl nʊ́rɒn. 
+ðə pərsɛ́ptrɒn mʌ́ltᵻplàɪz iʧ ᵻ̀npʊ̀t baɪ ᵻts kɔ̀rəspɒ́ndᵻŋ wéɪt ənd ðɛn sʌ́mz ʌp ðə rəzʌ́lts tə próʊdus|prədús ə wéɪtᵻd sʌ́m. 
+ðə wéɪtᵻd sʌ́m ᵻz ðɛn pǽst θrú ən æ̀ktᵻvéɪʃən fʌ́ŋkʃən, tᵻ̀pᵻkəli ə stɛ́p fʌ́ŋkʃən ᵻn ðə kéɪs əv ə pərsɛ́ptrɒn, tə próʊdus|prədús ðə fáɪnəl áʊtpʊ̀t. 
+ᵻf ðə wéɪtᵻd sʌ́m ᵻz ɡréɪtər ðʌn ə prìdəfáɪnd θrɛ́ʃòʊld, ðə æ̀ktᵻvéɪʃən fʌ́ŋkʃən áʊtpʊ̀ts wʌ́n; ʌ́ðərwàɪz, ᵻt áʊtpʊ̀ts zíroʊ. 
+ðᵻs báɪnəri áʊtpʊ̀t méɪks ðə pərsɛ́ptrɒn wɛ́l-sútᵻd fɔr báɪnəri klæ̀sᵻfᵻkéɪʃən prɒ́bləmz. 
+ðə wéɪts ənd θrɛ́ʃòʊld ᵻn ə pərsɛ́ptrɒn ɑr pərǽmətərz thət ɑr lɜ́rnd frəm ðə tréɪnᵻŋ déɪtə. 
+dʊ́rᵻŋ tréɪnᵻŋ, ðə pərsɛ́ptrɒn ᵻ̀tərətᵻvli əʤʌ́sts ᵻts wéɪts ənd θrɛ́ʃòʊld béɪst ɒn ðə dᵻ̀fərəns bitwín ðə prədᵻ̀ktᵻd ənd trú áʊtpʊ̀ts fɔr iʧ ᵻ̀nstəns ᵻn ðə tréɪnᵻŋ sɛ́t. 
+ðᵻs əʤʌ́stmənt prɒ́sɛ̀s ᵻz nóʊn æz pərsɛ́ptrɒn lɜ́rnᵻŋ rúl. 
+dᵻspáɪt ᵻts sᵻmplᵻ̀sᵻti, ðə pərsɛ́ptrɒn həz lᵻ̀mᵻtéɪʃənz. 
+nóʊtəbli, ə sᵻ̀ŋɡəl-léɪər pərsɛ́ptrɒn kən óʊnli lɜ́rn lᵻ̀niərli sɛ́pərəbəl pǽtərnz, mínᵻŋ ᵻt strʌ́ɡəlz wᵻð tǽsks thət ɑr nɒt lᵻ̀niərli sɛ́pərəbəl, sʌʧ æz ðə klǽsᵻk XOR prɒ́bləm. 
+hàʊɛ́vər, wɛ́n pərsɛ́ptronz ɑr léɪərd təɡɛ́ðər tə fɔ́rm ə mʌ́lti-léɪər pərsɛ́ptrɒn ɔr ə nʊ́rəl nɛ́twɜ̀rk, ðeɪ ɡéɪn ðə əbᵻ̀lᵻti tə mɒ́dəl nɒnlᵻ̀nìər pǽtərnz ənd sɒ́lv mɔr kɒ́mplɛks prɒ́bləmz. 
+ᵻn ə mʌ́lti-léɪər pərsɛ́ptrɒn, pərsɛ́ptronz ɑr əréɪnʤd ᵻntu léɪərz, wᵻð ᵻ̀npʊ̀ts fídᵻŋ ᵻntu ðə fɜ́rst léɪər, ðə hᵻ̀dən layer(s) prɒ́sɛsᵻŋ ðə déɪtə, ənd ðə fáɪnəl léɪər, ðə áʊtpʊ̀t léɪər, prədúsᵻŋ ðə fáɪnəl rəzʌ́lts. 
+mʌ́lti-léɪər pərsɛ́ptronz jútᵻlàɪz bǽkprəpəgéɪʃən fɔr tréɪnᵻŋ. 
+ðᵻs ǽlɡərᵻ̀ðəm ᵻ̀nvɒ́lvz fídᵻŋ déɪtə fɔ́rwərd θrú ðə nɛ́twɜ̀rk tə próʊdus|prədús ən áʊtpʊ̀t, kəmpɛ́rᵻŋ ðᵻs áʊtpʊ̀t wᵻð ðə trú áʊtpʊ̀t tə kǽlkjəlèɪt ən ɛ́rər, ənd ðɛn prɒ́pəɡèɪtᵻŋ ðᵻs ɛ́rər bǽkwərd θrú ðə nɛ́twɜ̀rk tə əʤʌ́st ðə wéɪts ənd rədjús ðə ɛ́rər. 
+nʊ́rəl nɛ́twɜ̀rks, bᵻ̀lt əpɒ́n ðə béɪsᵻk pərsɛ́ptrɒn mɒ́dəl, prəváɪd ə páʊərfəl túl fɔr məʃín lɜ́rnᵻŋ. 
+wᵻð ðə əbᵻ̀lᵻti tə lɜ́rn kɒ́mplɛks pǽtərnz frəm lɑ́rʤ əmáʊnts əv déɪtə, nʊ́rəl nɛ́twɜ̀rks həv bəkʌ́m ən əsɛ́nʃəl kəmpóʊnənt əv mɒ́dərn məʃín lɜ́rnᵻŋ. 
+æz wi kəntᵻ̀nju tə əksplɔ́r ðᵻs fíld, ʌ̀ndərstǽndᵻŋ ðə faʊndéɪʃənz əv ðiz mɒ́dəlz, sʌʧ æz ðə pərsɛ́ptrɒn, rəméɪnz krúʃəl tə ədvǽnsᵻŋ aʊər nɒ́lᵻʤ ənd kèɪpəbᵻ̀lᵻtiz. 
+
+B002C028: díp nʊ́rəl nɛ́twɜ̀rks. 
+ᵻn ðə kəntᵻ̀njuəm əv məʃín lɜ́rnᵻŋ, díp nʊ́rəl nɛ́twɜ̀rks (DNNz) ɑr ə sᵻɡnᵻ̀fᵻkənt stɛ́p fɔ́rwərd frəm ðɛr prɛ́dəsɛ̀sər, ðə pərsɛ́ptrɒn. 
+ʤəst æz ə sᵻ̀ŋɡəl nʊ́rɒn kən bi kəmbáɪnd tə kriéɪt ə pərsɛ́ptrɒn, mʌ́ltᵻpəl pərsɛ́ptronz kən bi lᵻ̀ŋkt təɡɛ́ðər tə fɔ́rm ə díp nʊ́rəl nɛ́twɜ̀rk. 
+díp nʊ́rəl nɛ́twɜ̀rks ɑr nʊ́rəl nɛ́twɜ̀rks thət kəntéɪn mɔr ðʌn wʌ́n hᵻ̀dən léɪər əv nʊ́rɒnz. 
+ðiz léɪərz bitwín ðə ᵻ̀npʊ̀t ənd áʊtpʊ̀t léɪərz əláʊ DNNz tə ɛ́kstrəkt|əkstrǽkt háɪər-lɛ́vəl fíʧərz frəm rɔ́ ᵻ̀npʊ̀t déɪtə. 
+ᵻn ɛ́səns, díp nʊ́rəl nɛ́twɜ̀rks ɑr ə prəɡrɛ́ʃən əv træ̀nsfərméɪʃənz thət mǽp ᵻ̀npʊ̀t déɪtə ᵻntu ə fɔ́rm ðǽts júsfəl fɔr méɪkᵻŋ prədᵻ̀kʃənz. 
+iʧ léɪər əpláɪz ə træ̀nsfərméɪʃən, ɡáɪdᵻd baɪ ðə nɛ́twɜ̀rks wéɪts, wᵻ̀ʧ ɑr lɜ́rnd frəm déɪtə dʊ́rᵻŋ ðə tréɪnᵻŋ prɒ́sɛ̀s. 
+ðə 'dɛ́pθ' ᵻn DNNz rəfɜ́rz tə ðə nʌ́mbər əv léɪərz, nɒt ðə nʌ́mbər əv nʊ́rɒnz. 
+ðə mɔr léɪərz ə nɛ́twɜ̀rk həz, ðə 'dípər' ᵻt ᵻz, ənd ðə mɔr kɒ́mplɛks ðə fʌ́ŋkʃənz ᵻt kən mɒ́dəl. 
+ðə kɒ́nsɛpt əv dɛ́pθ ᵻz pɑ̀rtᵻ̀kjələrli sᵻɡnᵻ̀fᵻkənt bᵻkɒ́z ᵻt əláʊz fɔr ðə hàɪrɑ́rkᵻkəl rɛ̀prəzɛntéɪʃən əv déɪtə. 
+wᵻð iʧ səksɛ́sᵻv léɪər, ðə nɛ́twɜ̀rk kən jus|juz ðə áʊtpʊ̀t əv ðə príviəs léɪər tə fɔ́rm ᵻnkrísᵻŋɡli ǽbstræ̀kt rɛ̀prəzəntéɪʃənz. 
+fɔr əɡzǽmpəl, ᵻn ᵻ̀mᵻʤ rɛ̀kəɡnᵻ̀ʃən, ðə fɜ́rst léɪər maɪt aɪdɛ́ntᵻfàɪ ɛ́ʤᵻz, ðə nɛ́kst léɪər ʃéɪps, ðə fɒ́loʊᵻŋ léɪər kɒ́mplɛks strʌ́kʧərz láɪk féɪsᵻz ɔr tríz, ənd soʊ ɒn. 
+DNNz ɔ́fən jus|juz mɔr kɒ́mplɛks æ̀ktᵻvéɪʃən fʌ́ŋkʃənz kəmpɛ́rd tə pərsɛ́ptronz. 
+fʌ́ŋkʃənz láɪk RELU (rɛ́ktᵻfàɪd lᵻ̀niər Unit), TANH, ɔr sᵻ̀ɡmɔ̀ɪd ɑr ɔ́fən júzd ᵻ̀nstɛ́d əv ðə sᵻ̀mpəl stɛ́p fʌ́ŋkʃən əv ðə pərsɛ́ptrɒn. 
+ðiz fʌ́ŋkʃənz ᵻ̀ntrədús nɒn-lᵻ̀niǽrᵻtiz thət əláʊ DNNz tə lɜ́rn ənd mɒ́dəl kɒ́mplɛks pǽtərnz. 
+tréɪnᵻŋ díp nʊ́rəl nɛ́twɜ̀rks ᵻ̀nvɒ́lvz ə mɔr ədvǽnst vɜ́rʒən əv ðə bǽkprəpəgéɪʃən ǽlɡərᵻ̀ðəm júzd ᵻn trədᵻ̀ʃənəl nʊ́rəl nɛ́twɜ̀rks. 
+ðə jus|juz əv ɡréɪdiənt dᵻsɛ́nt, spəsᵻ̀fᵻkli stoʊkǽstᵻk ɡréɪdiənt dᵻsɛ́nt, ᵻz sɛ́ntrəl tə ðᵻs prɒ́sɛ̀s. 
+ðə ɛ́rər bitwín ðə prədᵻ̀ktᵻd ənd ǽkʧəl áʊtpʊ̀ts ᵻz prɒ́pəɡèɪtᵻd bǽk θrú ðə nɛ́twɜ̀rk, əʤʌ́stᵻŋ ðə wéɪts əv iʧ nʊ́rɒn ᵻn ðə prɒ́sɛ̀s tə mᵻ̀nᵻmàɪz ðə ɛ́rər. 
+wʌ́n krúʃəl pɔ́ɪnt tə rəmɛ́mbər wᵻð DNNz ᵻz ðə pətɛ́nʃəl fɔr òʊvərfᵻ̀tᵻŋ, ɡᵻ̀vən ðɛr kəpǽsᵻti tə mɒ́dəl kɒ́mplɛks fʌ́ŋkʃənz. 
+rèɡjəlɛ̀rᵻzéɪʃən tɛkníks sʌʧ æz drɒ́pàʊt, L1 ənd L2 rèɡjəlɛ̀rᵻzéɪʃən, ɔr ɜ́rli stɒ́pᵻŋ kən hɛ́lp prəvɛ́nt òʊvərfᵻ̀tᵻŋ baɪ ᵻ̀ntrədúsᵻŋ ə kɒ́st fɔr kəmplɛ́ksᵻti. 
+DNNz ɑr ðə béɪsᵻs fɔr mʌʧ əv mɒ́dərn məʃín lɜ́rnᵻŋ, əspɛ́ʃəli wᵻðᵻ̀n ðə fild əv díp lɜ́rnᵻŋ. 
+vɛ̀riéɪʃənz ɒn ðə DNN, sʌʧ æz kənvəlúʃənəl nʊ́rəl nɛ́twɜ̀rks (CNNz) ənd rəkɜ́rənt nʊ́rəl nɛ́twɜ̀rks (RNNs), əkstɛ́nd ðə kɒ́nsɛpt əv dɛ́pθ tə spəsᵻ̀fᵻk táɪps əv déɪtə ənd tǽsks. 
+ðiz táɪps əv nɛ́twɜ̀rks, wᵻ̀ʧ wi wᵻl kʌ́vər ᵻn sʌ́bsəkwənt ʧǽptərz, ɑr dráɪvᵻŋ fɔ́rwərd ðə frəntɪ́rz əv məʃín lɜ́rnᵻŋ ᵻn ɛ́riəz sʌʧ æz nǽʧərəl lǽŋɡwᵻʤ prɒ́sɛsᵻŋ, kəmpjútər vᵻ̀ʒən, ənd táɪm sɪ́riz ənǽlᵻsᵻs. 
+ᵻn sʌ́məri, díp nʊ́rəl nɛ́twɜ̀rks rɛ̀prəzɛ́nt ə sʌbstǽnʃəl líp fɔ́rwərd ᵻn məʃín lɜ́rnᵻŋ, prəváɪdᵻŋ ə túl fɔr mɒ́dəlᵻ̀ŋ kɒ́mplɛks, hàɪrɑ́rkᵻkəl pǽtərnz ᵻn déɪtə. 
+ðeɪ fɔ́rm ðə faʊndéɪʃən fɔr mɛ́ni əv ðə móʊst ədvǽnst ənd əféktᵻv məʃín lɜ́rnᵻŋ mɒ́dəlz ᵻn jus|juz tədéɪ. 
+ʌ̀ndərstǽndᵻŋ ðɛr strʌ́kʧər ənd fʌ́ŋkʃən ᵻz kí tə mǽstərᵻŋ mɒ́dərn məʃín lɜ́rnᵻŋ. 
+
+B002C029: kənvəlúʃənəl nʊ́rəl nɛ́twɜ̀rks. 
+əmɜ́rʤᵻŋ frəm ðə kɒ́mplɛks wɜ́rld əv díp nʊ́rəl nɛ́twɜ̀rks, kənvəlúʃənəl nʊ́rəl nɛ́twɜ̀rks (CNNz) həv ədvǽnst tə ðə fɔ́rfrʌ̀nt əv məʃín lɜ́rnᵻŋ, spəsᵻ̀fᵻkli ᵻn ᵻ̀mᵻʤ ənǽlᵻsᵻs ənd kəmpjútər vᵻ̀ʒən tǽsks. 
+CNNz ɑr ə kǽtəɡɔ̀ri əv díp lɜ́rnᵻŋ mɒ́dəlz dᵻzáɪnd tə prɒ́sɛ̀s déɪtə wᵻð ə ɡrᵻ̀d-láɪk təpɔ́ləʤi, sʌʧ æz ən ᵻ̀mᵻʤ, wᵻ̀ʧ kən bi θɔ́t əv æz ə tùdᵻmɛ́nʃənəl ɡrᵻ̀d əv pᵻ̀ksəlz. 
+kənvəlúʃənəl nʊ́rəl nɛ́twɜ̀rks ədɒ́pt ðɛr néɪm frəm ðə "kɒ́nvəlùʃən" ɒ̀pəréɪʃən, wᵻ̀ʧ ᵻz fʌ̀ndəmɛ́ntəl tə ðɛr fʌ́ŋkʃən. 
+A kɒ́nvəlùʃən ᵻn ðᵻs kɒ́ntɛkst rəfɜ́rz tə ðə mæ̀θəmǽtᵻkəl kɒ̀mbᵻnéɪʃən əv tú fʌ́ŋkʃənz tə próʊdus|prədús ə θɜ́rd fʌ́ŋkʃən. 
+ᵻn ə CNN, ᵻt dᵻskráɪbz ðə ɒ̀pəréɪʃən əv ə fᵻ̀ltər, ɔ́lsoʊ kɔ́ld ə kɜ́rnəl, ɒn ðə ᵻ̀mᵻʤ. 
+æt ðə hɑ́rt əv CNNz ᵻz ðə kɒ́nsɛpt əv ə fíʧər mǽp. 
+rǽðər ðʌn kənɛ́ktᵻŋ iʧ nʊ́rɒn tə ɛvəri nʊ́rɒn ᵻn ðə príviəs léɪər æz ᵻn fʊ́li kənɛ́ktᵻd nɛ́twɜ̀rks, CNNz həv nʊ́rɒnz əréɪnʤd ᵻn θrí dᵻmɛ́nʃənz: wᵻ̀dθ, háɪt, ənd dɛ́pθ. 
+ðə nʊ́rɒnz ᵻn ə léɪər ɑr óʊnli kənɛ́ktᵻd tə ə smɔ́l ríʤən əv ðə léɪər bìfɔ́r ᵻt, ðə sáɪz əv ðə fᵻ̀ltər. 
+ðᵻs fᵻ̀ltər múvz əkrɔ́s ðə ᵻ̀npʊ̀t déɪtə, kəmpjútᵻŋ ðə dɒ́t prɒ́dəkt æt ɛvəri pəzᵻ̀ʃən ənd prədúsᵻŋ ə fíʧər mǽp. 
+ðᵻs mɛ́θəd əfᵻ̀ʃəntli rɛ́kəɡnàɪzᵻz pǽtərnz wᵻð træ̀nsléɪʃənəl ᵻ̀nvɛ́riəns: wʌ́ns lɜ́rnd, ə pǽtərn kən bi rɛ́kəɡnàɪzd ɛ́niwɛ̀r ᵻn ðə ᵻ̀npʊ̀t. 
+ðə páʊər əv ə CNN kʌ́mz frəm ðə kənstrʌ́kʃən əv léɪərz tə bᵻ̀ld ʌp ᵻ̀nkrísᵻŋ lɛ́vəlz əv æbstrǽkʃən. 
+A tᵻ̀pᵻkəl CNN ᵻz kəmpóʊzd əv ə stǽk əv kənvəlúʃənəl léɪərz, ᵻ̀ntərspɜ́rst wᵻð æ̀ktᵻvéɪʃən fʌ́ŋkʃənz sʌʧ æz RELU, púlᵻŋ léɪərz, ənd fʊ́li kənɛ́ktᵻd léɪərz təwɔ́rdz ðə ɛ́nd əv ðə nɛ́twɜ̀rk. 
+púlᵻŋ léɪərz ɑr ə krúʃəl pɑ́rt əv CNNz, rədjúsᵻŋ ðə spéɪʃəl sáɪz əv ðə kənvóʊld fíʧər, wᵻ̀ʧ díkrìsᵻz ðə əmáʊnt əv pərǽmətərz ənd kɒ̀mpjutéɪʃənz wᵻðᵻ̀n ðə nɛ́twɜ̀rk. 
+púlᵻŋ léɪərz ɔ́lsoʊ hɛ́lp tə prəvɛ́nt òʊvərfᵻ̀tᵻŋ. 
+A kɒ́mən əpróʊʧ ᵻz max:mæks púlᵻŋ, wᵻ̀ʧ ɛ́kstræ̀kts sʌ̀bríʤənz əv ðə fíʧər mǽp ənd kíps óʊnli ðə mǽksᵻməm vǽlju. 
+ðə fáɪnəl léɪərz əv ə CNN ɑr tᵻ̀pᵻkəli fʊ́li kənɛ́ktᵻd léɪərz wɛ́r ɛvəri nʊ́rɒn ᵻn ðə príviəs léɪər ᵻz kənɛ́ktᵻd tə ɛvəri nʊ́rɒn ᵻn ðə nɛ́kst léɪər. 
+ðiz léɪərz ɑr júzd tə pərfɔ́rm hàɪlɛ́vəl rízənᵻŋ ənd tə áʊtpʊ̀t prədᵻ̀kʃənz. 
+ɔ́fən ə sɔ̀ftmǽks æ̀ktᵻvéɪʃən fʌ́ŋkʃən ᵻz əpláɪd ᵻn ðə lǽst léɪər tə prəváɪd prɒ̀bəbᵻ̀lᵻtìz fɔr ðə áʊtkʌ̀mz. 
+wáɪl CNNz wɜ́r ᵻnᵻ̀ʃəli dᵻzáɪnd fɔr ᵻ̀mᵻʤ rɛ̀kəɡnᵻ̀ʃən tǽsks, ðeɪ həv bᵻn əkstɛ́ndᵻd tə ʌ́ðər æ̀plᵻkéɪʃənz, ᵻ̀nklúdᵻŋ nǽʧərəl lǽŋɡwᵻʤ prɒ́sɛsᵻŋ ənd spíʧ rɛ̀kəɡnᵻ̀ʃən. 
+ðeɪ ɑr junᵻ̀kli ədɛ́pt æt aɪdɛ́ntᵻfàɪᵻŋ spéɪʃəl háɪrɑ̀rkiz ɔr pǽtərnz wᵻðᵻ̀n déɪtə, méɪkᵻŋ ðɛm sútəbəl fɔr tǽsks wɛ́r ðə ᵻ̀npʊ̀t kən bi trítᵻd æz ə ɡrᵻ̀d əv rəléɪtᵻd vǽljuz. 
+tréɪnᵻŋ CNNz kən bi kɒ̀mpjətéɪʃənəli ᵻ̀ntɛ́nsᵻv djú tə ðə háɪ nʌ́mbər əv pərǽmətərz. 
+hàʊɛ́vər, tɛkníks sʌʧ æz trǽnsfər lɜ́rnᵻŋ, wɛ́r ə prí-tréɪnd CNN ᵻz júzd æz ə stɑ́rtᵻŋ pɔ́ɪnt, kən hɛ́lp spíd ʌp ðə tréɪnᵻŋ prɒ́sɛ̀s. 
+ᵻn kənklúʒən, kənvəlúʃənəl nʊ́rəl nɛ́twɜ̀rks rɛ̀prəzɛ́nt ə sᵻɡnᵻ̀fᵻkənt ədvǽnsmənt ᵻn ðə fíld əv məʃín lɜ́rnᵻŋ, ɔ́fərᵻŋ ə səfᵻ̀stᵻkèɪtᵻd túl fɔr dᵻtɛ́ktᵻŋ pǽtərnz ᵻn déɪtə ənd méɪkᵻŋ ǽkjərət prədᵻ̀kʃənz. 
+ðɛr dᵻzáɪn, wᵻ̀ʧ ɛ́mjəlèɪts ðə weɪ ðə hjúmən bréɪn prɒ́sɛsᵻz vᵻ̀ʒəwəl déɪtə, əkwᵻ̀ps ðɛm wᵻð ən əksɛ́pʃənəl əbᵻ̀lᵻti tə ʌ̀ndərstǽnd ənd ᵻ̀ntɜ́rprət ᵻ̀mᵻʤᵻz. 
+kɒ́nsəkwɛ̀ntli, CNNz ɑr ən əsɛ́nʃəl ǽspɛ̀kt əv mɒ́dərn məʃín lɜ́rnᵻŋ, kəntrᵻ̀bjutᵻŋ sʌbstǽnʃəli tə prɒ́ɡrɛ̀s ᵻn ɛ́riəz láɪk kəmpjútər vᵻ̀ʒən ənd ʌ́ðər æ̀plᵻkéɪʃənz wɛ́r spéɪʃəl rəléɪʃənʃᵻ̀ps mǽtər. 
+
+B002C030: rəkɜ́rənt nʊ́rəl nɛ́twɜ̀rks. 
+rəkɜ́rənt nʊ́rəl nɛ́twɜ̀rks (RNNz) rɛ̀prəzɛ́nt ə klǽs əv ɑ̀rtᵻfᵻ̀ʃəl nʊ́rəl nɛ́twɜ̀rks dᵻzáɪnd tə rɛ́kəɡnàɪz pǽtərnz ᵻn síkwənsᵻz əv déɪtə, sʌʧ æz tɛ́kst, ʤínoʊmz, hǽndràɪtᵻŋ, ɔr ðə spóʊkən wɜ́rd. 
+ðeɪ ɑr pɑ̀rtᵻ̀kjələrli sútəbəl fɔr hǽndəlᵻŋ déɪtə wɛ́r tɛ́mpərəl daɪnǽmᵻks ənd ðə kɒ́ntɛkst fɔr ɛ́ni ɡᵻ̀vən ɛ́ləmənt ᵻz ᵻ̀mpɔ́rtənt. 
+RNNz ᵻ̀ntrədús ðə kɒ́nsɛpt əv ən ᵻ̀ntɜ́rnəl mɛ́məri ᵻntu ðə nɛ́twɜ̀rks ɑ́rkᵻtɛ̀kʧər. 
+ðə fʌ̀ndəmɛ́ntəl fíʧər əv ən RNN ᵻz thət ᵻ̀nfərméɪʃən sáɪkəlz θrú ə lúp. 
+wɛ́n ᵻt méɪks ə dəsᵻ̀ʒən, ᵻt kənsᵻ̀dərz ðə kɑ́rənt ᵻ̀npʊ̀t ənd ɔ́lsoʊ wɒt ᵻt həz lɜ́rnd frəm ðə ᵻ̀npʊ̀ts ᵻt rəsívd ɜ́rliər. 
+A fʌ̀ndəmɛ́ntəl kəmpóʊnənt əv ən RNN ᵻz ðə hᵻ̀dən stéɪt, wᵻ̀ʧ kǽpʧərz sʌm fɔ́rm əv "mɛ́məri" əv ə síkwəns əv ᵻ̀npʊ̀ts. 
+ðə hᵻ̀dən stéɪt kən bi θɔ́t əv æz ɛnkǽpsəlèɪtᵻŋ ᵻ̀nfərméɪʃən əbaʊt wɒt həz bᵻn sín soʊ fɑ́r ᵻn ðə ᵻ̀npʊ̀t déɪtə æz ᵻt ᵻz bíᵻŋ pǽst əlɔ́ŋ frəm wʌ́n stɛ́p ᵻn ðə síkwəns tə ənʌ́ðər. 
+ðə kí dᵻstᵻ̀ŋkʃən əv ən RNN ᵻz thət ðə séɪm sɛ́t əv wéɪts ᵻz júzd fɔr iʧ ᵻ̀npʊ̀t æz ᵻt ᵻz fɛ́d ᵻntu ðə nɛ́twɜ̀rk óʊvər táɪm, ɡréɪtli rədjúsᵻŋ ðə tóʊtəl nʌ́mbər əv pərǽmətərz thət ðə nɛ́twɜ̀rk nídz tə lɜ́rn. 
+A sᵻɡnᵻ̀fᵻkənt ʧǽlənʤ wᵻð stǽndərd RNNz, hàʊɛ́vər, ᵻz ðə vǽnᵻʃᵻŋ ɡréɪdiənt prɒ́bləm, wᵻ̀ʧ méɪks ᵻt dᵻ̀fᵻkəlt fɔr ðə RNN tə lɜ́rn ənd meɪntéɪn ᵻ̀nfərméɪʃən frəm ɜ́rliər táɪm stɛ́ps æz ðə síkwəns ɡɛ́ts lɔ́ŋɡər. 
+tə mᵻ̀tᵻɡèɪt ðᵻs prɒ́bləm, vɛ̀riéɪʃənz əv RNNz sʌʧ æz lɔ́ŋ ʃɔ̀rttɜ́rm mɛ́məri (LSTM) nɛ́twɜ̀rks ənd ɡéɪtᵻd rəkɜ́rənt júnᵻt (GRU) nɛ́twɜ̀rks wɜ́r dəvɛ́ləpt. 
+LSTM júnᵻts ᵻ̀nklúd ə 'mɛ́məri sɛ́l' thət kən meɪntéɪn ᵻ̀nfərméɪʃən ᵻn mɛ́məri fɔr lɔ́ŋ pɪ́riədz əv táɪm ənd θrí 'ɡéɪts' thət kəntróʊl ðə flóʊ əv ᵻ̀nfərméɪʃən ᵻntu ənd áʊt əv ðə mɛ́məri sɛ́l. 
+GRUs, ɒn ðə ʌ́ðər hǽnd, ɑr ə sᵻ̀mpləfᵻkéɪʃən əv LSTMz thət mɜ́rʤ ðə sɛ́l stéɪt ənd hᵻ̀dən stéɪt ənd jus|juz tú ɡéɪts, ə rísɛt ɡéɪt, ənd ən ʌ́pdeɪt|əpdéɪt ɡéɪt. 
+ᵻn tɜ́rmz əv æ̀plᵻkéɪʃənz, RNNz həv bᵻn júzd səksɛ́sfəli fɔr mɛ́ni tǽsks ᵻ̀nklúdᵻŋ lǽŋɡwᵻʤ mɒ́dəlᵻ̀ŋ, trænsléɪʃən, spíʧ rɛ̀kəɡnᵻ̀ʃən, ənd ívᵻn ᵻ̀mᵻʤ ʤɛ̀nəréɪʃən. 
+ðɛ́r ɔ́lsoʊ wáɪdli júzd fɔr táɪm sɪ́riz prədᵻ̀kʃən ᵻn ðə kɒ́ntɛkst əv stɒ́ks, kláɪmət, ənd fɔr mɛ́dᵻkəl dàɪəɡnóʊsᵻs. 
+tréɪnᵻŋ ən RNN ᵻz ə bᵻ̀t mɔr kɒ́mplɛks ðʌn tréɪnᵻŋ ə trədᵻ̀ʃənəl fíd-fɔ́rwərd nʊ́rəl nɛ́twɜ̀rk. 
+ðə bǽkprəpəgéɪʃən ǽlɡərᵻ̀ðəm ᵻz əpláɪd fɔr ən RNN óʊvər iʧ táɪm stɛ́p, ənd ðᵻs vɛ́riənt ᵻz nóʊn æz bǽkprəpəgéɪʃən θrú táɪm (BPTT). 
+dᵻspáɪt ðɛr prɒ́mᵻs ənd səksɛ́s, RNNz dú həv lᵻ̀mᵻtéɪʃənz. 
+ðeɪ kən bi tʌ́f tə tréɪn əfɛ́ktᵻvli djú tə ᵻ̀ʃuz rəléɪtᵻd tə síkwəns lɛ́ŋkθ, ənd ðeɪ ɑr nɒt nǽʧərəli ᵻ̀nkláɪnd tə æksɛ́pt mʌ́ltᵻpəl sᵻ̀məltéɪniəs ᵻ̀npʊ̀ts ɔr próʊdus|prədús mʌ́ltᵻpəl áʊtpʊ̀ts ᵻn ðə wéɪz thət ʌ́ðər nɛ́twɜ̀rks láɪk CNNz kən. 
+núər nɛ́twɜ̀rk ɑ́rkᵻtɛ̀kʧərz, sʌʧ æz transformers:trænsfɔ́rmərz, həv bᵻn dəvɛ́ləpt tə ǽdrɛ̀s ðiz ᵻ̀ʃuz. 
+ᵻn sʌ́məri, rəkɜ́rənt nʊ́rəl nɛ́twɜ̀rks fɔ́rm ə kɔ́r pɑ́rt əv mɛ́ni mɒ́dərn məʃín lɜ́rnᵻŋ æ̀plᵻkéɪʃənz, ənd prəváɪd ə səfᵻ̀stᵻkèɪtᵻd túlsɛ̀t fɔr hǽndəlᵻŋ síkwəns déɪtə. 
+ʌ̀ndərstǽndᵻŋ ðə kèɪpəbᵻ̀lᵻtiz ənd lᵻ̀mᵻtéɪʃənz əv RNNz ənd ðɛr vɛ́riənts ᵻz kí fɔr ɛ́ni məʃín lɜ́rnᵻŋ præktᵻ̀ʃənər dílᵻŋ wᵻð sʌʧ déɪtə. 
+
+B002C031: transformers:trænsfɔ́rmərz. 
+transformers:trænsfɔ́rmərz ɑr ə táɪp əv nʊ́rəl nɛ́twɜ̀rk ɑ́rkᵻtɛ̀kʧər thət wɒz ᵻ̀ntrədúst baɪ vaswani:vɒswɒ́ni ɛ́t ǽl 
+ᵻn ðə péɪpər "ətɛ́nʃən ᵻz ɔl ju níd" ᵻn 2017. 
+transformers:trænsfɔ́rmərz həv sᵻns rɛ̀vəlúʃənàɪzd ðə fíld əv nǽʧərəl lǽŋɡwᵻʤ prɒ́sɛsᵻŋ, bíᵻŋ júzd ᵻn mɒ́dəlz sʌʧ æz BERT, GPT, ənd rəbɜ́rtə. 
+ðeɪ ɑr ɔ́lsoʊ fáɪndᵻŋ ᵻ̀nkrísᵻŋ júsᵻʤ ᵻn ʌ́ðər ɛ́riəz əv məʃín lɜ́rnᵻŋ. 
+ðə práɪmɛ̀ri ᵻ̀nəvéɪʃən əv ðə trænsfɔ́rmər ɑ́rkᵻtɛ̀kʧər ᵻz ðə ətɛ́nʃən mɛ́kənᵻ̀zəm thət ᵻt júsᵻz, móʊst nóʊtəbli, ðə sɛ́lf-ətɛ́nʃən mɛ́kənᵻ̀zəm ɔr ðə skéɪld dɒ́t-prɒ́dəkt ətɛ́nʃən. 
+ðᵻs mɛ́kənᵻ̀zəm əláʊz ðə mɒ́dəl tə wéɪ ənd ʤʌ́ʤ háʊ mʌʧ ətɛ́nʃən ʃʊd bi péɪd tə ʌ́ðər wɜ́rdz ᵻn ðə sɛ́ntəns wɛ́n ɛnkóʊdᵻŋ ə pɑ̀rtᵻ̀kjələr wɜ́rd. 
+baɪ dúᵻŋ ðᵻs fɔr ɔl ðə wɜ́rdz ᵻn ðə sɛ́ntəns, ᵻt fɔ́rmz ə kɒ̀ntɛ́ksʧùəl ʌ̀ndərstǽndᵻŋ əv ðə sɛ́ntəns wɛ́r ðə mínᵻŋ əv ə wɜ́rd ᵻz dəráɪvd béɪst ɒn ɔl ʌ́ðər wɜ́rdz, ənd nɒt ʤəst ᵻts néɪbərᵻŋ wɜ́rdz. 
+ðᵻs mɛ́kənᵻ̀zəm rizɒ́lvz ðə lɔ́ŋtɜ́rm dəpɛ́ndənsi prɒ́bləm, ən ᵻ̀ʃu wᵻð rəkɜ́rənt nʊ́rəl nɛ́twɜ̀rks wɛ́r ᵻt bəkʌ́mz dᵻ̀fᵻkəlt tə rəléɪt ᵻ̀nfərméɪʃən wᵻð lɑ́rʤ ɡǽps. 
+wʌ́n méɪʤər ædvǽntᵻʤ əv ðə trænsfɔ́rmər óʊvər síkwəns-béɪst mɒ́dəlz láɪk RNNz ənd LSTMz ᵻz thət ðə trænsfɔ́rmər əláʊz fɔr mʌʧ mɔr pæ̀rələlᵻzéɪʃən dʊ́rᵻŋ tréɪnᵻŋ, lídᵻŋ tə fǽstər ənd mɔr əfᵻ̀ʃənt tréɪnᵻŋ. 
+ðᵻs ᵻz bᵻkɒ́z ᵻt tríts ə síkwəns əv déɪtə ɔl æt wʌ́ns, rǽðər ðʌn æz ə síkwəns əv stɛ́ps. 
+A trænsfɔ́rmər mɒ́dəl kənsᵻ̀sts əv ən ənkóʊdər ənd ə dᵻkóʊdər, iʧ əv wᵻ̀ʧ ᵻz ə stǽk əv aɪdɛ́ntᵻkəl léɪərz. 
+ðə ənkóʊdər téɪks ᵻn ðə ᵻ̀npʊ̀t síkwəns ənd mǽps ᵻt ᵻntu ə háɪər dᵻmɛ́nʃənəl spéɪs əv hᵻ̀dən léɪərz. 
+ðə dᵻkóʊdər ðɛn ʤɛ́nərèɪts ðə áʊtpʊ̀t síkwəns frəm ðiz hᵻ̀dən léɪərz. 
+iʧ léɪər ᵻn ðə ənkóʊdər ənd dᵻkóʊdər kəntéɪnz tú sʌ́b-léɪərz: ə mʌ́lti-hɛ́d sɛ́lf-ətɛ́nʃən mɛ́kənᵻ̀zəm ənd ə pəzᵻ̀ʃən-wáɪz fʊ́li kənɛ́ktᵻd fíd-fɔ́rwərd nɛ́twɜ̀rk. 
+hàʊɛ́vər, wʌ́n əv ðə ᵻ̀ʃuz wᵻð ðə stǽndərd trænsfɔ́rmər mɒ́dəl ᵻz ᵻts lǽk əv əbᵻ̀lᵻti tə hǽndəl síkwənsᵻz əv déɪtə ᵻn wᵻ̀ʧ ðə ɔ́rdər əv ðə ɛ́ləmənts ᵻz ᵻ̀mpɔ́rtənt. 
+tə káʊntəræ̀kt ðᵻs, transformers:trænsfɔ́rmərz ɔ́lsoʊ ᵻ̀nklúd ə 'pəzᵻʃʌ́nəl ɛnkóʊdᵻŋ' tə ɡᵻ̀v ðə mɒ́dəl sʌm ᵻ̀nfərméɪʃən əbaʊt ðə rɛ́lətᵻv ɔr ǽbsəlùt pəzᵻ̀ʃən əv ðə ɛ́ləmənts ᵻn ðə síkwəns. 
+transformers:trænsfɔ́rmərz ɑr vɜ́rsətaɪl ənd kən bi júzd fɔr mɛ́ni tǽsks, ᵻ̀nklúdᵻŋ trænsléɪʃən, sʌ̀mərᵻzéɪʃən, tɛ́kst ʤɛ̀nəréɪʃən, ənd ʌ́ðər lǽŋɡwᵻʤ tǽsks. 
+hàʊɛ́vər, ðeɪ ɑr kɒ̀mpjətéɪʃənəli əkspɛ́nsᵻv ənd ɔ́fən rəkwáɪər lɑ́rʤ əmáʊnts əv déɪtə tə tréɪn əfɛ́ktᵻvli. 
+rísəntli, ðə trænsfɔ́rmər ɑ́rkᵻtɛ̀kʧər həz bᵻn əkstɛ́ndᵻd ᵻn ðə fɔ́rm əv trænsfɔ́rmər-xl, BERT, GPT-3, ənd T5, wᵻ̀ʧ həv əʧívd stèɪtəvðᵻɑ́rt rəzʌ́lts ɒn ə wáɪd əréɪ əv NLP tǽsks. 
+trænsfɔ́rmər mɒ́dəlz həv ɔ́lsoʊ bᵻn ədǽptᵻd fɔr kəmpjútər vᵻ̀ʒən tǽsks, sᵻ̀ɡnᵻfàɪᵻŋ ðɛr pətɛ́nʃəl tə ʤɛ́nərəlàɪz bìɔ́nd síkwəns-tə-síkwəns træ̀nsfərméɪʃənz. 
+wáɪl ðɛr ɑr ʧǽlənʤᵻz sʌʧ æz ðə rəkwáɪrmənt fɔr lɑ́rʤ əmáʊnts əv tréɪnᵻŋ déɪtə ənd kɒ̀mpjutéɪʃənəl rísɔrsᵻz, ðə trænsfɔ́rmər ɑ́rkᵻtɛ̀kʧər həz klɪ́rli dɛ́mənstrèɪtᵻd ᵻts əfɛ́ktᵻvnəs ənd vɜ̀rsətᵻ̀lᵻti. 
+ᵻt həz brɔ́t əbaʊt ə pɛ́rədàɪm ʃᵻ̀ft ᵻn tǽkəlᵻŋ síkwəns prədᵻ̀kʃən tǽsks ənd óʊpənd ʌp nu ǽvənùz fɔr rísərʧ ənd æ̀plᵻkéɪʃənz. 
+ðə ʌ̀ndərstǽndᵻŋ əv trænsfɔ́rmər mɒ́dəlz ᵻz ðʌs ᵻ̀ndᵻspɛ́nsəbəl fɔr ɛ́ni præktᵻ̀ʃənər ᵻn ðə fíld əv məʃín lɜ́rnᵻŋ. 
+
+B002C032: rɛ̀kəməndéɪʃən sᵻ̀stəmz. 
+rɛ̀kəməndéɪʃən sᵻ̀stəmz ɑr ə sʌ́bsɛ̀t əv ᵻ̀nfərméɪʃən fᵻ̀ltərᵻŋ sᵻ̀stəmz dᵻzáɪnd tə prədᵻ̀kt ðə prɛ́fərənsᵻz ɔr réɪtᵻŋz thət ə júzər wʊd ɡᵻ̀v tə ə prɒ́dəkt. 
+ðeɪ pléɪ ə krᵻ̀tᵻkəl róʊl ᵻn vɛ́riəs ɔ́nlàɪn æ̀plᵻkéɪʃənz, prəváɪdᵻŋ pɜ́rsənəlàɪzd kɒ́ntənt|kəntɛ́nt ənd prɒ́dəkt rɛ̀kəməndéɪʃənz tə mᵻ̀ljənz əv júzərz. 
+ᵻf júv ɛ́vər bᵻn səʤɛ́stᵻd ə bʊ́k béɪst ɒn jɔr rídᵻŋ hᵻ̀stəri ɒn amazon:əmǽzɒn ɔr ə múvi ɒn netflix:nɛ́tflᵻks, júv ᵻ̀ntərǽktᵻd wᵻð ə rɛ̀kəməndéɪʃən sᵻ̀stəm. 
+ᵻn ɛ́səns, ðə sɛ́ntrəl ʧǽlənʤ fɔr rɛ̀kəməndéɪʃən sᵻ̀stəmz ᵻz tə səʤɛ́st áɪtəmz thət ə júzər meɪ láɪk béɪst ɒn ðɛr hᵻstɔ́rᵻkəl bᵻhéɪvjər ɔr ðə bᵻhéɪvjər əv sᵻ̀mᵻlər júzərz. 
+ðɛr ɑr θrí méɪn táɪps əv rɛ̀kəməndéɪʃən sᵻ̀stəmz: kəlǽbərèɪtᵻv fᵻ̀ltərᵻŋ, kɒ́ntənt|kəntɛ́nt-béɪst fᵻ̀ltərᵻŋ, ənd háɪbrᵻd rɛ̀kəməndéɪʃən sᵻ̀stəmz. 
+kəlǽbərèɪtᵻv fᵻ̀ltərᵻŋ ᵻz béɪst ɒn ðə əsʌ́mpʃən thət júzərz hu əɡríd ᵻn ðə pǽst wᵻl əɡrí ᵻn ðə fjúʧər. 
+ᵻt ɛ́ksplɔ̀ɪts bᵻhéɪvjər əv ʌ́ðər júzərz ənd sᵻ̀mᵻlɛ́rᵻtiz əmʌ́ŋ ðɛm fɔr rɛ̀kəməndéɪʃənz. 
+ðɛr ɑr tú sʌ́bkætəɡɔriz əv kəlǽbərèɪtᵻv fᵻ̀ltərᵻŋ: júzər-béɪst, wɛ́r rɛ̀kəməndéɪʃənz ɑr béɪst ɒn júzərz hu həv sᵻ̀mᵻlər pǽtərnz əv réɪtᵻŋz, ənd áɪtəm-béɪst, wɛ́r rɛ̀kəməndéɪʃənz ɑr méɪd béɪst ɒn áɪtəmz thət ɑr sᵻ̀mᵻlər tə ðoʊz thət ə júzər həz ɔrɛ́di réɪtᵻd. 
+kɒ́ntənt|kəntɛ́nt-béɪst fᵻ̀ltərᵻŋ, ɒn ðə ʌ́ðər hǽnd, rɛ̀kəmɛ́ndz áɪtəmz baɪ kəmpɛ́rᵻŋ ðə kɒ́ntənt|kəntɛ́nt əv ðə áɪtəmz wᵻð ə júzər próʊfàɪl. 
+ðə kɒ́ntənt|kəntɛ́nt əv ən áɪtəm ᵻz rɛ̀prəzɛ́ntᵻd æz ə sɛ́t əv dᵻskrᵻ̀ptɜ̀rz ɔr tɜ́rmz, tᵻ̀pᵻkəli ðə wɜ́rdz thət əkɜ́r ᵻn ə dɒ́kjəmɛnt. 
+ðə júzər próʊfàɪl ᵻz bᵻ̀lt béɪst ɒn ðə táɪps əv áɪtəmz ðə júzər həz láɪkt ᵻn ðə pǽst. 
+háɪbrᵻd rɛ̀kəməndéɪʃən sᵻ̀stəmz kɒ́mbaɪn kəlǽbərèɪtᵻv fᵻ̀ltərᵻŋ ənd kɒ́ntənt|kəntɛ́nt-béɪst fᵻ̀ltərᵻŋ. 
+háɪbrᵻdz kən bi bᵻ̀lt ᵻn sɛ́vərəl wéɪz: baɪ méɪkᵻŋ kɒ́ntənt|kəntɛ́nt-béɪst ənd kəlǽbərèɪtᵻv-béɪst prədᵻ̀kʃənz sɛ́pərətli ənd ðɛn kəmbáɪnᵻŋ ðɛm; baɪ ǽdᵻŋ kɒ́ntənt|kəntɛ́nt-béɪst kèɪpəbᵻ̀lᵻtiz tə ə kəlǽbərèɪtᵻv-béɪst əpróʊʧ, ɔr váɪs vɜ́rsə; ɔr baɪ júnᵻfàɪᵻŋ ðə əpróʊʧᵻz ᵻntu wʌ́n mɒ́dəl. 
+wɛ́n dᵻzáɪnᵻŋ rɛ̀kəməndéɪʃən sᵻ̀stəmz, wʌ́n mʌst téɪk ᵻntu əkáʊnt ðə kóʊld-stɑ́rt prɒ́bləm, wᵻ̀ʧ əkɜ́rz wɛ́n ðə sᵻ̀stəm dʌz nɒt həv ənʌ́f déɪtə ɒn nu júzərz ɔr áɪtəmz tə méɪk ǽkjərət rɛ̀kəməndéɪʃənz. 
+ᵻn ədᵻ̀ʃən, déɪtə spɑ́rsᵻti ənd skéɪləbᵻ̀lᵻti ɑr ʌ́ðər ʧǽlənʤᵻz, ɡᵻ̀vən thət ðə júzər-áɪtəm ᵻ̀ntərǽkʃənz méɪtrᵻks kən bi vǽst bʌt spɑ́rsli pɒ́pjəlèɪtᵻd. 
+fɜ́rðərmɔ̀r, ᵻ̀mplᵻ̀sᵻt fídbæ̀k, wᵻ̀ʧ ᵻ̀nklúdz əbzɜ́rvᵻŋ júzər bᵻhéɪvjər láɪk klᵻ̀ks ənd pɜ́rʧəs hᵻ̀stəri, ᵻz mɔr əbʌ́ndənt ðʌn əksplᵻ̀sᵻt fídbæ̀k láɪk réɪtᵻŋz ənd rəvjúz, bʌt ᵻt ᵻz mɔr ʧǽlənʤᵻŋ tə ᵻ̀ntɜ́rprət. 
+ðə sᵻ̀stəm mʌst ᵻ̀nfɜ́r wɛ́ðər ə júzərz nɒn-ᵻ̀ntərǽkʃən wᵻð ən áɪtəm ᵻ̀ndᵻkèɪts dᵻsᵻ̀ntərəst ɔr ʤəst ᵻ̀ɡnərəns əv ðə áɪtəm’z əɡzᵻ̀stəns. 
+ᵻn kənklúʒən, rɛ̀kəməndéɪʃən sᵻ̀stəmz ɑr ə krᵻ̀tᵻkəl kəmpóʊnənt əv mɛ́ni ɔ́nlàɪn sɜ́rvᵻsᵻz tədéɪ, dráɪvᵻŋ júzər ənɡéɪʤmənt ənd sæ̀tᵻsfǽkʃən. 
+ðə kəntᵻ̀njud ɡróʊθ əv dᵻ̀ʤᵻtəl déɪtə ənd ədvǽnsmənts ᵻn AI ənd məʃín lɜ́rnᵻŋ ɑr láɪkli tə kəntᵻ̀nju tə dráɪv ðə dəvɛ́ləpmənt əv ᵻnkrísᵻŋɡli səfᵻ̀stᵻkèɪtᵻd rɛ̀kəməndéɪʃən ǽlɡərᵻ̀ðəmz. 
+ðɛ́rfɔ̀r, ðə ʌ̀ndərstǽndᵻŋ əv rɛ̀kəməndéɪʃən sᵻ̀stəmz ᵻz krúʃəl fɔr IT prəfɛ́ʃənəlz ᵻ̀ntərəstᵻd ᵻn bᵻ̀ldᵻŋ stéɪt-əv-ðə-ɑ́rt, pɜ́rsənəlàɪzd dᵻ̀ʤᵻtəl plǽtfɔ̀rmz. 
+
+B002C033: æ̀ktᵻvéɪʃən fʌ́ŋkʃən. 
+ðə róʊl əv ən æ̀ktᵻvéɪʃən fʌ́ŋkʃən ᵻn ə nʊ́rəl nɛ́twɜ̀rk ᵻz tə ᵻ̀ntrədús nɒn-lᵻ̀niǽrᵻti ᵻntu ðə áʊtpʊ̀t əv ə nʊ́rɒn. 
+ðᵻs nɒn-lᵻ̀niǽrᵻti ᵻz ᵻ̀mpɔ́rtənt bᵻkɒ́z ᵻt əláʊz ðə nɛ́twɜ̀rk tə lɜ́rn frəm ɛ́rər ənd méɪk kərɛ́kʃənz, wᵻ̀ʧ ᵻz əsɛ́nʃəl fɔr tǽsks sʌʧ æz rəɡrɛ́ʃən ənd klæ̀sᵻfᵻkéɪʃən. 
+bìfɔ́r wi dɛ́lv dípər, lɛt ʌs dəfáɪn wɒt ə nʊ́rɒn ᵻz ᵻn ðə kɒ́ntɛkst əv nʊ́rəl nɛ́twɜ̀rks. 
+A nʊ́rɒn téɪks ə sɛ́t əv wéɪtᵻd ᵻ̀npʊ̀ts, əpláɪz ən æ̀ktᵻvéɪʃən fʌ́ŋkʃən, ənd prədúsᵻz ən áʊtpʊ̀t. 
+ðᵻs áʊtpʊ̀t ðɛn sɜ́rvz æz ən ᵻ̀npʊ̀t tə ðə nʊ́rɒnz əv ðə nɛ́kst léɪər ᵻn ðə nɛ́twɜ̀rk. 
+æ̀ktᵻvéɪʃən fʌ́ŋkʃənz hɛ́lp dətɜ́rmᵻn ðə áʊtpʊ̀t əv ə nʊ́rəl nɛ́twɜ̀rk. 
+ðɛr pɜ́rpəs ᵻz tə skéɪl ðə áʊtpʊ̀t əv ə nʊ́rɒn ᵻn ə weɪ thət kən bi jùnᵻvɜ́rsəli ʌ̀ndərstʊ́d, kənsᵻ̀dərᵻŋ ɔl táɪps əv ᵻ̀npʊ̀t. 
+ᵻt ɔ́lsoʊ hɛ́lps tə nɔ́rməlàɪz ðə áʊtpʊ̀t əv iʧ nʊ́rɒn tə ə réɪnʤ bitwín 1 ənd 0 ɔr bitwín -1 ənd 1. 
+ᵻn ðə sᵻ̀mpləst tɜ́rmz, ən æ̀ktᵻvéɪʃən fʌ́ŋkʃən ɒn iʧ nʊ́rɒn ᵻz əpláɪd ᵻ̀tərətᵻvli əkrɔ́s ɔl ðə ᵻ̀npʊ̀ts, téɪks ðə áʊtpʊ̀ts ənd rᵻpíts ðə prɒ́sɛ̀s ʌ̀ntᵻ̀l ðə áʊtpʊ̀t ᵻz ʤɛ́nərèɪtᵻd. 
+ðɛr ɑr sɛ́vərəl táɪps əv æ̀ktᵻvéɪʃən fʌ́ŋkʃənz, iʧ wᵻð ᵻts kæ̀rəktərᵻ̀stᵻks ənd júsᵻz. 
+A pɒ́pjələr æ̀ktᵻvéɪʃən fʌ́ŋkʃən ᵻz ðə sᵻ̀ɡmɔ̀ɪd fʌ́ŋkʃən. 
+ðᵻs fʌ́ŋkʃən mǽps ɛ́ni ᵻ̀npʊ̀t ᵻntu ə vǽlju bitwín 0 ənd 1. 
+ðᵻs mǽpᵻŋ əv ᵻ̀npʊ̀t vǽljuz ᵻntu ə smɔ́l réɪnʤ əv áʊtpʊ̀t vǽljuz méɪks ðə sᵻ̀ɡmɔ̀ɪd fʌ́ŋkʃən pɑ̀rtᵻ̀kjələrli júsfəl ᵻn báɪnəri klæ̀sᵻfᵻkéɪʃən prɒ́bləmz. 
+ənʌ́ðər kɒ́mənli júzd æ̀ktᵻvéɪʃən fʌ́ŋkʃən ᵻz ðə hàɪpərbɒ́lᵻk tǽnʤənt (ɔr TANH) fʌ́ŋkʃən. 
+ðᵻs fʌ́ŋkʃən mǽps ᵻ̀npʊ̀ts tə vǽljuz bitwín -1 ənd 1, ðʌs àʊtpʊ́tᵻŋ nɛ́ɡətᵻv vǽljuz æz wɛ́l. 
+TANH, láɪk sᵻ̀ɡmɔ̀ɪd, ᵻz ɔ́lsoʊ ən s-ʃéɪpt kɜ́rv. 
+ðə rɛ́ktᵻfàɪd lᵻ̀niər júnᵻt (RELU) fʌ́ŋkʃən ᵻz ənʌ́ðər æ̀ktᵻvéɪʃən fʌ́ŋkʃən wáɪdli júzd ᵻn hᵻ̀dən léɪərz əv nʊ́rəl nɛ́twɜ̀rks. 
+ðə RELU fʌ́ŋkʃən əláʊz fɔr fǽstər ənd mɔr əféktᵻv tréɪnᵻŋ əv nʊ́rəl ɑ́rkᵻtɛ̀kʧərz. 
+ʌ̀nláɪk sᵻ̀ɡmɔ̀ɪd ənd TANH, ðə RELU fʌ́ŋkʃən ᵻz nɒt ən s-ʃéɪpt kɜ́rv. 
+ᵻt ᵻ̀ntrədúsᵻz nɒn-lᵻ̀niǽrᵻti ᵻn ðə nɛ́twɜ̀rk bʌt wᵻð ə dᵻ̀fərənt əpróʊʧ: ᵻt ɡᵻ̀vz ən áʊtpʊ̀t thət ᵻz ðə mǽksᵻməm əv ðə ərᵻ̀ʤᵻnəl áʊtpʊ̀t ənd zíroʊ. 
+A dərᵻ̀vətᵻv əv RELU ᵻz ðə líki RELU fʌ́ŋkʃən. 
+ᵻt ətɛ́mpts tə sɒ́lv ðə dáɪᵻŋ RELU prɒ́bləm, wɛ́r nʊ́rɒnz əfɛ́ktᵻvli dáɪ fɔr ɔl ᵻ̀npʊ̀ts, ðʌs méɪkᵻŋ ðɛm ᵻ̀nǽktᵻv. 
+líki RELU əʧívz ðᵻs baɪ ᵻ̀ntrədúsᵻŋ ə smɔ́l slóʊp fɔr nɛ́ɡətᵻv vǽljuz ᵻ̀nstɛ́d əv flǽt zíroʊᵻŋ. 
+ðə ʧɔ́ɪs əv ən æ̀ktᵻvéɪʃən fʌ́ŋkʃən kən sᵻɡnᵻ̀fᵻkəntli ᵻ̀nfluəns ðə pərfɔ́rməns əv ə nʊ́rəl nɛ́twɜ̀rk. 
+fǽktərz tə kənsᵻ̀dər wɛ́n ʧúzᵻŋ ən æ̀ktᵻvéɪʃən fʌ́ŋkʃən ᵻ̀nklúd ðə kəmplɛ́ksᵻti əv ðə déɪtə ənd ðə táɪp əv prɒ́bləm æt hǽnd. 
+ᵻn ədᵻ̀ʃən, ðə kɒ̀mpjutéɪʃənəl rísɔrsᵻz əvéɪləbəl kən ɔ́lsoʊ dətɜ́rmᵻn ðə ʧɔ́ɪs əv ən æ̀ktᵻvéɪʃən fʌ́ŋkʃən. 
+ᵻn kənklúʒən, æ̀ktᵻvéɪʃən fʌ́ŋkʃənz pléɪ ə krúʃəl róʊl ᵻn ðə lɜ́rnᵻŋ prɒ́sɛ̀s əv ə nʊ́rəl nɛ́twɜ̀rk. 
+ðeɪ ᵻ̀ntrədús nɛ́səsɛ̀ri nɒn-lᵻ̀niǽrᵻti tə ðə nɛ́twɜ̀rk, hɛ́lpᵻŋ ᵻt tə lɜ́rn frəm kɒ́mplɛks pǽtərnz ᵻn ðə déɪtə. 
+wáɪl ðɛr ɑr sɛ́vərəl táɪps əv æ̀ktᵻvéɪʃən fʌ́ŋkʃənz əvéɪləbəl, ðə ʧɔ́ɪs dəpɛ́ndz lɑ́rʤli ɒn ðə spəsᵻ̀fᵻk rəkwáɪrmənts əv ðə tǽsk ənd ðə néɪʧər əv ðə ᵻ̀npʊ̀t déɪtə. 
+
+B002C034: tréɪnᵻŋ sɛ́t vɜ́rsəs tɛ́st sɛ́t. 
+ᵻn məʃín lɜ́rnᵻŋ, splᵻ̀tᵻŋ déɪtə ᵻntu ə tréɪnᵻŋ sɛ́t ənd ə tɛ́st sɛ́t ᵻz ən əsɛ́nʃəl pɑ́rt əv ðə mɒ́dəl dəvɛ́ləpmənt prɒ́sɛ̀s. 
+ðᵻs ʧǽptər dɛ́lvz ᵻntu ðə díteɪlz ənd ᵻ̀mplᵻkéɪʃənz əv ðə daɪkɒ́təmi bitwín ðiz tú sɛ́ts. 
+lɛ́ts stɑ́rt wᵻð ən ʌ̀ndərstǽndᵻŋ əv iʧ sɛ́t. 
+A tréɪnᵻŋ sɛ́t ᵻz ə sʌ́bsɛ̀t əv jɔr déɪtə júzd tə tréɪn jɔr mɒ́dəl. 
+ᵻt ᵻz, ᵻn ɛ́səns, ðə déɪtəsɛ̀t ɒn wᵻ̀ʧ ðə məʃín lɜ́rnᵻŋ mɒ́dəl 'lɜ́rnz'. 
+ðə tréɪnᵻŋ sɛ́t fɔ́rmz ðə məʤɔ́rᵻti əv ðə déɪtəsɛ̀t ənd ǽkts æz ðə sɔ́rs frəm wᵻ̀ʧ ðə mɒ́dəl dᵻskʌ́vərz ðə ʌ̀ndərláɪᵻŋ pǽtərnz ənd rəléɪʃənʃᵻ̀ps. 
+ɒn ðə ʌ́ðər hǽnd, ə tɛ́st sɛ́t ᵻz ə sʌ́bsɛ̀t əv jɔr déɪtə thət ðə mɒ́dəl həz nɒt sín dʊ́rᵻŋ tréɪnᵻŋ. 
+ðə sóʊl pɜ́rpəs əv ðə tɛ́st sɛ́t ᵻz tə prəváɪd ən ʌ̀nbáɪəst əvæ̀ljuéɪʃən əv ðə fáɪnəl mɒ́dəl. 
+ðə mɒ́dəl’z pərfɔ́rməns ɒn ðə tɛ́st sɛ́t ɡᵻ̀vz ʌs ə mɛ́ʒər əv ᵻts əbᵻ̀lᵻti tə ʤɛ́nərəlàɪz tə ʌ̀nsín déɪtə, hɛ́ns əstǽblᵻʃᵻŋ ðə mɒ́dəlz əfɛ́ktᵻvnəs. 
+ðə prɒ́sɛ̀s əv dᵻváɪdᵻŋ déɪtə ᵻntu tréɪnᵻŋ ənd tɛ́st sɛ́ts pléɪz ə váɪtəl róʊl ᵻn prəvɛ́ntᵻŋ òʊvərfᵻ̀tᵻŋ. 
+òʊvərfᵻ̀tᵻŋ əkɜ́rz wɛ́n ə mɒ́dəl lɜ́rnz ðə tréɪnᵻŋ déɪtə soʊ wɛ́l thət ᵻt pərfɔ́rmz pɔ́rli ɒn ɛ́ni déɪtə ᵻt hǽzənt sín bìfɔ́r, əsɛ́nʃəli féɪlᵻŋ tə ʤɛ́nərəlàɪz. 
+hǽvᵻŋ ə sɛ́pərət tɛ́st sɛ́t hɛ́lps tə aɪdɛ́ntᵻfàɪ ðᵻs ᵻ̀ʃu ɜ́rli ᵻn ðə prɒ́sɛ̀s. 
+ðə dᵻvᵻ̀ʒən əv déɪtə ᵻntu tréɪnᵻŋ ənd tɛ́st sɛ́ts ᵻzənt ɑ́rbᵻtrɛ̀ri. 
+A tᵻ̀pᵻkəl splᵻ̀t maɪt bi 80% əv ðə déɪtə fɔr tréɪnᵻŋ ənd 20% fɔr tɛ́stᵻŋ. 
+hàʊɛ́vər, ðə spəsᵻ̀fᵻk réɪʃiòʊ kən vɛ́ri béɪst ɒn ðə kwɒ́ntᵻti ənd néɪʧər əv ðə déɪtə əvéɪləbəl. 
+ᵻ̀ts wɜ́rθ nóʊtᵻŋ thət rǽndəm səlɛ́kʃən ᵻz ə kɒ́mən əpróʊʧ tə pɒ́pjəlèɪt ðiz sɛ́ts. 
+ðᵻs rǽndəmnəs ənʃʊ́rz thət ðə tréɪnᵻŋ ənd tɛ́st sɛ́ts ɑr rɛ̀prəzɛ́nətᵻv əv ðə óʊvərɔ̀l déɪtə dᵻ̀strəbjúʃən. 
+hàʊɛ́vər, fɔr táɪm-sɪ́riz déɪtə ɔr wɛ́n déɪtə líkᵻʤ ᵻz ə kənsɜ́rn, kɛ́rfəl ənd dəlᵻ̀bərət splᵻ̀tᵻŋ strǽtəʤiz níd tə bi ɛmplɔ́ɪd. 
+dᵻspáɪt ᵻts sᵻmplᵻ̀sᵻti, ðə tréɪn-tɛ́st splᵻ̀t mɛ́θəd ᵻzənt flɔ́ləs. 
+A sᵻɡnᵻ̀fᵻkənt lᵻ̀mᵻtéɪʃən ᵻz thət ðə pərfɔ́rməns mɛ́ʒər əv ðə tɛ́st sɛ́t meɪ vɛ́ri dəpɛ́ndᵻŋ ɒn háʊ wi splᵻ̀t aʊər déɪtə. 
+A mɒ́dəl kʊ́d pərfɔ́rm əksɛ́pʃənəli wɛ́l ɒn wʌ́n tɛ́st sɛ́t ənd pɔ́rli ɒn ənʌ́ðər, dəpɛ́ndᵻŋ ɒn wᵻ̀ʧ déɪtə pɔ́ɪnts ɛ́ndᵻd ʌp ᵻn ðə tɛ́st sɛ́t. 
+tə mᵻ̀tᵻɡèɪt ðᵻs ᵻ̀ʃu, mɔr səfᵻ̀stᵻkèɪtᵻd tɛkníks sʌʧ æz krɔ́s-væ̀lᵻdéɪʃən ɑr júzd. 
+krɔ́s-væ̀lᵻdéɪʃən ᵻ̀nvɒ́lvz dᵻváɪdᵻŋ ðə déɪtəsɛ̀t ᵻntu mʌ́ltᵻpəl sʌ́bsɛ̀ts ənd ᵻ̀tərətᵻvli júzᵻŋ iʧ æz ə tɛ́st sɛ́t wáɪl ðə rəméɪndər sɜ́rv æz ðə tréɪnᵻŋ sɛ́t. 
+ðᵻs əpróʊʧ prəváɪdz ə mɔr roʊbʌ́st ɛ́stᵻmèɪt əv mɒ́dəl pərfɔ́rməns. 
+wáɪl ðə tréɪnᵻŋ sɛ́t ənd tɛ́st sɛ́t ɑr ðə práɪmɛ̀ri dᵻvᵻ̀ʒənz əv déɪtə, ᵻ̀ts ɔ́lsoʊ wɜ́rθ mɛ́nʃənᵻŋ ðə kɒ́nsɛpt əv ə væ̀lᵻdéɪʃən sɛ́t. 
+ðə væ̀lᵻdéɪʃən sɛ́t ᵻz ə sʌ́bsɛ̀t əv ðə tréɪnᵻŋ sɛ́t júzd tə tún hàɪpərpǽrəmətərz ənd méɪk dəsᵻ̀ʒənz rəɡɑ́rdᵻŋ ðə mɒ́dəl dʊ́rᵻŋ tréɪnᵻŋ, sʌʧ æz wɛ́n tə stɒ́p tréɪnᵻŋ. 
+ᵻn kənklúʒən, ʌ̀ndərstǽndᵻŋ ðə dᵻstᵻ̀ŋkʃən ənd róʊl əv tréɪnᵻŋ ənd tɛ́st sɛ́ts ᵻz fʌ̀ndəmɛ́ntəl tə səksɛ́sfəl məʃín lɜ́rnᵻŋ. 
+ðiz sɛ́ts ɑr ᵻ̀nstrəmɛ́ntəl ᵻn tréɪnᵻŋ roʊbʌ́st mɒ́dəlz ənd ɛ́stᵻmèɪtᵻŋ ðɛr pərfɔ́rməns. 
+dᵻspáɪt pətɛ́nʃəl lᵻ̀mᵻtéɪʃənz, ðə kɒ́nsɛpt əv sɛ́ɡrᵻɡèɪtᵻŋ tréɪnᵻŋ ənd tɛ́st sɛ́ts rəméɪnz ə kɔ́rnərstòʊn əv məʃín lɜ́rnᵻŋ, kəntrᵻ̀bjutᵻŋ sᵻɡnᵻ̀fᵻkəntli tə ðə kriéɪʃən əv mɒ́dəlz thət ʤɛ́nərəlàɪz wɛ́l tə ʌ̀nsín déɪtə. 
+
+B002C035: krɔ́s-væ̀lᵻdéɪʃən. 
+krɔ́s-væ̀lᵻdéɪʃən ᵻz ə páʊərfəl tɛkník ᵻn məʃín lɜ́rnᵻŋ thət éɪdz ᵻn ɛ́stᵻmèɪtᵻŋ ðə pərfɔ́rməns əv ə mɒ́dəl ənd mᵻ̀tᵻɡèɪts ðə rᵻ̀sk əv òʊvərfᵻ̀tᵻŋ. 
+ðᵻs mɛ́θəd prəváɪdz ə roʊbʌ́st weɪ tə ɡéɪʤ háʊ wɛ́l ə mɒ́dəl ʤɛ́nərəlaɪz tə ən ᵻ̀ndəpɛ́ndənt déɪtəsɛ̀t. 
+bìfɔ́r dáɪvᵻŋ ᵻntu ðə kɒ́nsɛpt əv krɔ́s-væ̀lᵻdéɪʃən, ᵻt ᵻz wɜ́rθ ʌ̀ndərstǽndᵻŋ wáɪ ᵻt ᵻz nídᵻd. 
+wɛ́n tréɪnᵻŋ məʃín lɜ́rnᵻŋ mɒ́dəlz, wi júʒəli splᵻ̀t ðə déɪtə ᵻntu tú sʌ́bsɛ̀ts: ə tréɪnᵻŋ sɛ́t ənd ə tɛ́st sɛ́t. 
+ðə mɒ́dəl ᵻz tréɪnd ɒn ðə tréɪnᵻŋ sɛ́t ənd əvǽljuèɪtᵻd ɒn ðə tɛ́st sɛ́t. 
+hàʊɛ́vər, ðᵻs mɛ́θəd póʊzᵻz ə prɒ́bləm: ðə pərfɔ́rməns əv ðə mɒ́dəl kən vɛ́ri sᵻɡnᵻ̀fᵻkəntli dəpɛ́ndᵻŋ ɒn ðə rǽndəm ʧɔ́ɪs əv déɪtə splᵻ̀t. 
+krɔ́s-væ̀lᵻdéɪʃən ǽdrɛ́sᵻz ðᵻs ᵻ̀ʃu baɪ ɛnʃʊ́rᵻŋ ɛvəri déɪtə pɔ́ɪnt ɡɛ́ts tə bi ᵻn bóʊθ tréɪnᵻŋ ənd tɛ́stᵻŋ sɛ́ts θruáʊt ðə prɒ́sɛ̀s, ɔ́fərᵻŋ ə mɔr kɒ̀mprəhɛ́nsᵻv əsɛ́smənt əv ðə mɒ́dəlz pərfɔ́rməns. 
+krɔ́s-væ̀lᵻdéɪʃən ᵻ̀nvɒ́lvz pɑrtᵻ̀ʃənᵻŋ ðə déɪtə ᵻntu sʌ́bsɛ̀ts, kɒ́mənli rəfɜ́rd tə æz 'fóʊldz'. 
+ᵻn ðə wáɪdli júzd k-fóʊld krɔ́s-væ̀lᵻdéɪʃən, ðə ərᵻ̀ʤᵻnəl sǽmpəl ᵻz rǽndəmli pɑrtᵻ̀ʃənd ᵻntu k íkwəl-sáɪzd sʌ́bsæ̀mpəlz. 
+əv ðə k sʌ́bsæ̀mpəlz, ə sᵻ̀ŋɡəl sʌ́bsæ̀mpəl ᵻz ritéɪnd æz ðə væ̀lᵻdéɪʃən déɪtə fɔr tɛ́stᵻŋ ðə mɒ́dəl, ənd ðə rəméɪnᵻŋ k-1 sʌ́bsæ̀mpəlz ɑr júzd æz tréɪnᵻŋ déɪtə. 
+ðə krɔ́s-væ̀lᵻdéɪʃən prɒ́sɛ̀s ᵻz ðɛn rᵻpítᵻd k táɪmz, wᵻð iʧ əv ðə k sʌ́bsæ̀mpəlz júzd əɡzǽktli wʌ́ns æz ðə væ̀lᵻdéɪʃən déɪtə. 
+ðə k rəzʌ́lts frəm ðə fóʊldz kən ðɛn bi ǽvrəʤd tə próʊdus|prədús ə sᵻ̀ŋɡəl ɛ̀stᵻméɪʃən, ɡᵻ̀vᵻŋ ʌs ə mɔr rəláɪəbəl ənd roʊbʌ́st mɛ́ʒər əv mɒ́dəl pərfɔ́rməns. 
+wɛ́n ʧúzᵻŋ ðə vǽlju əv k, ə kɒ́mən ʧɔ́ɪs ᵻz k=10 æz ᵻt prəváɪdz ə ɡʊ́d tréɪdɔ̀f bitwín kɒ̀mpjutéɪʃənəl kɒ́st ənd rəláɪəbəl ɛ̀stᵻméɪʃən əv pərfɔ́rməns. 
+hàʊɛ́vər, ðə ʧɔ́ɪs əv k dəpɛ́ndz ɒn ðə sáɪz əv ðə déɪtəsɛ̀t ənd ðə kɒ̀mpjutéɪʃənəl rísɔrsᵻz əvéɪləbəl. 
+ən əkstrím vɜ́rʒən əv k-fóʊld krɔ́s-væ̀lᵻdéɪʃən ᵻz lív-wʌ́n-áʊt krɔ́s-væ̀lᵻdéɪʃən (LOOCV). 
+ᵻn LOOCV, k íkwəlz ðə tóʊtəl nʌ́mbər əv ɒ̀bzərvéɪʃənz ᵻn ðə déɪtəsɛ̀t. 
+ðᵻs mínz thət iʧ lɜ́rnᵻŋ sɛ́t ᵻz kriéɪtᵻd baɪ téɪkᵻŋ ɔl ðə sǽmpəlz əksɛ́pt wʌ́n, ðə tɛ́st sɛ́t bíᵻŋ ðə sǽmpəl lɛ́ft áʊt. 
+LOOCV ᵻz kɒ̀mpjətéɪʃənəli əkspɛ́nsᵻv, əspɛ́ʃəli fɔr lɑ́rʤ déɪtəsɛ̀ts, bʌt ᵻt mǽksᵻmàɪzᵻz ðə tréɪnᵻŋ déɪtəz sáɪz ənd prəváɪdz ə kɒ̀mprəhɛ́nsᵻv əsɛ́smənt əv ðə mɒ́dəlz pərfɔ́rməns. 
+ənʌ́ðər vɛ́riənt ᵻz strǽtᵻfàɪd k-fóʊld krɔ́s-væ̀lᵻdéɪʃən, ɔ́fən júzd ᵻn klæ̀sᵻfᵻkéɪʃən prɒ́bləmz. 
+stræ̀tᵻfᵻkéɪʃən ənʃʊ́rz thət iʧ fóʊld ᵻz ə ɡʊ́d rɛ̀prəzɛ́nətᵻv əv ðə hóʊl déɪtəsɛ̀t, meɪntéɪnᵻŋ ðə séɪm prəpɔ́rʃən əv sǽmpəlz fɔr iʧ klǽs æz ᵻn ðə ərᵻ̀ʤᵻnəl déɪtəsɛ̀t. 
+ðᵻs tɛkník ᵻz pɑ̀rtᵻ̀kjələrli júsfəl wɛ́n ðə déɪtə ᵻz ᵻmbǽlənst. 
+krɔ́s-væ̀lᵻdéɪʃən ᵻz ə krᵻ̀tᵻkəl túl fɔr hàɪpərpǽrəmətər túnᵻŋ, wᵻ̀ʧ ᵻ̀nvɒ́lvz səlɛ́ktᵻŋ ðə sɛ́t əv ɒ́ptᵻməl hàɪpərpǽrəmətərz fɔr ə məʃín lɜ́rnᵻŋ mɒ́dəl. 
+baɪ júzᵻŋ krɔ́s-væ̀lᵻdéɪʃən, wi kən əsɛ́s háʊ ðə rəzʌ́lts wᵻl ʤɛ́nərəlàɪz tə ən ᵻ̀ndəpɛ́ndənt déɪtə sɛ́t. 
+wʌ́n mʌst bɛ́r ᵻn máɪnd thət krɔ́s-væ̀lᵻdéɪʃən prəváɪdz ən ɛ́stᵻmèɪt əv háʊ wɛ́l ə mɒ́dəl wᵻl ʤɛ́nərəlàɪz tə ʌ̀nsín déɪtə, bʌt ᵻt dʌz nɒt kəmplítli prəvɛ́nt òʊvərfᵻ̀tᵻŋ, əspɛ́ʃəli wɛ́n ᵻt kʌ́mz tə ðə səlɛ́kʃən ənd túnᵻŋ əv mɒ́dəl pərǽmətərz. 
+ədᵻ̀ʃənəl tɛkníks, sʌʧ æz rèɡjəlɛ̀rᵻzéɪʃən ənd ɜ́rli stɒ́pᵻŋ, meɪ ɔ́lsoʊ bi nɛ́səsɛ̀ri. 
+ᵻn kənklúʒən, krɔ́s-væ̀lᵻdéɪʃən ᵻz ən əsɛ́nʃəl tɛkník fɔr əsɛ́sᵻŋ ənd ᵻ̀mprúvᵻŋ ðə pərfɔ́rməns əv məʃín lɜ́rnᵻŋ mɒ́dəlz. 
+baɪ sᵻ̀stəmǽtᵻkli əpláɪᵻŋ ðə mɒ́dəl tə dᵻ̀fərənt sʌ́bsɛ̀ts əv ðə déɪtə, ᵻt əláʊz ʌs tə ɛ́stᵻmèɪt ðə mɒ́dəlz əbᵻ̀lᵻti tə ʤɛ́nərəlàɪz, prəváɪdᵻŋ ə roʊbʌ́st əpróʊʧ tə mɒ́dəl əvæ̀ljuéɪʃən ənd hàɪpərpǽrəmətər túnᵻŋ. 
+wáɪl krɔ́s-væ̀lᵻdéɪʃən ǽdz kəmplɛ́ksᵻti ənd kɒ̀mpjutéɪʃənəl kɒ́st tə ðə məʃín lɜ́rnᵻŋ prɒ́sɛ̀s, ðə bɛ́nəfᵻts ᵻt prəváɪdz ᵻn tɜ́rmz əv ᵻ̀mprúvd mɒ́dəl pərfɔ́rməns ənd roʊbʌ́stnəs méɪk ᵻt ə wɜ́rθwáɪl ᵻ̀nvɛ́smənt. 
+
+B002C036: pæ̀rəmɛ́trᵻk vɜ́rsəs nɒn-pæ̀rəmɛ́trᵻk mɒ́dəlz. 
+məʃín lɜ́rnᵻŋ mɒ́dəlz ɑr fríkwəntli dᵻváɪdᵻd ᵻntu tú brɔ́d klǽsᵻz: pæ̀rəmɛ́trᵻk ənd nɒn-pæ̀rəmɛ́trᵻk. 
+ðᵻs kæ̀təɡərᵻzéɪʃən ᵻz béɪst ɒn ðə néɪʧər ənd nʌ́mbər əv pərǽmətərz ðə mɒ́dəl júsᵻz, ənd ᵻt hɛ́vᵻli ᵻ̀nflùənsᵻz ðə mɒ́dəlz kəpǽsᵻti, kəmplɛ́ksᵻti, ənd ðə táɪps əv rəléɪʃənʃᵻ̀ps ᵻt kən kǽpʧər. 
+pæ̀rəmɛ́trᵻk mɒ́dəlz ɑr ðoʊz thət həv ə fᵻ̀kst nʌ́mbər əv pərǽmətərz. 
+ðᵻs nʌ́mbər ᵻz ᵻ̀ndəpɛ́ndənt əv ðə sáɪz əv ðə tréɪnᵻŋ déɪtəsɛ̀t. 
+ðə əlʊ́r əv pæ̀rəmɛ́trᵻk mɒ́dəlz láɪz ᵻn ðɛr sᵻmplᵻ̀sᵻti ənd əfᵻ̀ʃənsi. 
+ðiz mɒ́dəlz méɪk strɔ́ŋ əsʌ́mpʃənz əbaʊt ðə ʌ̀ndərláɪᵻŋ déɪtə dᵻ̀strəbjúʃən, ənd ðᵻs ɔ́fən lídz tə fjúər kɒ̀mpjutéɪʃənəl rəkwáɪrmənts ənd fǽstər tréɪnᵻŋ táɪmz. 
+fɔr ᵻ̀nstəns, ə lᵻ̀niər rəɡrɛ́ʃən mɒ́dəl ᵻz ə klǽsᵻk əɡzǽmpəl əv ə pæ̀rəmɛ́trᵻk mɒ́dəl. 
+ᵻt əsúmz thət ðə rəspɒ́ns vɛ́riəbəl kən bi əkspléɪnd æz ə lᵻ̀niər kɒ̀mbᵻnéɪʃən əv ðə prədᵻ̀ktərz ɔr fíʧərz. 
+sʌʧ ə mɒ́dəl ᵻz kǽrəktəraɪzd baɪ tú pərǽmətərz, ðə slóʊp ənd ðə ᵻ̀ntərsɛ́pt əv ðə láɪn, ənd ðiz pərǽmətərz dú nɒt ʧéɪnʤ wᵻð ðə sáɪz əv ðə déɪtə. 
+hàʊɛ́vər, ðə strɔ́ŋ əsʌ́mpʃənz méɪd baɪ pæ̀rəmɛ́trᵻk mɒ́dəlz kən bi ə dʌ́bəl-ɛ́ʤd sɔ́rd. 
+wáɪl ðeɪ sᵻ̀mpləfàɪ ðə prɒ́sɛ̀s əv mɒ́dəl tréɪnᵻŋ, ðeɪ ɔ́lsoʊ lᵻ̀mᵻt ðə kəmplɛ́ksᵻti əv ðə rəléɪʃənʃᵻ̀ps ðiz mɒ́dəlz kən kǽpʧər. 
+ᵻf ðə ǽkʧəl déɪtə daɪvɜ́rʤᵻz sᵻɡnᵻ̀fᵻkəntli frəm ðə mɒ́dəl əsʌ́mpʃənz, ðə mɒ́dəl pərfɔ́rməns maɪt bi ᵻ̀nǽdəkwèɪt. 
+ɒn ðə ʌ́ðər hǽnd, nɒn-pæ̀rəmɛ́trᵻk mɒ́dəlz dú nɒt méɪk strɔ́ŋ əsʌ́mpʃənz əbaʊt ðə ʌ̀ndərláɪᵻŋ dᵻ̀strəbjúʃən əv ðə déɪtə. 
+ᵻ̀nstɛ́d, ðeɪ həv ðə flɛ̀ksᵻbᵻ̀lᵻti tə lɜ́rn ənd ədǽpt tə ðə strʌ́kʧər əv ðə déɪtə. 
+ðiz mɒ́dəlz nʌ́mbər əv pərǽmətərz ɡróʊz wᵻð ðə sáɪz əv ðə tréɪnᵻŋ déɪtə, əláʊᵻŋ ðɛm tə mɒ́dəl kɒ́mplɛks ənd nɒnlᵻ̀nìər rəléɪʃənʃᵻ̀ps əfɛ́ktᵻvli. 
+dəsᵻ̀ʒən tríz, k-nɪ́rəst néɪbərz (KNN), ənd səpɔ́rt vɛ́ktər məʃínz wᵻð ə nɒnlᵻ̀nìər kɜ́rnəl ɑr əɡzǽmpəlz əv nɒn-pæ̀rəmɛ́trᵻk mɒ́dəlz. 
+fɔr əɡzǽmpəl, ə dəsᵻ̀ʒən trí kriéɪts ə mɒ́dəl əv dəsᵻ̀ʒənz béɪst ɒn ðə tréɪnᵻŋ déɪtə. 
+ðə kəmplɛ́ksᵻti əv ðə mɒ́dəl, fɜ̀r., ðə nʌ́mbər əv nóʊdz ənd brǽnʧᵻz ᵻn ðə trí, ɡróʊz æz mɔr déɪtə ᵻz ǽdᵻd. 
+ðə méɪʤər ædvǽntᵻʤ əv nɒn-pæ̀rəmɛ́trᵻk mɒ́dəlz ᵻz ðɛr flɛ̀ksᵻbᵻ̀lᵻti. 
+ðeɪ kən mɒ́dəl ə wáɪd vəráɪəti əv déɪtə dᵻ̀strəbjúʃənz ənd kǽpʧər kɒ́mplɛks rəléɪʃənʃᵻ̀ps. 
+hàʊɛ́vər, ðᵻs flɛ̀ksᵻbᵻ̀lᵻti kʌ́mz wᵻð ə kɒ́st. 
+nɒn-pæ̀rəmɛ́trᵻk mɒ́dəlz ɑr ʤɛ́nərəli mɔr kɒ̀mpjətéɪʃənəli ᵻ̀ntɛ́nsᵻv ənd rəkwáɪər mɔr déɪtə tə próʊdus|prədús ǽkjərət prədᵻ̀kʃənz. 
+ðeɪ ɑr ɔ́lsoʊ mɔr próʊn tə òʊvərfᵻ̀tᵻŋ bᵻkɒ́z ðeɪ kən óʊvərli ədǽpt tə ðə nɔ́ɪz ɔr ᵻ̀rɛ̀ɡjəlɛ́rᵻtiz ᵻn ðə tréɪnᵻŋ déɪtə. 
+ðɛ́rfɔ̀r, ðə ʧɔ́ɪs bitwín pæ̀rəmɛ́trᵻk ənd nɒn-pæ̀rəmɛ́trᵻk mɒ́dəlz dəpɛ́ndz ɒn ðə néɪʧər əv ðə prɒ́bləm ənd ðə əvéɪləbəl déɪtə. 
+ᵻf ðɛr ᵻz strɔ́ŋ práɪər nɒ́lᵻʤ əbaʊt ðə déɪtə dᵻ̀strəbjúʃən ənd ðə rəléɪʃənʃᵻ̀p bitwín fíʧərz ənd ðə rəspɒ́ns vɛ́riəbəl ᵻz bəlívd tə bi sᵻ̀mpəl, pæ̀rəmɛ́trᵻk mɒ́dəlz meɪ bi ə ɡʊ́d ʧɔ́ɪs djú tə ðɛr sᵻmplᵻ̀sᵻti ənd əfᵻ̀ʃənsi. 
+kɒ́nvərsli, ᵻf ðɛr ᵻz noʊ sɒ́ləd ʌ̀ndərstǽndᵻŋ əv ðə déɪtə dᵻ̀strəbjúʃən, ənd ðə rəléɪʃənʃᵻ̀p bitwín fíʧərz ənd ðə rəspɒ́ns vɛ́riəbəl ᵻz láɪkli tə bi kɒ́mplɛks, nɒn-pæ̀rəmɛ́trᵻk mɒ́dəlz meɪ bi mɔr əpróʊprièɪt dᵻspáɪt ðɛr háɪər kɒ̀mpjutéɪʃənəl kɒ́st ənd pətɛ́nʃəl rᵻ̀sk əv òʊvərfᵻ̀tᵻŋ. 
+ᵻn kənklúʒən, ðə ʧɔ́ɪs bitwín pæ̀rəmɛ́trᵻk ənd nɒn-pæ̀rəmɛ́trᵻk mɒ́dəlz ᵻz wʌ́n əv ðə fʌ̀ndəmɛ́ntəl dəsᵻ̀ʒənz tə méɪk ᵻn ðə dᵻzáɪn əv məʃín lɜ́rnᵻŋ ǽlɡərᵻ̀ðəmz. 
+ʌ̀ndərstǽndᵻŋ ðɛr kæ̀rəktərᵻ̀stᵻks, ædvǽntᵻʤᵻz, ənd lᵻ̀mᵻtéɪʃənz ᵻz krᵻ̀tᵻkəl tə səlɛ́ktᵻŋ ðə ráɪt mɒ́dəl fɔr ə ɡᵻ̀vən tǽsk ənd əʧívᵻŋ ðə bɛ́st pɒ́sᵻbəl pərfɔ́rməns. 
+
+B002C037: trǽnsfər lɜ́rnᵻŋ. 
+ᵻn məʃín lɜ́rnᵻŋ, trǽnsfər lɜ́rnᵻŋ sᵻ̀ɡnᵻfàɪz ə tɛkník wɛ́r ə mɒ́dəl, tréɪnd ɒn wʌ́n prɒ́bləm, ᵻz júzd ᵻn sʌm weɪ ɒn ə sɛ́kənd, rəléɪtᵻd prɒ́bləm. 
+fʌ̀ndəmɛ́ntəli, ᵻ̀ts ə mɛ̀θədɒ́ləʤi fɔr lɛ́vərᵻʤᵻŋ nɒ́lᵻʤ ɡéɪnd frəm sɒ́lvᵻŋ wʌ́n prɒ́bləm tə sɒ́lv ənʌ́ðər sᵻ̀mᵻlər prɒ́bləm. 
+ʌ̀ndərstǽndᵻŋ trǽnsfər lɜ́rnᵻŋ stɑ́rts wᵻð ðə æknɒ́lᵻʤmənt əv tú ʤɛ́nərəl sənǽrioʊz: wʌ́n ᵻ̀nvɒ́lvᵻŋ tǽsks ənd doʊméɪnz, ənd ðə ʌ́ðər ᵻ̀nkɔ́rpərèɪtᵻŋ sɔ́rs ənd tɑ́rɡət. 
+A doʊméɪn kənsᵻ̀sts əv ə fíʧər spéɪs ənd ə mɑ́rʤənəl prɒ̀bəbᵻ̀lᵻti dᵻ̀strəbjúʃən. 
+ᵻn léɪmənz tɜ́rmz, ðə doʊméɪn dílz wᵻð ðə ᵻ̀npʊ̀t déɪtə kæ̀rəktərᵻ̀stᵻks. 
+ɒn ðə ʌ́ðər hǽnd, ə tǽsk ᵻz kəmpóʊzd əv léɪbəlz ənd ə kəndᵻ̀ʃənəl prɒ̀bəbᵻ̀lᵻti dᵻ̀strəbjúʃən fʌ́ŋkʃən. 
+ðᵻs dílz wᵻð ðə áʊtpʊ̀t déɪtə ɔr wɒt wi éɪm tə prədᵻ̀kt. 
+wɛ́n wi dᵻskʌ́s ðə 'sɔ́rs' ənd 'tɑ́rɡət' wᵻðᵻ̀n trǽnsfər lɜ́rnᵻŋ, ðə sɔ́rs rəfɜ́rz tə ðə ᵻnᵻ̀ʃəl lɜ́rnᵻŋ kəndᵻ̀ʃənz ənd ðə tɑ́rɡət rəfɜ́rz tə ðə kəndᵻ̀ʃənz tə wᵻ̀ʧ wi əpláɪ ðə nɒ́lᵻʤ. 
+ðə ɡóʊl ᵻz tə ᵻ̀mprúv ðə lɜ́rnᵻŋ əv ðə tɑ́rɡət prədᵻ̀ktᵻv fʌ́ŋkʃən ᵻn ðə tɑ́rɡət doʊméɪn baɪ jútᵻlàɪzᵻŋ ðə nɒ́lᵻʤ frəm ðə sɔ́rs doʊméɪn ənd sɔ́rs tǽsk. 
+ðə dráɪvᵻŋ mòʊtᵻvéɪʃən bᵻháɪnd trǽnsfər lɜ́rnᵻŋ ᵻz ðə ɒ̀bzərvéɪʃən thət hjúmənz kən ᵻ̀ntɛ́lᵻʤəntli əpláɪ nɒ́lᵻʤ lɜ́rnd ᵻn príviəs tǽsks tə nu tǽsks. 
+ðᵻs mínz wi dú nɒt níd tə lɜ́rn ɛvəri tǽsk frəm skrǽʧ. 
+məʃín lɜ́rnᵻŋ mɒ́dəlz thət lɜ́rn frəm skrǽʧ kən bi ᵻ̀nᵻfᵻ̀ʃənt, pɑ̀rtᵻ̀kjələrli ᵻn sənǽrioʊz wɛ́r wi həv lᵻ̀mᵻtᵻd léɪbəld déɪtə. 
+ðɛ́rfɔ̀r, ᵻf wi kən trǽnsfər nɒ́lᵻʤ frəm príviəsli lɜ́rnd tǽsks tə nu tǽsks, wi kən ᵻ̀mprúv ðə əfᵻ̀ʃənsi ənd əfɛ́ktᵻvnəs əv aʊər məʃín lɜ́rnᵻŋ mɒ́dəlz. 
+ðɛr ɑr sɛ́vərəl táɪps əv trǽnsfər lɜ́rnᵻŋ, ᵻ̀nklúdᵻŋ ᵻ̀ndʌ́ktᵻv, træ̀nzdʌ́ktᵻv, ənd ʌ̀nsúpərvàɪzd trǽnsfər lɜ́rnᵻŋ. 
+ᵻ̀ndʌ́ktᵻv trǽnsfər lɜ́rnᵻŋ júsᵻz ðə sɔ́rs tǽsk tə əsᵻ̀st wᵻð ðə lɜ́rnᵻŋ əv ə tɑ́rɡət tǽsk, bʌt ðə sɔ́rs ənd tɑ́rɡət doʊméɪnz mʌst bi ðə séɪm. 
+ðᵻs táɪp ᵻz pɑ̀rtᵻ̀kjələrli bɛ̀nəfᵻ̀ʃəl wɛ́n ðɛr ᵻz ᵻ̀nsəfᵻ̀ʃənt léɪbəld déɪtə fɔr ðə tɑ́rɡət tǽsk, bʌt ǽmpəl léɪbəld déɪtə fɔr ə sᵻ̀mᵻlər sɔ́rs tǽsk. 
+træ̀nzdʌ́ktᵻv trǽnsfər lɜ́rnᵻŋ jútᵻlàɪzᵻz ðə sɔ́rs tǽsk tə əsᵻ̀st wᵻð ðə lɜ́rnᵻŋ əv ðə tɑ́rɡət tǽsk, bʌt ᵻn ðᵻs kéɪs, ðə sɔ́rs ənd tɑ́rɡət tǽsks mʌst bi ðə séɪm, wáɪl ðə doʊméɪnz dᵻ̀fər. 
+ðᵻs kən bi bɛ̀nəfᵻ̀ʃəl wɛ́n ðə dᵻ̀strəbjúʃən əv ðə ᵻ̀npʊ̀t déɪtə dᵻ̀fərz bitwín ðə sɔ́rs ənd tɑ́rɡət tǽsks, bʌt ðə áʊtpʊ̀t déɪtə ɔr tǽsk rəméɪnz ðə séɪm. 
+ʌ̀nsúpərvàɪzd trǽnsfər lɜ́rnᵻŋ, ʌ̀nláɪk ðə príviəs tú táɪps, dʌz nɒt rəkwáɪər ðə sɔ́rs tǽsk tə bi ðə séɪm æz ðə tɑ́rɡət tǽsk ɔr ðə sɔ́rs doʊméɪn tə bi ðə séɪm æz ðə tɑ́rɡət doʊméɪn. 
+ðə pɜ́rpəs hír ᵻz tə ʌ̀ndərstǽnd ðə kɒ́mən léɪtənt fǽktərz bitwín ðə sɔ́rs ənd tɑ́rɡət doʊméɪnz ɔr tǽsks, ənd tə lɛ́vərᵻʤ ðᵻs ʌ̀ndərstǽndᵻŋ tə bɛ́tər lɜ́rn ðə tɑ́rɡət tǽsk. 
+æz ən əsɛ́nʃəl pɑ́rt əv ðə məʃín lɜ́rnᵻŋ túlkᵻt, trǽnsfər lɜ́rnᵻŋ ɔ́fərz sɛ́vərəl ædvǽntᵻʤᵻz. 
+ᵻt əláʊz fɔr kwᵻ̀kər lɜ́rnᵻŋ əv nu tǽsks baɪ lɛ́vərᵻʤᵻŋ práɪər nɒ́lᵻʤ, ᵻt rəkwáɪərz fjúər déɪtə tə əfɛ́ktᵻvli lɜ́rn nu tǽsks, ənd ᵻt kən ᵻ̀mprúv ðə pərfɔ́rməns əv mɒ́dəlz ɒn tǽsks wᵻð lᵻ̀mᵻtᵻd déɪtə baɪ ᵻ̀nkɔ́rpərèɪtᵻŋ ədᵻ̀ʃənəl nɒ́lᵻʤ frəm rəléɪtᵻd tǽsks. 
+hàʊɛ́vər, trǽnsfər lɜ́rnᵻŋ ᵻz nɒt wᵻðáʊt ᵻts ʧǽlənʤᵻz. 
+ᵻt kən bi dᵻ̀fᵻkəlt tə æ̀sərtéɪn wɛ́n trǽnsfər lɜ́rnᵻŋ kən bi bɛ̀nəfᵻ̀ʃəl ənd wɛ́n ᵻt maɪt bi dɛ̀trᵻmɛ́ntəl. 
+ədᵻ̀ʃənʌ̀li, ðɛr ᵻz ðə ʧǽlənʤ əv nɛ́ɡətᵻv trǽnsfər, wɛ́r ðə trǽnsfər əv ᵻ̀nfərméɪʃən frəm ðə sɔ́rs tə ðə tɑ́rɡət tǽsk ǽkʧùəli díkrìsᵻz pərfɔ́rməns ɒn ðə tɑ́rɡət tǽsk. 
+ᵻn kənklúʒən, trǽnsfər lɜ́rnᵻŋ rɛ̀prəzɛ́nts ən əksáɪtᵻŋ ɛ́riə əv məʃín lɜ́rnᵻŋ thət síks tə mᵻ̀mᵻk ðə hjúmən əbᵻ̀lᵻti tə trǽnsfər nɒ́lᵻʤ əkrɔ́s tǽsks. 
+baɪ əfɛ́ktᵻvli lɛ́vərᵻʤᵻŋ nɒ́lᵻʤ frəm ə sɔ́rs tǽsk, trǽnsfər lɜ́rnᵻŋ ɔ́fərz ðə pətɛ́nʃəl fɔr mɔr əfᵻ̀ʃənt ənd əféktᵻv lɜ́rnᵻŋ ᵻn ə vəráɪəti əv æ̀plᵻkéɪʃənz. 
+fjúʧər dəvɛ́ləpmənts ᵻn ðᵻs fíld prɒ́mᵻs tə fɜ́rðər əkspǽnd ᵻts pətɛ́nʃəl, méɪkᵻŋ ᵻt ən ᵻ̀mpɔ́rtənt ɛ́riə fɔr kəntᵻ̀njud rísərʧ ənd æ̀plᵻkéɪʃən. 
+
+B002C038: ʤɛ́nərətᵻv vɜ́rsəs dᵻskrᵻ̀mᵻnətᵻv mɒ́dəlz. 
+dáɪvᵻŋ ᵻntu ðə vǽst wɜ́rld əv məʃín lɜ́rnᵻŋ, wʌ́n stʌ́mbəlz əpɒ́n tú sᵻɡnᵻ̀fᵻkəntli daɪvɜ́rʤənt wéɪz əv ʌ̀ndərstǽndᵻŋ ðə déɪtə ənd méɪkᵻŋ prədᵻ̀kʃənz, néɪmli ʤɛ́nərətᵻv ənd dᵻskrᵻ̀mᵻnətᵻv mɒ́dəlz. 
+bóʊθ táɪps əv mɒ́dəlz éɪm tə prədᵻ̀kt tɑ́rɡət klǽsᵻz ɡᵻ̀vən sʌm fíʧərz, jɛt ðeɪ əpróʊʧ ðᵻs tǽsk ᵻn fʌ̀ndəmɛ́ntəli dᵻstᵻ̀ŋkt wéɪz. 
+stɑ́rtᵻŋ wᵻð ʤɛ́nərətᵻv mɒ́dəlz, ðeɪ lɜ́rn ðə ʤɔ́ɪnt prɒ̀bəbᵻ̀lᵻti dᵻ̀strəbjúʃən əv ðə ᵻ̀npʊ̀t ənd áʊtpʊ̀t déɪtə, dənóʊtᵻd æz P(X, Y). 
+hír, X stǽndz fɔr ðə ᵻ̀npʊ̀t déɪtə (fíʧərz) ənd Y sᵻ̀mbəlàɪzᵻz ðə áʊtpʊ̀t déɪtə (labels). 
+ðᵻs ʤɔ́ɪnt prɒ̀bəbᵻ̀lᵻti dᵻ̀strəbjúʃən prəváɪdz ə hoʊlᵻ̀stᵻk vjú əv ðə déɪtə, æz ᵻt kǽpʧərz ðə prɒ̀bəbᵻ̀lᵻtìz əv dᵻ̀fərənt kɒ̀mbᵻnéɪʃənz əv ᵻ̀npʊ̀t ənd áʊtpʊ̀t déɪtə əkɜ́rᵻŋ təɡɛ́ðər. 
+júzᵻŋ ðə prᵻ̀nsᵻpəlz əv béɪʒən stətᵻ̀stᵻks, ʤɛ́nərətᵻv mɒ́dəlz kən bi júzd tə ɛ́stᵻmèɪt P(Y | X), ðə prɒ̀bəbᵻ̀lᵻti əv ə léɪbəl ɡᵻ̀vən ðə fíʧərz, baɪ mínz əv ðə bayes:béɪz' θɪ́rəm. 
+A prɒ́mᵻnənt kæ̀rəktərᵻ̀stᵻk əv ʤɛ́nərətᵻv mɒ́dəlz ᵻz ðɛr əbᵻ̀lᵻti tə ʤɛ́nərèɪt nu ᵻ̀nstənsᵻz əv déɪtə thət rizɛ́mbəl ðə tréɪnᵻŋ sɛ́t. 
+ðᵻs ǽtrᵻbjut|ətrᵻ̀bjut sɛ́ts ðɛm əpɑ́rt ənd méɪks ðɛm ǽplᵻkəbəl ᵻn ʌ̀nsúpərvàɪzd lɜ́rnᵻŋ tǽsks, sʌʧ æz klʌ́stərᵻŋ ɔr dᵻmɛ̀nʃənǽlᵻti rədʌ́kʃən. 
+ʤɛ́nərətᵻv mɒ́dəlz, sʌʧ æz nàɪív bayes:béɪz, ɡáʊsiən mᵻ̀ksʧər mɒ́dəlz, ənd léɪtənt dirichlet:dɪ́rᵻkleɪt æ̀ləkéɪʃən ɑr kɒ́mənli júzd əɡzǽmpəlz. 
+tɜ́rnᵻŋ aʊər ətɛ́nʃən təwɔ́rdz dᵻskrᵻ̀mᵻnətᵻv mɒ́dəlz, ʌ̀nláɪk ʤɛ́nərətᵻv mɒ́dəlz, ðiz dᵻrɛ́kli lɜ́rn ðə kəndᵻ̀ʃənəl prɒ̀bəbᵻ̀lᵻti P(Y | X), wᵻðáʊt kənsᵻ̀dərᵻŋ ðə ʤɔ́ɪnt prɒ̀bəbᵻ̀lᵻti dᵻ̀strəbjúʃən. 
+ðᵻs kæ̀rəktərᵻ̀stᵻk méɪks dᵻskrᵻ̀mᵻnətᵻv mɒ́dəlz mɔr fóʊkəst ɒn ðə báʊndəriz bitwín klǽsᵻz, túnᵻŋ ðəmsɛ́lvz tə ðə tǽsk əv dᵻstᵻ̀ŋɡwᵻʃᵻŋ wʌ́n klǽs frəm ðə ʌ́ðər ɡᵻ̀vən ðə ᵻ̀npʊ̀t fíʧərz. 
+bíᵻŋ lɛ́s kənsɜ́rnd əbaʊt háʊ ðə déɪtə wɒz ʤɛ́nərèɪtᵻd, dᵻskrᵻ̀mᵻnətᵻv mɒ́dəlz tɛ́nd tə bi mɔr flɛ́ksᵻbəl ənd kéɪpəbəl əv kriéɪtᵻŋ mɔr kɒ́mplɛks dəsᵻ̀ʒən báʊndəriz, wᵻ̀ʧ meɪ lɛ́d|líd tə bɛ́tər pərfɔ́rməns ɒn tǽsks láɪk klæ̀sᵻfᵻkéɪʃən. 
+əɡzǽmpəlz əv dᵻskrᵻ̀mᵻnətᵻv mɒ́dəlz ɑr plɛ́ntᵻfəl ənd ᵻ̀nklúd ləʤᵻ̀stᵻk rəɡrɛ́ʃən, səpɔ́rt vɛ́ktər məʃínz, ənd móʊst táɪps əv nʊ́rəl nɛ́twɜ̀rks. 
+ðɛr ɑr tréɪdɔ̀fs bitwín ʤɛ́nərətᵻv ənd dᵻskrᵻ̀mᵻnətᵻv mɒ́dəlz thət méɪk ðɛm sútᵻd fɔr dᵻ̀fərənt káɪndz əv tǽsks. 
+ʤɛ́nərətᵻv mɒ́dəlz ɑr tᵻ̀pᵻkəli bɛ́tər əkwᵻ̀pt tə hǽndəl mᵻ̀sᵻŋ déɪtə ənd kən ʤɛ́nərèɪt nu déɪtə ᵻ̀nstənsᵻz, wáɪl dᵻskrᵻ̀mᵻnətᵻv mɒ́dəlz, djú tə ðɛr fóʊkəs ɒn ðə dəsᵻ̀ʒən báʊndəri, ɑr ɔ́fən bɛ́tər æt klæ̀sᵻfᵻkéɪʃən tǽsks ənd kən prəváɪd bɛ́tər kǽləbrèɪtᵻd prɒ̀bəbᵻ̀lᵻtìz. 
+hàʊɛ́vər, ᵻt ᵻz ɔ́lsoʊ wɜ́rθ mɛ́nʃənᵻŋ thət ðiz ɑr nɒt mjúʧuəli əksklúsᵻv əpróʊʧᵻz, ənd sʌ́mtàɪmz bóʊθ kən bi júzd təɡɛ́ðər. 
+fɔr ᵻ̀nstəns, sʌm mɒ́dəlz stɑ́rt ðə lɜ́rnᵻŋ prɒ́sɛ̀s wᵻð ə ʤɛ́nərətᵻv mɒ́dəl tə ɡɛt ən ᵻnᵻ̀ʃəl ʌ̀ndərstǽndᵻŋ əv ðə déɪtə dᵻ̀strəbjúʃən ənd ðɛn rəfáɪn ðə dəsᵻ̀ʒən báʊndəriz júzᵻŋ ə dᵻskrᵻ̀mᵻnətᵻv mɒ́dəl. 
+ᵻ̀ts ᵻ̀mpɔ́rtənt tə ʌ́ndərlàɪn thət ðə ʧɔ́ɪs bitwín ʤɛ́nərətᵻv ənd dᵻskrᵻ̀mᵻnətᵻv mɒ́dəlz ᵻzənt ɔ́lwèɪz stréɪtfɔ́rwərd. 
+ᵻt ɔ́fən dəpɛ́ndz ɒn ðə spəsᵻ̀fᵻk néɪʧər əv ðə prɒ́bləm æt hǽnd, ðə kwɒ́lᵻti ənd kwɒ́ntᵻti əv əvéɪləbəl déɪtə, ðə rəkwáɪrmənt tə hǽndəl mᵻ̀sᵻŋ déɪtə, ðə níd tə ʤɛ́nərèɪt nu déɪtə ᵻ̀nstənsᵻz, ənd ðə ᵻ̀mpɔ́rtəns əv ᵻntərprɛtəbᵻ̀lᵻti. 
+ᵻn kənklúʒən, ʌ̀ndərstǽndᵻŋ ðə dᵻstᵻ̀ŋkʃən bitwín ʤɛ́nərətᵻv ənd dᵻskrᵻ̀mᵻnətᵻv mɒ́dəlz fɔ́rmz ə krúʃəl ǽspɛ̀kt əv məʃín lɜ́rnᵻŋ. 
+A θɜ́roʊ ʌ̀ndərstǽndᵻŋ əv ðiz kɒ́nsɛpts wᵻl éɪd ᵻn səlɛ́ktᵻŋ ðə móʊst əpróʊprièɪt mɒ́dəl fɔr ə ɡᵻ̀vən məʃín lɜ́rnᵻŋ tǽsk, ʌ́ltᵻmətli lídᵻŋ tə mɔr ǽkjərət ənd əfᵻ̀ʃənt prədᵻ̀ktᵻv sᵻ̀stəmz. 
+
+B002C039: bǽʧ vɜ́rsəs stoʊkǽstᵻk ɡréɪdiənt dᵻsɛ́nt. 
+ɡréɪdiənt dᵻsɛ́nt, ə fɜ́rst-ɔ́rdər ᵻ̀tərətᵻv ɒptᵻmᵻzéɪʃən ǽlɡərᵻ̀ðəm fɔr fáɪndᵻŋ ðə mᵻ̀nᵻməm əv ə fʌ́ŋkʃən, ᵻz ə kí dráɪvər bᵻháɪnd mɛ́ni məʃín lɜ́rnᵻŋ ǽlɡərᵻ̀ðəmz. 
+æt ᵻts kɔ́r, ᵻ̀ts ə weɪ tə mᵻ̀nᵻmàɪz ðə lɔ́s fʌ́ŋkʃən, wᵻð ðə ɡóʊl əv ɒ́ptᵻmàɪzᵻŋ ðə prədᵻ̀kʃənz əv ðə mɒ́dəl. 
+vɛ́riənts əv ðᵻs mɛ́θəd ɑr kǽtəɡəràɪzd praɪmɛ́rᵻli béɪst ɒn háʊ mʌʧ déɪtə wi jus|juz tə kəmpjút ðə ɡréɪdiənt əv ðə əbʤɛ́ktᵻv fʌ́ŋkʃən. 
+tú prɒ́mᵻnənt táɪps ɑr bǽʧ ɡréɪdiənt dᵻsɛ́nt ənd stoʊkǽstᵻk ɡréɪdiənt dᵻsɛ́nt. 
+bᵻɡᵻ̀nᵻŋ wᵻð bǽʧ ɡréɪdiənt dᵻsɛ́nt, ðᵻs trədᵻ̀ʃənəl fɔ́rm kəmpjúts ðə ɡréɪdiənt júzᵻŋ ðə əntáɪər déɪtəsɛ̀t. 
+ðə tɜ́rm 'bǽʧ' rəfɜ́rz tə ðə hóʊl bǽʧ əv tréɪnᵻŋ əɡzǽmpəlz. 
+ᵻt kǽlkjəlèɪts ðə ɛ́rər fɔr iʧ əɡzǽmpəl wᵻðᵻ̀n ðə tréɪnᵻŋ déɪtəsɛ̀t, bʌt óʊnli ʌ́pdèɪts ðə mɒ́dəl ǽftər ɔl tréɪnᵻŋ əɡzǽmpəlz həv bᵻn əvǽljuèɪtᵻd. 
+wʌ́n sáɪkəl θrú ðə əntáɪər tréɪnᵻŋ déɪtəsɛ̀t ᵻz kɔ́ld ə tréɪnᵻŋ ípək. 
+bǽʧ ɡréɪdiənt dᵻsɛ́nt prəváɪdz ə stéɪbəl ɛ́rər ɡréɪdiənt ənd ə stéɪbəl kənvɜ́rʤəns. 
+bʌt, ᵻt həz ə kʌ́pəl əv lᵻ̀mᵻtéɪʃənz, tú. 
+ᵻts mɛ́məri kənsʌ́mpʃən kən bi kwáɪt háɪ fɔr lɑ́rʤ déɪtəsɛ̀ts, æz ᵻt rəkwáɪərz ðə əntáɪər déɪtəsɛ̀t ᵻn mɛ́məri ənd əvéɪləbəl tə ðə ǽlɡərᵻ̀ðəm. 
+fɜ́rðər, ᵻt kən bi mʌʧ slóʊər tə kənvɜ́rʤ ɒn ðə mᵻ̀nᵻməm fɔr vɛ́ri lɑ́rʤ déɪtəsɛ̀ts bᵻkɒ́z ᵻt kǽlkjəlèɪts ɡréɪdiənts fɔr ðə əntáɪər déɪtəsɛ̀t tə pərfɔ́rm ʤəst wʌ́n ʌ́pdeɪt|əpdéɪt, fɜ̀r., ᵻt kən bi kɒ̀mpjətéɪʃənəli əkspɛ́nsᵻv. 
+ɒn ðə ʌ́ðər sáɪd əv ðə spɛ́ktrəm, wi həv stoʊkǽstᵻk ɡréɪdiənt dᵻsɛ́nt. 
+ʌ̀nláɪk ᵻts bǽʧ káʊntərpɑ̀rt, stoʊkǽstᵻk ɡréɪdiənt dᵻsɛ́nt kǽlkjəlèɪts ðə ɛ́rər ənd ʌ́pdèɪts ðə mɒ́dəl fɔr iʧ əɡzǽmpəl ᵻn ðə tréɪnᵻŋ déɪtəsɛ̀t. 
+ðə ʌ́pdeɪt|əpdéɪt əv ðə mɒ́dəl fɔr iʧ tréɪnᵻŋ əɡzǽmpəl mínz thət stoʊkǽstᵻk ɡréɪdiənt dᵻsɛ́nt kən stɑ́rt lɜ́rnᵻŋ stréɪt əwéɪ frəm ðə fɜ́rst tréɪnᵻŋ əɡzǽmpəl, ənd kən ɔ́lsoʊ spíd ʌp lɜ́rnᵻŋ θrú ᵻts háɪ fríkwənsi əv ʌ́pdèɪts. 
+hàʊɛ́vər, bᵻkɒ́z ᵻt ʌ́pdèɪts ðə mɒ́dəl soʊ fríkwəntli, ðᵻs mɛ́θəd kən lɛ́d|líd tə ə lɒ́t əv nɔ́ɪz ᵻn ðə lɜ́rnᵻŋ prɒ́sɛ̀s. 
+ðᵻs mínz thət ðə ɛ́rər ɡréɪdiənt ənd ðə mɒ́dəl ʌ́pdèɪts kən həv ə lɒ́t əv vɛ́riəns óʊvər táɪm, ənd ðə kənvɜ́rʤəns tə ðə mᵻ̀nᵻməm əv ðə ɛ́rər sɜ́rfəs kən bi ᵻ̀nkənsᵻ̀stənt. 
+ðə fáɪnəl pərǽmətərz əv ðə mɒ́dəl kən bi ɡʊ́d, bʌt nɒt ɒ́ptᵻməl. 
+ðɛ́rz ə mᵻ̀dəl ɡráʊnd bitwín ðiz tú əkstrímz, ənd ᵻ̀ts nóʊn æz mᵻ̀ni-bǽʧ ɡréɪdiənt dᵻsɛ́nt. 
+ðᵻs mɛ́θəd ɔ́fərz ə bǽləns bitwín ðə roʊbʌ́stnəs əv stoʊkǽstᵻk ɡréɪdiənt dᵻsɛ́nt ənd ðə əfᵻ̀ʃənsi əv bǽʧ ɡréɪdiənt dᵻsɛ́nt. 
+ᵻt éɪmz tə fáɪnd ə bǽləns bitwín ðə kɒ̀mpjutéɪʃənəl əfᵻ̀ʃənsi əv kəmpjútᵻŋ ðə ɡréɪdiənts óʊvər ə bǽʧ əv déɪtə ənd ðə nɔ́ɪz ənd fǽst kənvɜ́rʤəns əsóʊsièɪtᵻd wᵻð stoʊkǽstᵻk ɡréɪdiənt dᵻsɛ́nt. 
+mᵻ̀ni-bǽʧ ɡréɪdiənt dᵻsɛ́nt ᵻz ðə móʊst kɒ́mən ᵻ̀mpləmɛntéɪʃən əv ɡréɪdiənt dᵻsɛ́nt ᵻn ðə fíld əv díp lɜ́rnᵻŋ. 
+ᵻt ɔ́fərz ə ɡʊ́d kɒ́mprəmàɪz bitwín kɒ̀mpjutéɪʃənəl əfᵻ̀ʃənsi ənd kənvɜ́rʤəns prɒ́pərtiz, ənd ᵻ̀ts ðə vɛ́riənt thət júr móʊst láɪkli tə ənkáʊntər ᵻn prǽktᵻs. 
+ᵻn kənklúʒən, ðə ʧɔ́ɪs bitwín bǽʧ ɡréɪdiənt dᵻsɛ́nt ənd stoʊkǽstᵻk ɡréɪdiənt dᵻsɛ́nt dəpɛ́ndz lɑ́rʤli ɒn jɔr déɪtəsɛ̀t sáɪz, mɛ́məri lᵻ̀mᵻtéɪʃən, ənd ðə ɜ́rʤənsi əv nídᵻŋ mɒ́dəl ʌ́pdèɪts. 
+fɔr smɔ́lər déɪtəsɛ̀ts, bǽʧ ɡréɪdiənt dᵻsɛ́nt kən bi ə fízəbəl ənd əfᵻ̀ʃənt mɛ́θəd, bʌt fɔr lɑ́rʤər déɪtəsɛ̀ts, stoʊkǽstᵻk ɔr mᵻ̀ni-bǽʧ ɡréɪdiənt dᵻsɛ́nt mɛ́θədz ɑr prəfɜ́rd djú tə ðɛr háɪər kɒ̀mpjutéɪʃənəl əfᵻ̀ʃənsi ənd lɛ́s mɛ́məri júsᵻʤ. 
+æz ə məʃín lɜ́rnᵻŋ præktᵻ̀ʃənər, ʌ̀ndərstǽndᵻŋ ðiz vɛ̀riéɪʃənz ənd ðɛr tréɪdɔ̀fs ᵻz krúʃəl tə ɒ́ptᵻmàɪzᵻŋ ənd əfᵻ̀ʃəntli tréɪnᵻŋ jɔr mɒ́dəlz. 
+
+B002C040: wɜ́rd əmbɛ́dᵻŋz. 
+wɜ́rd əmbɛ́dᵻŋz, ə pᵻ̀vətəl kɒ́nsɛpt ᵻn ðə fíld əv nǽʧərəl lǽŋɡwᵻʤ prɒ́sɛsᵻŋ (NLP), dənóʊt ðə træ̀nsfərméɪʃən əv wɜ́rdz ᵻntu numɛ́rəkəl vɛ́ktərz wᵻ̀ʧ kən ðɛn bi prɒ́sɛst baɪ məʃín lɜ́rnᵻŋ ǽlɡərᵻ̀ðəmz. 
+ðᵻs rɛ̀prəzɛntéɪʃən meɪntéɪnz ðə səmǽntᵻk rəléɪʃənʃᵻ̀p bitwín wɜ́rdz, ən ǽspɛ̀kt thət méɪks ᵻt ᵻ̀nvǽljəbəl fɔr mɛ́ni lǽŋɡwᵻʤ-rəléɪtᵻd tǽsks. 
+wʌ́n kí ǽtrᵻbjut|ətrᵻ̀bjut əv wɜ́rd əmbɛ́dᵻŋz ᵻz thət ðeɪ ɛnkóʊd iʧ wɜ́rd æz ə dɛ́ns vɛ́ktər əv ríəl nʌ́mbərz. 
+kɒ́ntrɒst|kəntrǽst ðᵻs wᵻð ʌ́ðər tɛkníks láɪk wʌ́n-hɒ́t ɛnkóʊdᵻŋ, wᵻ̀ʧ próʊdus|prədús spɑ́rs vɛ́ktərz wɛ́r ðə sáɪz əv ðə vɛ́ktər dəpɛ́ndz ɒn ðə sáɪz əv ðə voʊkǽbjəlɛ̀ri. 
+wɜ́rd əmbɛ́dᵻŋz, ɒn ðə ʌ́ðər hǽnd, lɛ́d|líd tə dɛ́ns vɛ́ktərz əv fᵻ̀kst sáɪz, ɪ̀rəspɛ́ktᵻv əv ðə sáɪz əv ðə voʊkǽbjəlɛ̀ri. 
+ðᵻs trǽnslèɪts ᵻntu ə mɔr mɛ́məri-əfᵻ̀ʃənt ənd kɒ̀mpjətéɪʃənəli prɛ́fərəbəl rɛ̀prəzɛntéɪʃən. 
+tə dɛ́lv ᵻntu háʊ wɜ́rd əmbɛ́dᵻŋz prəzɜ́rv səmǽntᵻk rəléɪʃənʃᵻ̀ps, lɛ́ts lʊ́k æt ðə nóʊʃən əv vɛ́ktər spéɪs mɒ́dəlz. 
+ðə prɛ́mᵻs hír ᵻz thət ðə spéɪʃəl loʊkéɪʃən əv ðə wɜ́rd vɛ́ktərz ᵻn ðə ɛmbɛ́dᵻŋ spéɪs mɪ́rərz ðɛr səmǽntᵻk kɒ́ntɛkst. 
+fɔr ᵻ̀nstəns, wɜ́rdz wᵻð sᵻ̀mᵻlər mínᵻŋz ɑr klóʊsər təɡɛ́ðər, ənd səmǽntᵻk rəléɪʃənz kən bi kǽpʧərd baɪ vɛ́ktər ɛ̀rᵻθmɛ́tᵻk. 
+ðə féɪməs əɡzǽmpəl əv ðᵻs ᵻz "kᵻ̀ŋ" - "mǽn" + "wʊ́mən" rəzʌ́ltᵻŋ ᵻn ə vɛ́ktər vɛ́ri kloʊs|kloʊz tə "kwín". 
+ðɛr ɑr sɛ́vərəl wɛ́lnóʊn ǽlɡərᵻ̀ðəmz fɔr ʤɛ́nərèɪtᵻŋ wɜ́rd əmbɛ́dᵻŋz, əv wᵻ̀ʧ Word2Vec ənd ɡlʌ́v stǽnd áʊt. 
+Word2Vec, dəvɛ́ləpt baɪ rísərʧərz æt google:ɡúɡəl, júsᵻz áɪðər ðə kɒ́ntɛkst əv ə wɜ́rd tə prədᵻ̀kt ðə wɜ́rd ᵻ̀tsɛ́lf (kəntᵻ̀njuəs bǽɡ əv wɜ́rdz - CBOW) ɔr júsᵻz ə wɜ́rd tə prədᵻ̀kt ᵻts kɒ́ntɛkst (Skip-Gram). 
+ðᵻs ɑ́rkᵻtɛ̀kʧər əláʊz ðə mɒ́dəl tə lɜ́rn wɜ́rd vɛ́ktərz thət ɑr ɡʊ́d æt prədᵻ̀ktᵻŋ ðə kɒ́ntɛkst ᵻn wᵻ̀ʧ ə wɜ́rd əpɪ́rz, lídᵻŋ tə səmǽntᵻkəli mínᵻŋfəl əmbɛ́dᵻŋz. 
+ɡlʌ́v, ɔr ɡlóʊbəl vɛ́ktərz fɔr wɜ́rd rɛ̀prəzɛntéɪʃən, ᵻz ə mɒ́dəl dəvɛ́ləpt baɪ ðə stǽnfərd NLP ɡrúp. 
+ᵻt téɪks ə dᵻ̀fərənt əpróʊʧ baɪ fǽktərᵻŋ ðə wɜ́rd kóʊ-əkɜ́rəns méɪtrᵻks, éɪmᵻŋ tə lɛ́vərᵻʤ bóʊθ ɡlóʊbəl ənd lóʊkəl wɜ́rd júsᵻʤ stətᵻ̀stᵻks. 
+fǽsttɛ́kst, ənʌ́ðər ɛmbɛ́dᵻŋ ʤɛ̀nəréɪʃən mɒ́dəl, téɪks ðə prɒ́sɛ̀s wʌ́n stɛ́p fɜ́rðər. 
+rǽðər ðʌn óʊnli kriéɪtᵻŋ vɛ́ktərz fɔr hóʊl wɜ́rdz, fǽsttɛ́kst ɔ́lsoʊ ᵻ̀nklúdz vɛ́ktərz fɔr sʌ́b-wɜ́rdz ɔr kǽrəktər n-ɡrǽmz. 
+ðᵻs nɒt óʊnli kǽpʧərz ðə mínᵻŋ əv ʃɔ́rtər wɜ́rdz bʌt ɔ́lsoʊ ðə núɒnsᵻz wᵻðᵻ̀n lɔ́ŋɡər wɜ́rdz. 
+ənʌ́ðər kí kənsᵻ̀dəréɪʃən wɛ́n wɜ́rkᵻŋ wᵻð wɜ́rd əmbɛ́dᵻŋz ᵻz hǽndəlᵻŋ wɜ́rdz nɒt prɛ́zənt|prəzɛ́nt ᵻn ðə voʊkǽbjəlɛ̀ri, rəfɜ́rd tə æz áʊt-əv-voʊkǽbjəlɛ̀ri (OOV) wɜ́rdz. 
+ðə sʌ́b-wɜ́rd ᵻ̀nfərméɪʃən kǽpʧərd baɪ mɒ́dəlz láɪk fǽsttɛ́kst kən hɛ́lp ᵻn ʤɛ́nərèɪtᵻŋ rɛ̀prəzəntéɪʃənz fɔr ðiz OOV wɜ́rdz, méɪkᵻŋ ðɛm lɛ́s səsɛ́ptᵻbəl tə ðᵻs ᵻ̀ʃu. 
+jɛt, wɜ́rd əmbɛ́dᵻŋz həv ðɛr lᵻ̀mᵻtéɪʃənz. 
+ðeɪ ɑr ᵻnhɛ́rəntli kɒ́ntɛkst-ᵻ̀ndəpɛ́ndənt, mínᵻŋ ə sᵻ̀ŋɡəl wɜ́rd həz ðə séɪm vɛ́ktər rɛ̀prəzɛntéɪʃən rəɡɑ́rdləs əv ᵻts kɒ́ntɛkst. 
+ðᵻs bəkʌ́mz ə prɒ́bləm wᵻð hɒ́mənᵻ̀mz, wɜ́rdz spɛ́ld ðə séɪm weɪ bʌt hǽvᵻŋ dᵻ̀fərənt mínᵻŋz béɪst ɒn ðə kɒ́ntɛkst. 
+ðə ǽdvɛ̀nt əv kɒ̀ntɛ́ksʧùəl əmbɛ́dᵻŋz, sʌʧ æz ɛ́lmoʊ, BERT, ənd GPT, síks tə ǽdrɛ̀s ðᵻs lᵻ̀mᵻtéɪʃən baɪ ʤɛ́nərèɪtᵻŋ kɒ́ntɛkst-dəpɛ́ndənt wɜ́rd əmbɛ́dᵻŋz. 
+ᵻn kənklúʒən, wɜ́rd əmbɛ́dᵻŋz həv rǽdᵻkli trænsfɔ́rmd ðə lǽnskèɪp əv nǽʧərəl lǽŋɡwᵻʤ prɒ́sɛsᵻŋ, ɛnéɪbəlᵻŋ mɒ́dəlz tə ʌ̀ndərstǽnd ənd ʤɛ́nərèɪt lǽŋɡwᵻʤ wᵻð ʌ̀nprɛ́sᵻdɛ̀ntᵻd ǽkjərəsi. 
+hàʊɛ́vər, ðeɪ rɛ̀prəzɛ́nt ʤəst wʌ́n pís əv ðə pʌ́zəl, ə kəmpóʊnənt wᵻðᵻ̀n ə brɔ́dər kɒ̀nstəléɪʃən əv tɛkníks ənd tɛknɒ́ləʤiz júzd tə tíʧ məʃínz ðə ᵻ̀ntrəkəsiz əv hjúmən lǽŋɡwᵻʤ. 
+baɪ ʌ̀ndərstǽndᵻŋ ðɛr fʌ̀ŋkʃənǽlᵻti ənd ðɛr pléɪs wᵻðᵻ̀n ðᵻs kɒ̀nstəléɪʃən, ju ɑr wɛ́l ɒn jɔr weɪ tə mǽstərᵻŋ ðə fǽsᵻnèɪtᵻŋ fíld əv NLP. 
+
