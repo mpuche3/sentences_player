@@ -42,9 +42,12 @@ function get_tracks_from_text(url) {
             }
             const sentence_ = `S${Math.floor(index - first_index_book).toString().padStart(3, '0')}`
             const audioFileFullPath =  `./audio/books/${book}/${book}${chapter}${sentence_}_echo.mp3`
+            const tran = sentence.slice(0, 2) === "B0"
+                ? sentence.slice(10, undefined)
+                : sentence
             tracks.push({
                 "audioFileFullPath": audioFileFullPath,
-                "tran": sentence,
+                "tran": tran,
             })
         }
     }
