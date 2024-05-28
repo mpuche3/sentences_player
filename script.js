@@ -240,12 +240,12 @@ const FactoryAudio = function () {
 
     document.querySelector("#text").parentElement.addEventListener("click", sentence_up)
     document.querySelector("#pause").addEventListener("click", pause_play)    
-    document.querySelector("#book_up").addEventListener("click", book_down)
-    document.querySelector("#book_down").addEventListener("click", book_up)
-    document.querySelector("#chapter_up").addEventListener("click", chapter_down)
-    document.querySelector("#chapter_down").addEventListener("click", chapter_up)
-    document.querySelector("#sentence_up").addEventListener("click", sentence_down)
-    document.querySelector("#sentence_down").addEventListener("click", sentence_up)
+    document.querySelector("#book_up").addEventListener("click", book_up)
+    document.querySelector("#book_down").addEventListener("click", book_down)
+    document.querySelector("#chapter_up").addEventListener("click", chapter_up)
+    document.querySelector("#chapter_down").addEventListener("click", chapter_down)
+    document.querySelector("#sentence_up").addEventListener("click", sentence_up)
+    document.querySelector("#sentence_down").addEventListener("click", sentence_down)
     
     document.addEventListener('keydown', function(event) {
         if (event.key === 'Enter') {sentence_up();}
