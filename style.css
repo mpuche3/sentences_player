@@ -10,7 +10,7 @@ body {
     align-items: center;
     height: 100vh;
     /*font-family: Arial, sans-serif;*/
-    font-family: Consolas, monospace;
+    font-family: Consolas, Arial, sans-serif;
     /*background-color: black;*/
     background-color: rgb(200, 180, 150);;
     color: black; /* Optional: Change text color to white for better contrast */
