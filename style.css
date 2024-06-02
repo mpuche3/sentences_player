@@ -11,8 +11,9 @@ body {
     height: 100vh;
     /*font-family: Arial, sans-serif;*/
     font-family: Consolas, monospace;
-    background-color: black;
-    color: white; /* Optional: Change text color to white for better contrast */
+    /*background-color: black;*/
+    background-color: #6b6464;
+    color: black; /* Optional: Change text color to white for better contrast */
 }
 
 .container {
@@ -28,8 +29,8 @@ body {
     justify-content: center;
     align-items: center;
     font-size: 1.8rem;
-    color: #ffffff;
-    background-color:#6b6464;
+    /*color: black;*/
+    background-color:rgb(112, 66, 20); /* #6b6464; */
     border: none;
     cursor: pointer;
     border: 1px solid #ffffff;
