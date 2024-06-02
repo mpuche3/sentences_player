@@ -12,7 +12,7 @@ body {
     /*font-family: Arial, sans-serif;*/
     font-family: Consolas, monospace;
     /*background-color: black;*/
-    background-color: #6b6464;
+    background-color: rgb(200, 180, 150);;
     color: black; /* Optional: Change text color to white for better contrast */
 }
 
@@ -29,11 +29,11 @@ body {
     justify-content: center;
     align-items: center;
     font-size: 1.8rem;
-    /*color: black;*/
-    background-color:rgb(112, 66, 20); /* #6b6464; */
+    color: rgb(82, 73, 61);
+    background-color:rgb(200, 180, 150); /* #6b6464; */
     border: none;
     cursor: pointer;
-    border: 1px solid #ffffff;
+    border: 1px solid rgb(147, 132, 110);;
 }
 
 /*
@@ -50,12 +50,13 @@ body {
 .button-row-title {
     display: flex;
     height: 10vh;
+    font-weight: bold;
 }
 
 .button-row-text {
     display: flex;
     flex-grow: 8;
-
+    color: black;
 }
 
 .button-col1 {
