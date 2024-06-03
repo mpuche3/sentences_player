@@ -238,7 +238,8 @@ const FactoryAudio = function () {
         play();
     }
 
-    function toggleButtons() {
+    function toggleButtons(event) {
+        event.stopPropagation()
         var element = document.getElementById('UpDownButtons');
         if (element.style.display === 'none') {
             element.style.display = 'flex';
@@ -256,6 +257,8 @@ const FactoryAudio = function () {
     document.querySelector("#chapter_down").addEventListener("click", chapter_down)
     document.querySelector("#sentence_up").addEventListener("click", sentence_up)
     document.querySelector("#sentence_down").addEventListener("click", sentence_down)
+    document.querySelector("#chapter_up").addEventListener("dblclick", _ => {for (let i = 0; i < 10; i++) chapter_up();})
+    document.querySelector("#chapter_down").addEventListener("dblclick", _ => {for (let i = 0; i < 10; i++) chapter_down();})
     document.addEventListener('keydown', function(event) {
         if (event.key === 'Enter') {sentence_up();}
     });
