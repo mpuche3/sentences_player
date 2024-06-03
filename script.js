@@ -149,87 +149,116 @@ const FactoryAudio = function () {
 
     function book_up(){
         pause_play()
-        let tmp = ""
-        tmp = tracks[itracks]
-        tmp = tmp["audioFileFullPath"]
-        tmp = tmp.split("/")
-        tmp = tmp.slice(-1)
-        tmp = tmp[0]
-        tmp = tmp.split("_")
-        tmp = tmp[0]
-
-        const book_chapter_sentence = tmp
-        const book = book_chapter_sentence.slice(0, 4)
-        const books = Object.keys(map_book_itracker)
-        const iBook = books.indexOf(book)
-        const new_ibook = iBook + 1  !== books.length
-            ? iBook + 1
-            : iBook
-        const new_book = books[new_ibook]
-        const new_itracks = map_book_itracker[new_book]
-        itracks = new_itracks
+        const current_Book = tracks[itracks]["audioFileFullPath"].split("/").slice(-1)[0].split("_")[0].slice(0, 4)
+        let next_itracks = itracks
+        while (next_itracks < tracks.length - 1){
+            next_itracks += 1
+            const next_Book = tracks[next_itracks]["audioFileFullPath"].split("/").slice(-1)[0].split("_")[0].slice(0, 4)
+            const next_Chapter = tracks[next_itracks]["audioFileFullPath"].split("/").slice(-1)[0].split("_")[0].slice(4, 8)
+            const next_Sentence = tracks[next_itracks]["audioFileFullPath"].split("/").slice(-1)[0].split("_")[0].slice(8, 12)
+            if (current_Book !== next_Book && "S000" === next_Sentence && "C001" === next_Chapter){
+                itracks = next_itracks
+                play()
+                return
+            }
+        }
         play()
     }
 
     function book_down(){
         pause_play()
-        const book_chapter_sentence = tracks[itracks]["audioFileFullPath"].split("/").slice(-1)[0].split("_")[0]
-        const book = book_chapter_sentence.slice(0, 4)
-        const books = Object.keys(map_book_itracker)
-        const iBook = books.indexOf(book)
-        const new_ibook = iBook - 1  !== -1
-            ? iBook - 1
-            : iBook
-        const new_book = books[new_ibook]
-        const new_itracks = map_book_itracker[new_book]
-        itracks = new_itracks
+        const current_Book = tracks[itracks]["audioFileFullPath"].split("/").slice(-1)[0].split("_")[0].slice(0, 4)
+        let loopCount = 0
+        let next_itracks = itracks
+        while (loopCount < 10000){
+            loopCount += 1
+            next_itracks -= 1
+            if (next_itracks < 0) {return}
+            const next_Book = tracks[next_itracks]["audioFileFullPath"].split("/").slice(-1)[0].split("_")[0].slice(0, 4)
+            const next_Chapter = tracks[next_itracks]["audioFileFullPath"].split("/").slice(-1)[0].split("_")[0].slice(4, 8)
+            const next_Sentence = tracks[next_itracks]["audioFileFullPath"].split("/").slice(-1)[0].split("_")[0].slice(8, 12)
+            if (current_Book !== next_Book && "S000" === next_Sentence && "C001" === next_Chapter){
+                itracks = next_itracks
+                play()
+                return
+            }
+        }
         play()
     }
 
     function chapter_up(){
-        pause_play()
-        const book_chapter_sentence = tracks[itracks]["audioFileFullPath"].split("/").slice(-1)[0].split("_")[0]
-        const book_chapter = book_chapter_sentence.slice(0, 8)
-        const bookChapters = Object.keys(map_bookChapter_itracker)
-        const iBookChapter = bookChapters.indexOf(book_chapter)
-        const new_iBookChapter= iBookChapter + 1  !== bookChapters.length
-            ? iBookChapter + 1
-            : iBookChapter
-        const new_BookChapter = bookChapters[new_iBookChapter]
-        const new_itracks = map_bookChapter_itracker[new_BookChapter]
-        itracks = new_itracks
-        play()
+        const current_Book = tracks[itracks]["audioFileFullPath"].split("/").slice(-1)[0].split("_")[0].slice(0, 4)
+        const current_Chapter = tracks[itracks]["audioFileFullPath"].split("/").slice(-1)[0].split("_")[0].slice(4, 8)
+        let loopCount = 0
+        let next_itracks = itracks
+        while (loopCount < 1000){
+            loopCount += 1
+            next_itracks += 1
+            const next_Book = tracks[next_itracks]["audioFileFullPath"].split("/").slice(-1)[0].split("_")[0].slice(0, 4)
+            const next_Chapter = tracks[next_itracks]["audioFileFullPath"].split("/").slice(-1)[0].split("_")[0].slice(4, 8)
+            if (current_Book !== next_Book){
+                return
+            }
+            if (current_Chapter !== next_Chapter){
+                itracks = next_itracks
+                play()
+                return
+            }
+        }
     }
 
     function chapter_down(){
-        pause_play()
-        const book_chapter_sentence = tracks[itracks]["audioFileFullPath"].split("/").slice(-1)[0].split("_")[0]
-        const book_chapter = book_chapter_sentence.slice(0, 8)
-        const bookChapters = Object.keys(map_bookChapter_itracker)
-        const iBookChapter = bookChapters.indexOf(book_chapter)
-        const new_iBookChapter= iBookChapter - 1  !== -1
-            ? iBookChapter - 1
-            : iBookChapter
-        const new_BookChapter = bookChapters[new_iBookChapter]
-        const new_itracks = map_bookChapter_itracker[new_BookChapter]
-        itracks = new_itracks
-        play()
+        const current_Book = tracks[itracks]["audioFileFullPath"].split("/").slice(-1)[0].split("_")[0].slice(0, 4)
+        const current_Chapter = tracks[itracks]["audioFileFullPath"].split("/").slice(-1)[0].split("_")[0].slice(4, 8)
+        let loopCount = 0
+        let next_itracks = itracks
+        if (next_itracks < 0) {return}
+        while (loopCount < 1000){
+            loopCount += 1
+            next_itracks -= 1
+            const next_Book = tracks[next_itracks]["audioFileFullPath"].split("/").slice(-1)[0].split("_")[0].slice(0, 4)
+            const next_Chapter = tracks[next_itracks]["audioFileFullPath"].split("/").slice(-1)[0].split("_")[0].slice(4, 8)
+            const next_Sentence = tracks[next_itracks]["audioFileFullPath"].split("/").slice(-1)[0].split("_")[0].slice(8, 12)
+            if (current_Book !== next_Book){
+                return
+            }
+            if (current_Chapter !== next_Chapter && "S000" === next_Sentence){
+                itracks = next_itracks
+                play()
+                return
+            }
+        }
     }
 
-    function play_next(){
-        pause_play()
-        itracks += 1;
-        if (itracks === tracks.length) {
-            itracks = 0
-        };
-        play();
-    }
+    // function chapter_down(){
+    //     pause_play()
+    //     const book_chapter_sentence = tracks[itracks]["audioFileFullPath"].split("/").slice(-1)[0].split("_")[0]
+    //     const book_chapter = book_chapter_sentence.slice(0, 8)
+    //     const bookChapters = Object.keys(map_bookChapter_itracker)
+    //     const iBookChapter = bookChapters.indexOf(book_chapter)
+    //     const new_iBookChapter= iBookChapter - 1  !== -1
+    //         ? iBookChapter - 1
+    //         : iBookChapter
+    //     const new_BookChapter = bookChapters[new_iBookChapter]
+    //     const new_itracks = map_bookChapter_itracker[new_BookChapter]
+    //     itracks = new_itracks
+    //     play()
+    // }
+
+    // function play_next(){
+    //     pause_play()
+    //     itracks += 1;
+    //     if (itracks === tracks.length) {
+    //         itracks = 0
+    //     };
+    //     play();
+    // }
 
     function sentence_up(){
         pause_play()
         itracks += 1;
         if (itracks === tracks.length) {
-            itracks = 0
+            itracks = tracks.length - 1
         };
         play();
     }
@@ -256,54 +285,30 @@ const FactoryAudio = function () {
     document.querySelector("#title").addEventListener("click", toggleButtons)
     document.querySelector("#text").parentElement.addEventListener("click", sentence_up)
     document.querySelector("#pause").addEventListener("click", pause_play)    
-    // document.querySelector("#book_up").addEventListener("click", book_up)
-    // document.querySelector("#book_down").addEventListener("click", book_down)
-    // document.querySelector("#chapter_up").addEventListener("click", chapter_up)
-    // document.querySelector("#chapter_down").addEventListener("click", chapter_down)
-    // document.querySelector("#sentence_up").addEventListener("click", sentence_up)
-    // document.querySelector("#sentence_down").addEventListener("click", sentence_down)
     document.addEventListener('keydown', function(event) {
         if (event.key === 'Enter') {sentence_up();}
     });
 
     function navegation_functionality(elementId, func){
-        const max_delay = 600;
-        const min_delay = 30;
-        let timeoutId = null;
-        let buttonDown = false;
-        let delay = max_delay;
-        let acceleration = 100;
-
-        function executeFunction() {
-            func();
-            if (buttonDown) {
-              delay -= acceleration;
-              if (delay < 10) {
-                delay = min_delay;
-              }
-              timeoutId = setTimeout(executeFunction, delay);
+        let startTime = 0;
+        document.querySelector(`#${elementId}`).addEventListener("click", event => {
+            func()
+            if (startTime === 0) {
+                startTime = new Date().getTime();
+            } else {
+                const endTime = new Date().getTime();
+                const timeDiff = endTime - startTime;
+                console.log(`Time between clicks: ${timeDiff} ms`);
+                let repeat = 0
+                if (timeDiff < 150) {repeat = 19}
+                if (timeDiff < 250) {repeat = 9}
+                const range = Array.from({ length: repeat })
+                for (const _ of range) {
+                    func()
+                }
+                startTime  = endTime
             }
-        }
-
-        //document.querySelector(`#${elementId}`).addEventListener("click", func)
-
-        document.querySelector(`#${elementId}`).addEventListener('mousedown', () => {
-            buttonDown = true;
-            executeFunction();
-        });
-        
-        document.querySelector(`#${elementId}`).addEventListener('mouseup', () => {
-            buttonDown = false;
-            clearTimeout(timeoutId);
-            delay = max_delay;
-        });  
-          
-        document.querySelector(`#${elementId}`).addEventListener('mouseleave', () => {
-            buttonDown = false;
-            clearTimeout(timeoutId);
-            delay = max_delay;
-        });
-
+        })
     }
 
     navegation_functionality("book_up", book_up)
@@ -312,11 +317,7 @@ const FactoryAudio = function () {
     navegation_functionality("chapter_down", chapter_down)
     navegation_functionality("sentence_up", sentence_up)
     navegation_functionality("sentence_down", sentence_down)
-
-
-
     pause_play()
-
 
     return {
         audio, 
