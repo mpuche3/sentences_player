@@ -33,7 +33,7 @@ body {
     background-color:rgb(200, 180, 150); /* #6b6464; */
     border: none;
     cursor: pointer;
-    border: 1px solid rgb(147, 132, 110);;
+    /*border: 1px solid rgb(147, 132, 110);*/
 }
 
 /*
@@ -43,13 +43,13 @@ body {
 */
 
 .button-row-buttons {
-    display: flex;
-    height: 15vh;
+    display: None;
+    height: 100px;
 }
 
 .button-row-title {
     display: flex;
-    height: 10vh;
+    height: 70px;
     font-weight: bold;
 }
 
@@ -60,7 +60,8 @@ body {
 }
 
 .button-col1 {
-    flex-grow: 1;
+    flex-basis: 60px;
+    /*flex-grow: 1;8*/
     display: flex;
     flex-direction: column;
 }
