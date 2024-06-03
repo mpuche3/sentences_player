@@ -148,6 +148,7 @@ const FactoryAudio = function () {
     }
 
     function book_up(){
+        pause_play()
         let tmp = ""
         tmp = tracks[itracks]
         tmp = tmp["audioFileFullPath"]
@@ -171,6 +172,7 @@ const FactoryAudio = function () {
     }
 
     function book_down(){
+        pause_play()
         const book_chapter_sentence = tracks[itracks]["audioFileFullPath"].split("/").slice(-1)[0].split("_")[0]
         const book = book_chapter_sentence.slice(0, 4)
         const books = Object.keys(map_book_itracker)
@@ -185,6 +187,7 @@ const FactoryAudio = function () {
     }
 
     function chapter_up(){
+        pause_play()
         const book_chapter_sentence = tracks[itracks]["audioFileFullPath"].split("/").slice(-1)[0].split("_")[0]
         const book_chapter = book_chapter_sentence.slice(0, 8)
         const bookChapters = Object.keys(map_bookChapter_itracker)
@@ -199,6 +202,7 @@ const FactoryAudio = function () {
     }
 
     function chapter_down(){
+        pause_play()
         const book_chapter_sentence = tracks[itracks]["audioFileFullPath"].split("/").slice(-1)[0].split("_")[0]
         const book_chapter = book_chapter_sentence.slice(0, 8)
         const bookChapters = Object.keys(map_bookChapter_itracker)
@@ -231,6 +235,7 @@ const FactoryAudio = function () {
     }
 
     function sentence_down(){
+        pause_play()
         itracks -= 1;
         if (itracks < 0) {
             itracks = 0
@@ -251,17 +256,58 @@ const FactoryAudio = function () {
     document.querySelector("#title").addEventListener("click", toggleButtons)
     document.querySelector("#text").parentElement.addEventListener("click", sentence_up)
     document.querySelector("#pause").addEventListener("click", pause_play)    
-    document.querySelector("#book_up").addEventListener("click", book_up)
-    document.querySelector("#book_down").addEventListener("click", book_down)
-    document.querySelector("#chapter_up").addEventListener("click", chapter_up)
-    document.querySelector("#chapter_down").addEventListener("click", chapter_down)
-    document.querySelector("#sentence_up").addEventListener("click", sentence_up)
-    document.querySelector("#sentence_down").addEventListener("click", sentence_down)
-    document.querySelector("#chapter_up").addEventListener("dblclick", _ => {for (let i = 0; i < 10; i++) chapter_up();})
-    document.querySelector("#chapter_down").addEventListener("dblclick", _ => {for (let i = 0; i < 10; i++) chapter_down();})
+    // document.querySelector("#book_up").addEventListener("click", book_up)
+    // document.querySelector("#book_down").addEventListener("click", book_down)
+    // document.querySelector("#chapter_up").addEventListener("click", chapter_up)
+    // document.querySelector("#chapter_down").addEventListener("click", chapter_down)
+    // document.querySelector("#sentence_up").addEventListener("click", sentence_up)
+    // document.querySelector("#sentence_down").addEventListener("click", sentence_down)
     document.addEventListener('keydown', function(event) {
         if (event.key === 'Enter') {sentence_up();}
     });
+
+    function navegation_functionality(elementId, func){
+        const max_delay = 400;
+        const min_delay = 20;
+        let timeoutId = null;
+        let buttonDown = false;
+        let delay = max_delay;
+        let acceleration = 40;
+
+        function executeFunction() {
+            func();
+            if (buttonDown) {
+              delay -= acceleration;
+              if (delay < 10) {
+                delay = min_delay;
+              }
+              timeoutId = setTimeout(executeFunction, delay);
+            }
+        }
+
+        //document.querySelector(`#${elementId}`).addEventListener("click", func)
+
+        document.querySelector(`#${elementId}`).addEventListener('mousedown', () => {
+            buttonDown = true;
+            executeFunction();
+        });
+        
+        document.querySelector(`#${elementId}`).addEventListener('mouseup', () => {
+            buttonDown = false;
+            clearTimeout(timeoutId);
+            delay = max_delay;
+        });  
+
+    }
+
+    navegation_functionality("book_up", book_up)
+    navegation_functionality("book_down", book_down)
+    navegation_functionality("chapter_up", chapter_up)
+    navegation_functionality("chapter_down", chapter_down)
+    navegation_functionality("sentence_up", sentence_up)
+    navegation_functionality("sentence_down", sentence_down)
+
+
 
     pause_play()
 
