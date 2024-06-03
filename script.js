@@ -267,12 +267,12 @@ const FactoryAudio = function () {
     });
 
     function navegation_functionality(elementId, func){
-        const max_delay = 400;
-        const min_delay = 20;
+        const max_delay = 600;
+        const min_delay = 30;
         let timeoutId = null;
         let buttonDown = false;
         let delay = max_delay;
-        let acceleration = 40;
+        let acceleration = 100;
 
         function executeFunction() {
             func();
@@ -297,6 +297,12 @@ const FactoryAudio = function () {
             clearTimeout(timeoutId);
             delay = max_delay;
         });  
+          
+        document.querySelector(`#${elementId}`).addEventListener('mouseleave', () => {
+            buttonDown = false;
+            clearTimeout(timeoutId);
+            delay = max_delay;
+        });
 
     }
 
