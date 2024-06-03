@@ -74,81 +74,54 @@ function get_tracks(){
     return tracks
 }
 
-console.log(get_tracks())
-
-function get_maps_itracker(tracks){
-    const map_book_itracker = {}
-    const map_bookChapter_itracker = {}
-    tracks.forEach((item, itracker) => {
-        const path = item["audioFileFullPath"]
-        const filename = path.split("/").slice(-1)[0].split("_")[0]
-        const book = String(filename.slice(0, 4))
-        const chapter = String(filename.slice(0, 8))
-        const sentence = String(filename.slice(0, 12))
-        map_book_itracker[book] = Math.min(
-            map_book_itracker[book] ?? Number.MAX_SAFE_INTEGER,
-            itracker
-        )
-        map_bookChapter_itracker[chapter] = Math.min(
-            map_bookChapter_itracker[chapter] ?? Number.MAX_SAFE_INTEGER, 
-            itracker
-        )
-    })
-    return [
-        map_book_itracker, 
-        map_bookChapter_itracker, 
-    ]
-}
-
 const FactoryAudio = function () {
+    const playbackRate = 0.8
     const tracks = get_tracks()
-    const [
-        map_book_itracker, 
-        map_bookChapter_itracker, 
-    ] = get_maps_itracker(tracks)
-
+    const audios = []
     let itracks = 0
+    let isRepeat = false
+    let playPromise
     let audio = document.createElement('audio'); 
-    // let promisePlay;
-    // let status = "PAUSED";
-
     update_title(itracks)
 
-    function playAudio() { 
-        audio.addEventListener('ended', function() {
-            setTimeout(() => {
-                audio.play();
-            }, 600);
-        });
-        audio.play();
-    }
-
-    function update_title(itracks) {
+    function update_title() {
         const book_chapter = tracks[itracks]["audioFileFullPath"].split("/").slice(-1)[0].split("_")[0]
         const text = tracks[itracks]["tran"]
         document.querySelector("#title").innerHTML = `${book_chapter}`
         document.querySelector("#text").innerHTML = `${text}`
     }
 
-    function play() {
-        const playbackRate = 0.8
+    function runAfterAudioEnded(event) {
+        setTimeout(function () {
+            if (isRepeat === false){
+                itracks += 1
+            }
+            play()
+        }, 500)
+    }
+
+    function play(){
+        update_title();
         const audioFileFullPath = tracks[itracks]["audioFileFullPath"];
-        update_title(itracks);
-        audio.src = audioFileFullPath;
+        const audio = new Audio(audioFileFullPath);
         audio.playbackRate = playbackRate;
-        audio.pause();
-        // audio.loop = true;
-        // promisePlay = audio.play();
-        // status = "PLAYING";
-        playAudio()
+        audios.map(audio => {
+            audio.pause();
+        })
+        document.querySelector("#pause").innerHTML = "‖"
+        audio.play()
+        audios.push(audio)
+        audio.addEventListener("ended", runAfterAudioEnded)
     }
 
     function pause_play() {
-        audio.pause();
+        document.querySelector("#pause").innerHTML = "▷"
+        audios.map(audio => {
+            audio.pause();
+        })
     }
 
     function book_up(){
-        pause_play()
         const current_Book = tracks[itracks]["audioFileFullPath"].split("/").slice(-1)[0].split("_")[0].slice(0, 4)
         let next_itracks = itracks
         while (next_itracks < tracks.length - 1){
@@ -156,17 +129,15 @@ const FactoryAudio = function () {
             const next_Book = tracks[next_itracks]["audioFileFullPath"].split("/").slice(-1)[0].split("_")[0].slice(0, 4)
             const next_Chapter = tracks[next_itracks]["audioFileFullPath"].split("/").slice(-1)[0].split("_")[0].slice(4, 8)
             const next_Sentence = tracks[next_itracks]["audioFileFullPath"].split("/").slice(-1)[0].split("_")[0].slice(8, 12)
-            if (current_Book !== next_Book && "S000" === next_Sentence && "C001" === next_Chapter){
+            if (current_Book !== next_Book && "S000" === next_Sentence && "C000" === next_Chapter){
                 itracks = next_itracks
                 play()
                 return
             }
         }
-        play()
     }
 
     function book_down(){
-        pause_play()
         const current_Book = tracks[itracks]["audioFileFullPath"].split("/").slice(-1)[0].split("_")[0].slice(0, 4)
         let loopCount = 0
         let next_itracks = itracks
@@ -177,13 +148,12 @@ const FactoryAudio = function () {
             const next_Book = tracks[next_itracks]["audioFileFullPath"].split("/").slice(-1)[0].split("_")[0].slice(0, 4)
             const next_Chapter = tracks[next_itracks]["audioFileFullPath"].split("/").slice(-1)[0].split("_")[0].slice(4, 8)
             const next_Sentence = tracks[next_itracks]["audioFileFullPath"].split("/").slice(-1)[0].split("_")[0].slice(8, 12)
-            if (current_Book !== next_Book && "S000" === next_Sentence && "C001" === next_Chapter){
+            if (current_Book !== next_Book && "S000" === next_Sentence && "C000" === next_Chapter){
                 itracks = next_itracks
                 play()
                 return
             }
         }
-        play()
     }
 
     function chapter_up(){
@@ -230,46 +200,23 @@ const FactoryAudio = function () {
         }
     }
 
-    // function chapter_down(){
-    //     pause_play()
-    //     const book_chapter_sentence = tracks[itracks]["audioFileFullPath"].split("/").slice(-1)[0].split("_")[0]
-    //     const book_chapter = book_chapter_sentence.slice(0, 8)
-    //     const bookChapters = Object.keys(map_bookChapter_itracker)
-    //     const iBookChapter = bookChapters.indexOf(book_chapter)
-    //     const new_iBookChapter= iBookChapter - 1  !== -1
-    //         ? iBookChapter - 1
-    //         : iBookChapter
-    //     const new_BookChapter = bookChapters[new_iBookChapter]
-    //     const new_itracks = map_bookChapter_itracker[new_BookChapter]
-    //     itracks = new_itracks
-    //     play()
-    // }
-
-    // function play_next(){
-    //     pause_play()
-    //     itracks += 1;
-    //     if (itracks === tracks.length) {
-    //         itracks = 0
-    //     };
-    //     play();
-    // }
-
     function sentence_up(){
-        pause_play()
         itracks += 1;
         if (itracks === tracks.length) {
             itracks = tracks.length - 1
+        } else {
+           play(); 
         };
-        play();
+        
     }
 
     function sentence_down(){
-        pause_play()
         itracks -= 1;
         if (itracks < 0) {
             itracks = 0
+        } else {
+            play();
         };
-        play();
     }
 
     function toggleButtons(event) {
@@ -282,11 +229,46 @@ const FactoryAudio = function () {
         }
     }
 
+    function togglePlayPause() {
+        if (this.innerHTML === "‖") {
+            this.innerHTML = "▷";
+            pause_play()
+          } else {
+            this.innerHTML = "‖";
+
+            play()
+          }
+    }
+
+    function toggleRepeat() {
+        if (this.innerHTML === "↺") {
+            this.innerHTML = "→";
+            isRepeat = false
+          } else {
+            this.innerHTML = "↺";
+            isRepeat = true
+          }
+    }
+
+    
     document.querySelector("#title").addEventListener("click", toggleButtons)
-    document.querySelector("#text").parentElement.addEventListener("click", sentence_up)
-    document.querySelector("#pause").addEventListener("click", pause_play)    
+    document.querySelector("#text").parentElement.addEventListener("click", function (){
+        if (document.querySelector("#repeat").innerHTML === "↺"){
+            sentence_up()
+        } else {
+            togglePlayPause()
+        }
+    })
+    document.getElementById("pause").addEventListener("click", togglePlayPause);
+    document.getElementById("repeat").addEventListener("click", toggleRepeat);
     document.addEventListener('keydown', function(event) {
-        if (event.key === 'Enter') {sentence_up();}
+        if (event.key === 'Enter') { 
+            if (document.querySelector("#repeat").innerHTML === "↺"){
+                sentence_up()
+            } else {
+                togglePlayPause()
+            }
+        }
     });
 
     function navegation_functionality(elementId, func){
@@ -298,7 +280,6 @@ const FactoryAudio = function () {
             } else {
                 const endTime = new Date().getTime();
                 const timeDiff = endTime - startTime;
-                console.log(`Time between clicks: ${timeDiff} ms`);
                 let repeat = 0
                 if (timeDiff < 150) {repeat = 19}
                 if (timeDiff < 250) {repeat = 9}
@@ -322,8 +303,6 @@ const FactoryAudio = function () {
     return {
         audio, 
         tracks, 
-        map_book_itracker, 
-        map_bookChapter_itracker, 
     }
 }
 
