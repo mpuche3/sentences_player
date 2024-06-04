@@ -80,24 +80,23 @@ const FactoryAudio = function () {
     const audios = []
     let itracks = 0
     let isRepeat = false
-    let playPromise
     let audio = document.createElement('audio'); 
     update_title(itracks)
 
     function update_title() {
-        const book_chapter = tracks[itracks]["audioFileFullPath"].split("/").slice(-1)[0].split("_")[0]
+        const book_chaper = tracks[itracks]["audioFileFullPath"].split("/").slice(-1)[0].split("_")[0]
         const text = tracks[itracks]["tran"]
-        document.querySelector("#title").innerHTML = `${book_chapter}`
+        document.querySelector("#title").innerHTML = `${book_chaper}`
         document.querySelector("#text").innerHTML = `${text}`
     }
 
-    function runAfterAudioEnded(event) {
+    function runAfterAudioEnded() {
         setTimeout(function () {
             if (isRepeat === false){
                 itracks += 1
             }
             play()
-        }, 500)
+        }, 600)
     }
 
     function play(){
@@ -121,15 +120,30 @@ const FactoryAudio = function () {
         })
     }
 
+    function getBook(itracks){
+        const book = tracks[itracks]["audioFileFullPath"].split("/").slice(-1)[0].split("_")[0].slice(0, 4)
+        return book
+    }
+
+    function getChapter(itracks){
+        const chapter = tracks[itracks]["audioFileFullPath"].split("/").slice(-1)[0].split("_")[0].slice(4, 8)
+        return chapter
+    }
+
+    function getSentence(itracks){
+        const sentence = tracks[itracks]["audioFileFullPath"].split("/").slice(-1)[0].split("_")[0].slice(8, 12)
+        return sentence
+    }
+
     function book_up(){
-        const current_Book = tracks[itracks]["audioFileFullPath"].split("/").slice(-1)[0].split("_")[0].slice(0, 4)
+        const current_book = getBook(itracks)
         let next_itracks = itracks
         while (next_itracks < tracks.length - 1){
             next_itracks += 1
-            const next_Book = tracks[next_itracks]["audioFileFullPath"].split("/").slice(-1)[0].split("_")[0].slice(0, 4)
-            const next_Chapter = tracks[next_itracks]["audioFileFullPath"].split("/").slice(-1)[0].split("_")[0].slice(4, 8)
-            const next_Sentence = tracks[next_itracks]["audioFileFullPath"].split("/").slice(-1)[0].split("_")[0].slice(8, 12)
-            if (current_Book !== next_Book && "S000" === next_Sentence && "C000" === next_Chapter){
+            const next_book = getBook(next_itracks)
+            const next_chaper = getChapter(next_itracks)
+            const next_sentence = getSentence(next_itracks)
+            if (current_book !== next_book && "S000" === next_sentence && "C000" === next_chaper){
                 itracks = next_itracks
                 play()
                 return
@@ -138,17 +152,14 @@ const FactoryAudio = function () {
     }
 
     function book_down(){
-        const current_Book = tracks[itracks]["audioFileFullPath"].split("/").slice(-1)[0].split("_")[0].slice(0, 4)
-        let loopCount = 0
+        const current_book = getBook(itracks)
         let next_itracks = itracks
-        while (loopCount < 10000){
-            loopCount += 1
+        while (0 < next_itracks){
             next_itracks -= 1
-            if (next_itracks < 0) {return}
-            const next_Book = tracks[next_itracks]["audioFileFullPath"].split("/").slice(-1)[0].split("_")[0].slice(0, 4)
-            const next_Chapter = tracks[next_itracks]["audioFileFullPath"].split("/").slice(-1)[0].split("_")[0].slice(4, 8)
-            const next_Sentence = tracks[next_itracks]["audioFileFullPath"].split("/").slice(-1)[0].split("_")[0].slice(8, 12)
-            if (current_Book !== next_Book && "S000" === next_Sentence && "C000" === next_Chapter){
+            const next_book = getBook(next_itracks)
+            const next_chaper = getChapter(next_itracks)
+            const next_sentence = getSentence(next_itracks)
+            if (current_book !== next_book && "S000" === next_sentence && "C000" === next_chaper){
                 itracks = next_itracks
                 play()
                 return
@@ -157,19 +168,17 @@ const FactoryAudio = function () {
     }
 
     function chapter_up(){
-        const current_Book = tracks[itracks]["audioFileFullPath"].split("/").slice(-1)[0].split("_")[0].slice(0, 4)
-        const current_Chapter = tracks[itracks]["audioFileFullPath"].split("/").slice(-1)[0].split("_")[0].slice(4, 8)
-        let loopCount = 0
+        const current_book = getBook(itracks)
+        const current_chaper = getChapter(itracks)
         let next_itracks = itracks
-        while (loopCount < 1000){
-            loopCount += 1
+        while (itracks < tracks.length - 1){
             next_itracks += 1
-            const next_Book = tracks[next_itracks]["audioFileFullPath"].split("/").slice(-1)[0].split("_")[0].slice(0, 4)
-            const next_Chapter = tracks[next_itracks]["audioFileFullPath"].split("/").slice(-1)[0].split("_")[0].slice(4, 8)
-            if (current_Book !== next_Book){
+            const next_book = getBook(next_itracks)
+            const next_chaper = getChapter(next_itracks)
+            if (current_book !== next_book){
                 return
             }
-            if (current_Chapter !== next_Chapter){
+            if (current_chaper !== next_chaper){
                 itracks = next_itracks
                 play()
                 return
@@ -178,21 +187,18 @@ const FactoryAudio = function () {
     }
 
     function chapter_down(){
-        const current_Book = tracks[itracks]["audioFileFullPath"].split("/").slice(-1)[0].split("_")[0].slice(0, 4)
-        const current_Chapter = tracks[itracks]["audioFileFullPath"].split("/").slice(-1)[0].split("_")[0].slice(4, 8)
-        let loopCount = 0
+        const current_book = getBook(itracks)
+        const current_chaper = getChapter(itracks)
         let next_itracks = itracks
-        if (next_itracks < 0) {return}
-        while (loopCount < 1000){
-            loopCount += 1
+        while (0 < next_itracks){
             next_itracks -= 1
-            const next_Book = tracks[next_itracks]["audioFileFullPath"].split("/").slice(-1)[0].split("_")[0].slice(0, 4)
-            const next_Chapter = tracks[next_itracks]["audioFileFullPath"].split("/").slice(-1)[0].split("_")[0].slice(4, 8)
-            const next_Sentence = tracks[next_itracks]["audioFileFullPath"].split("/").slice(-1)[0].split("_")[0].slice(8, 12)
-            if (current_Book !== next_Book){
+            const next_book = getBook(next_itracks)
+            const next_chaper = getChapter(next_itracks)
+            const next_sentence = getSentence(next_itracks)
+            if (current_book !== next_book){
                 return
             }
-            if (current_Chapter !== next_Chapter && "S000" === next_Sentence){
+            if (current_chaper !== next_chaper && "S000" === next_sentence){
                 itracks = next_itracks
                 play()
                 return
@@ -207,7 +213,6 @@ const FactoryAudio = function () {
         } else {
            play(); 
         };
-        
     }
 
     function sentence_down(){
@@ -230,46 +235,40 @@ const FactoryAudio = function () {
     }
 
     function togglePlayPause() {
-        if (this.innerHTML === "‖") {
-            this.innerHTML = "▷";
+        const element = document.getElementById("pause")
+        if (element.innerHTML === "‖") {
+            element.innerHTML = "▷";
             pause_play()
           } else {
-            this.innerHTML = "‖";
-
+            element.innerHTML = "‖";
             play()
           }
     }
 
     function toggleRepeat() {
-        if (this.innerHTML === "↺") {
-            this.innerHTML = "→";
+        const element = document.getElementById("repeat")
+        if (element.innerHTML === "↺") {
+            element.innerHTML = "→";
             isRepeat = false
-          } else {
-            this.innerHTML = "↺";
+        } else {
+            element.innerHTML = "↺";
             isRepeat = true
-          }
+        }
     }
 
-    
-    document.querySelector("#title").addEventListener("click", toggleButtons)
-    document.querySelector("#text").parentElement.addEventListener("click", function (){
+    function clickTextorEnter() {
         if (document.querySelector("#repeat").innerHTML === "↺"){
             sentence_up()
         } else {
             togglePlayPause()
         }
-    })
+    }
+    
+    document.querySelector("#title").addEventListener("click", toggleButtons)
+    document.querySelector("#text").parentElement.addEventListener("click", clickTextorEnter)
     document.getElementById("pause").addEventListener("click", togglePlayPause);
     document.getElementById("repeat").addEventListener("click", toggleRepeat);
-    document.addEventListener('keydown', function(event) {
-        if (event.key === 'Enter') { 
-            if (document.querySelector("#repeat").innerHTML === "↺"){
-                sentence_up()
-            } else {
-                togglePlayPause()
-            }
-        }
-    });
+    document.addEventListener('keydown', clickTextorEnter);
 
     function navegation_functionality(elementId, func){
         let startTime = 0;
@@ -298,8 +297,8 @@ const FactoryAudio = function () {
     navegation_functionality("chapter_down", chapter_down)
     navegation_functionality("sentence_up", sentence_up)
     navegation_functionality("sentence_down", sentence_down)
-    pause_play()
 
+    pause_play()
     return {
         audio, 
         tracks, 
