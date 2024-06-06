@@ -4,6 +4,18 @@
 // git status
 // clear
 
+let wantFullScreenMode = true
+document.addEventListener("click", enterFullscreenMode)
+function enterFullscreenMode() {
+    if (!document.fullscreenElement && wantFullScreenMode) {
+        if (confirm('Do you want to enter fullscreen mode?')) {
+            document.documentElement.requestFullscreen();
+        } else {
+            wantFullScreenMode = false
+        }
+    }
+}
+
 function* enumerate(iterable) {
     let index = 0;
     for (const item of iterable) {
@@ -56,10 +68,9 @@ function get_tracks_from_text(url) {
 
 function get_tracks(){
     const urls = [
-        "./transcriptions/books/B001/B001_C001_C274.txt",
-        "./transcriptions/books/B002/B002_C001_C130.txt",
-        "./transcriptions/books/B009/B009_C001_C009.json",
-        "./transcriptions/books/B009/B009_C010_C020.txt",
+        "./transcriptions/books/B001/B001_TRANS_ALL.txt",
+        "./transcriptions/books/B002/B002_TRANS_ALL.txt",
+        "./transcriptions/books/B009/B009_TRANS_ALL.txt",
     ]
     let tracks = []
     for (const url of urls) {
@@ -72,18 +83,6 @@ function get_tracks(){
         }
     }
     return tracks
-}
-
-let wantFullScreenMode = true
-document.addEventListener("click", enterFullscreenMode)
-function enterFullscreenMode() {
-    if (!document.fullscreenElement && wantFullScreenMode) {
-        if (confirm('Do you want to enter fullscreen mode?')) {
-            document.documentElement.requestFullscreen();
-        } else {
-            wantFullScreenMode = false
-        }
-    }
 }
 
 const FactoryAudio = function () {
@@ -275,8 +274,6 @@ const FactoryAudio = function () {
             togglePlayPause()
         }
     }
-    
-
 
     document.querySelector("#title").addEventListener("click", toggleButtons)
     document.querySelector("#text").parentElement.addEventListener("click", clickTextorEnter)
