@@ -74,6 +74,18 @@ function get_tracks(){
     return tracks
 }
 
+let wantFullScreenMode = true
+document.addEventListener("click", enterFullscreenMode)
+function enterFullscreenMode() {
+    if (!document.fullscreenElement && wantFullScreenMode) {
+        if (confirm('Do you want to enter fullscreen mode?')) {
+            document.documentElement.requestFullscreen();
+        } else {
+            wantFullScreenMode = false
+        }
+    }
+}
+
 const FactoryAudio = function () {
     const playbackRate = 0.8
     const tracks = get_tracks()
@@ -264,6 +276,8 @@ const FactoryAudio = function () {
         }
     }
     
+
+
     document.querySelector("#title").addEventListener("click", toggleButtons)
     document.querySelector("#text").parentElement.addEventListener("click", clickTextorEnter)
     document.getElementById("pause").addEventListener("click", togglePlayPause);
@@ -297,6 +311,16 @@ const FactoryAudio = function () {
     navegation_functionality("chapter_down", chapter_down)
     navegation_functionality("sentence_up", sentence_up)
     navegation_functionality("sentence_down", sentence_down)
+
+    window.addEventListener('resize', () => {
+        const screenWidth = window.screen.width;
+        const screenHeight = window.screen.height;
+      if (screenWidth > screenHeight * 1.6) {
+        document.querySelector('#title').style.display = 'none';
+      } else {
+        document.querySelector('#title').style.display = 'flex';
+      }
+    });
 
     pause_play()
     return {
